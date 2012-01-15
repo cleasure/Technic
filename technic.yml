@@ -16,7 +16,7 @@ builds:
         mods:
             basemods: v1.2.0
             buildcraft: v2.2.11
-            chargingbench: v1.42-1
+            chargingbench: v1.43
             computercraft: v1.2
             craftingtableii: v1.5
             enderchest: v1.0

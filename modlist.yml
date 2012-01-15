@@ -33,7 +33,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=929"
         versions:
-            v1.42-1:
+            v1.43:
                 md5: "CA36A7C2A9C3DC0EE6CE76C3A3ACAD75"
     computercraft:
         name: "ComputerCraft"
