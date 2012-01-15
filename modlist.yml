@@ -54,7 +54,7 @@ mods:
         optional: true
         versions:
             v1.5:
-                md5: "3ce463a9b2607909d8e095ff9fb10217"
+                md5: "40C09404E6664CF2083E7F07B8867D93"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
@@ -84,7 +84,7 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
             v1.43:
-                md5: "DC076D1C08E5A4B7A7B593D6366BF326"
+                md5: "3E1DE79032E4BD06AB952090FC70A805"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.4
@@ -93,6 +93,15 @@ mods:
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.4
+    ic2advancedmachines:
+        name: "IC2 Advanced Machines"
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
+        versions:
+            v3.1:
+                md5: "568F717F8DF8ED9B249A03FB34ABF854"
     inventorytweaks:
         name: "Inventory Tweaks"
         description: "Tweaks your inventory handling to be more intuitive. Break your iron sword in the heat of battle and don't have time to replace it? No worries, if you have another one handy in your inventory it will automatically be moved into the last slot it was used! Works with all stacked items!"
@@ -162,10 +171,18 @@ mods:
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/#no"
         versions:
             v1.1.0:
-                md5: "2c3bbe6a677ef420a674d6b3e2e67c7c"
+                md5: "2F4535A052067C56B7BC2AEA34A37C4A"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
+    powerconverters:
+        name: "Power Converters"
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        versions:
+            v1.3.0p2:
+                md5: "97F2247F4E9EDFB70D1457CE91AB25ED"
     rc:
         name: "Railcraft"
         description: "Have you ever wished minecarts and rails had received a bit more attention during development? Well that ends now! Gone are all those broken bits and in their place are a ton of new tools to build your massive rail system. If you ever cared about rails, you wont ever look back!"
