@@ -1,8 +1,38 @@
 launcher: 
 current: 
 recommended: 5
-latest: 5
+latest: 6
 builds:
+    6:
+        minecraft: 1.0.0
+        libraries:
+            commons-io: 2.1
+            commons-lang3: 3.1
+            guava: 10.0.1
+            joda-time: 2.0
+            slick: 0.3
+            snakeyaml: 1.9
+            trove4j: 3.0.1
+        mods:
+            basemods: v1.2.0
+            buildcraft: v2.2.11
+            chargingbench: v1.42-1
+            computercraft: v1.2
+            craftingtableii: v1.5
+            enderchest: v1.0
+            forestry: v1.2.6.3
+            ic2: v1.43
+            ic2advancedmachines: v3.1
+            inventorytweaks: v1.35
+            matmos: r8
+            mfr: v1.4.0p2
+            minecraftconsole: v1.1
+            netherores: v1.1.0
+            rc: v2.2.1
+            redpower: v2.0.4c
+            reisminimap: v3.0
+            wirelessredstone: v1.5
+            worldeditcui: v1.0
     5:
         minecraft: 1.0.0
         libraries:

@@ -6,8 +6,11 @@ mods:
         modtype: "content"
         link: ""
         versions:
+            v1.2.0:
+                md5: "0E9261E6492C1731DB6A6440DBF10B48"
             v5.0.5:
                 md5: "2c7fdad80f4e12a489b8a23a96b9ea52"
+
     buildcraft:
         name: "BuildCraft"
         description: "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!"
@@ -15,83 +18,33 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v2.2.11:
+                md5: "02A41F344ACC210D693DA5251FD1A9EA"
+                dependencies:
+                    baseforge: 1.2.4
             v2.2.7: 
                 md5: "03fd974285584b306af080a5e5e6edc7"
                 dependencies:
                     baseforge: 1.2.3
-    buildcraft-additionalpipes:
-        name: "BuildCraft Additional Pipes"
-        description: "This mod adds two new pipes. The TeleportPipe (items) and the OilTeleportPipe(Liquids). I made this mod for the same reason I will ever make most mods: necessity. My computer sucks and 500 stone pipes carrying items = lots of lag. Using a telelporting pipe I can get the items there instantly and have virtually no lag."
+    chargingbench:
+        name: "IC2 Charging Bench"
+        description: "A bench with multiple charging slots so you can charge all of your items at once.  Apply redstone power to the bench to reverse the way it functions."
         installtype: "zip"
         modtype: "content"
-        link: "http://www.minecraftforum.net/topic/653775-mc181bc222-225rev31-buildcraft-teleport-pipes-now-called-additionalpipes/"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=929"
         versions:
-            v3.1: 
-                md5: "97f8c8c4c60fac6bda2b2ba8fa227139"
-                dependencies:
-                    buildcraft: 2.2.7
-    buildcraft-logisticspipes:
-        name: "Logistics Pipes for Buildcraft"
-        description: "Routing Logistical pipes for Buildcraft"
+            v1.42-1:
+                md5: "CA36A7C2A9C3DC0EE6CE76C3A3ACAD75"
+    computercraft:
+        name: "ComputerCraft"
+        description: "Add's Lua based computers to the game"
         installtype: "zip"
         modtype: "content"
-        link: "http://www.mod-buildcraft.com/forums/topic/1-8-1-logistics-pipes-0-0-1alpha-for-buildcraft-2-2-5/"
+        link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
         versions:
-            v0.1.3a: 
-                md5: "f88899e03bea13d2807dbf6218055910"
-                dependencies:
-                    buildcraft: 2.2.7
-            v0.1.2a: 
-                md5: "80e931c510e562708c04c4c3968bf8ea"
-                dependencies:
-                    buildcraft: 2.2.7
-            v0.1.0a:
-                md5: "44639373c33c4f27e7169d57ad7dfedf"
-                dependencies:
-                    buildcraft: 2.2.7                
-    millenaire:
-        name: "Millenaire"
-        description: "Millenaire is a single-player mod for Minecraft. It aims to fill the 'emptyness' of single-player worlds by adding NPC villages to it, with loose 11th-century Norman, North Indian and Mayans themes and additional cultures planned."
-        installtype: "zip"
-        modtype: "environment"
-        link: "http://www.millenaire.org/"
-        optional: true
-        versions:
-            v2.0.9:
-                md5: "8b9aeddb5df836183758e63f72c594f8"
-                dependencies:
-                    baseModloader: 1.0.0
-            v2.0.7:
-                md5: "85bf45380b521bbc6b66f19c229e24f1"
-                dependencies:
-                    baseModloader: 1.0.0
-            v2.0:
-                md5: "d0f64dcfa52ac7e29642ed3e9e8314b0"
-                dependencies:
-                    baseModloader: 1.0.0
-    thaumcraft:
-        name: "Thaumcraft"
-        description: "At its core this mod allows you to turn raw matter in vis, which can then be used to power magical symbols, enchant items or even turn back into different, slightly tastier kinds of matter."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/838839-100-thaumcraft-11-updated-on-21122011/"
-        optional: true
-        versions:
-            v1.2.1:
-                md5: "7b2d01f4085faf66b16d52d0b8b7f3f4"
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-            v1.1:
-                md5: "79a7beb7a47518af0f41ed958ae7d48c"
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-            v1.0.3:
-                md5: "1597d70d092033002d78bcb263b959a7"
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
+            v1.2:
+                md5: "5EEFE5BC665FB7D3D91199CF3AC86F23"
+                
     craftingtableii:
         name: "Crafting Table II"
         description: "Inspired by Terraria crafting, Crafting Table II displays everything you can currently craft with the items in your inventory. How much of each item the recipe uses is displayed on the left as well as a description of that item, click on the item and the Crafting Table II will automatically craft it for you without you ever having to remember recipes. As you add and remove items from your inventory the list of available items updates. Works with any recipe, including mods."
@@ -105,88 +58,41 @@ mods:
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
-    lasermod:
-        name: "The Laser Mod"
-        description: "Use the laser mod to defense your house, as a light source, or for a mob-trap and much more!"
+    enderchest:
+        name: "EnderChest"
+        desctiption: ""
         installtype: "zip"
         modtype: "content"
-        link: "http://www.minecraftforum.net/topic/515159-100-the-laser-mod-v12-drill-panels-and-more/"
-        optional: true
+        link: "http://www.minecraftforum.net/topic/909223-100181-chickenbones-mods/"
         versions:
-            v1.2:
-                md5: "04fd9390c879511ae843bcca88b1bd69"
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-    turretmod:
-        name: "Turret Mod"
-        description: "This mod adds 6 types of defense turrets and a defense bot incl. 23 new items and 17 achievements into Minecraft. The turrets are grouped in tech stages T1 to T4, (actually) one unique type and one defense bot. With the turret book you can read the details of all turrets, with the turret control unit you can set the targets for the turrets and some more and with the Turret Item Book you can read the details of nearly all items from this mod. T1 shoots arrows, T2 shoots bullets and so on. An ideal addition to your base / home defense!"
+            v1.0:
+                md5: "C9C3AC21F478E091B4514F41E3802062"
+    forestry:
+        name: "Forestry"
+        desctiption: ""
         installtype: "zip"
         modtype: "content"
-        link: "http://www.minecraftforum.net/topic/562836-100-sp-turret-mod-v-13-02/"
-        optional: true
+        link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
-            v1.3.2:
-                md5: "360b2451274f87b3b17a55ce54e7b609"
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseAudioMod: 1.0.0
-                    baseforge: 1.2.3
-    balkonsweaponmod:
-        name: "Balkon's WeaponMod"
-        description: "Throw a spear in a zombie's head! Cut a skeleton in half with your brand new halberd! Shoot some slimes in pieces with an old musket! And more!"
+            v1.2.6.3:
+                md5: "89F3EAE3E66C1DDE1E52298453A1ED6F"
+    ic2:
+        name: "Industrial Craft 2"
+        description: "This is it. IC2, the future of IC. While playing it, you will feel right at home again, rediscovering most of the stuff known from IC. However, once you get your machines running, you will quickly notice how smooth and well-designed everything works now. Wiring is easier, batterys aren't as twosided (on/off) anymore, new cables, rubber stuff, new machines, EVERYTHING was added. Create obstacle courses of Metal Poles and Rubber-Sheets, explore the Nether with an Electrical Jetpack or blow up whole landscapes at once by using the Dynamite-O-Mote. Or discover the much more complex mechanisms of Nuclear Engineering, blow up your hut or burn your hands. Or grab the rusty ol Composite Vest, and start hunting Creepers with the new, allmighty NanoSaber."
         installtype: "zip"
         modtype: "content"
-        link: "http://www.minecraftforum.net/topic/211517-10-balkons-weaponmod-v82/"
-        optional: true
+        link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
-            v8.2:
-                md5: "98c5f2f1c64ce3be377ddfa417ef52e5"
+            v1.43:
+                md5: "DC076D1C08E5A4B7A7B593D6366BF326"
                 dependencies:
                     baseModloader: 1.0.0
-                    baseforge: 1.2.3
-            v8.1:
-                md5: "d66de08f5004167e75498940db6c2fee"
+                    baseforge: 1.2.4
+            v1.42:
+                md5: "7da881afa458ec54ec0b2e71dbb85a3e"
                 dependencies:
                     baseModloader: 1.0.0
-                    baseforge: 1.2.3
-    tok:
-        name: "Tale of Kingdoms"
-        description: "Tale of Kingdoms is an adventure RPG mod where you prove your worth as a King, fight evil and eventually raise your own Kingdom. The mod currently includes the starting guild, where you must prove to the Guild Master that you are worthy of ruling your Kingdom, as well as several different NPC, friendly, neutral and aggressive. The mod is still in development, but already it has proven itself to many as a fun, enjoyable Minecraft experience."
-        installtype: "zip"
-        modtype: "environment"
-        link: "http://www.minecraftforum.net/topic/751960-100-tale-of-kingdoms-version-130-pre2-fixes/"
-        optional: true
-        versions:
-            v1.3.0.2:
-                md5: "ef5df8bbae85e6084e23cb9527fa646f"
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-    redpower:
-        name: "RedPower"
-        description: "Redpower by Eloraam is a mod for minecraft which introduces redstone-like wires, cables, integrated circuits, lights, and more."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.eloraam.com/"
-        versions:
-            v2.0.4b:
-                md5: "c4f8acb605084c644790749a58af70d7"
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-    minecraftconsole:
-        name: "Minecraft Console"
-        description: "The Minecraft console mod adds a new GUI console to Minecraft which makes viewing messages a whole lot easier!"
-        installtype: "zip"
-        modtype: "tweak"
-        link: "http://www.minecraftforum.net/topic/680231-181-minecraft-console-v10/"
-        optional: true
-        versions:
-            v1.1:
-                md5: "49cee2cc6abe503ac86131f41c30ea4d"
-                dependencies:
-                    baseModloader: 1.0.0
+                    baseforge: 1.2.4
     inventorytweaks:
         name: "Inventory Tweaks"
         description: "Tweaks your inventory handling to be more intuitive. Break your iron sword in the heat of battle and don't have time to replace it? No worries, if you have another one handy in your inventory it will automatically be moved into the last slot it was used! Works with all stacked items!"
@@ -203,77 +109,14 @@ mods:
                 md5: "5f883813e1c12553cd6525a40d2edd58"
                 dependencies:
                     baseModloader: 1.0.0
-    reisminimap:
-        name: "Rei's Minimap"
-        description: "Adds a realtime minimap with features such as waypoints, cave maps and entity locations."
+    matmos:
+        name: "MAtmos"
+        description: ""
         installtype: "zip"
-        modtype: "tweak"
-        link: "http://www.minecraftforum.net/topic/482147-100b181b19pre5jan01-reis-minimap-v29-01/"
-        optional: true
+        modtype: "audio"
         versions:
-            v2.9.01:
-                md5: "d3d82e19aaa6caadde42bf8a80a83e2f"
-                dependencies:
-                    baseModloader: 1.0.0
-            v2.9:
-                md5: "b94f7ddaacdc0f3f7edce53afa531967"
-                dependencies:
-                    baseModloader: 1.0.0
-    treecapitator:
-        name: "Treecapitator"
-        description: "This makes so destroying a log block with an axe makes all the connected wood blocks above it fall aswell. Based on Terraria tree-cutting style."
-        installtype: "zip"
-        modtype: "tweak"
-        link: "http://www.minecraftforum.net/topic/124117-100-daftpvfs-mods/"
-        optional: true
-        versions:
-            v1.0.0:
-                md5: "eb6295d856c4c87d898e41c82add977c"
-                dependencies:
-                    baseModloader: 1.0.0
-    airships:
-        name: "Airships"
-        description: "AIRSHIP, SKY PIRATES & STEAMBOAT"
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/164940-100pchan3s-mods-airship-sky-pirates-steamboat/"
-        versions:
-            v2.5.1:
-                md5: "253b4c87fbd05039620b08f1b42e223e"
-                dependencies:
-                    baseModloader: 1.0.0
-    ic2:
-        name: "Industrial Craft 2"
-        description: "This is it. IC2, the future of IC. While playing it, you will feel right at home again, rediscovering most of the stuff known from IC. However, once you get your machines running, you will quickly notice how smooth and well-designed everything works now. Wiring is easier, batterys aren't as twosided (on/off) anymore, new cables, rubber stuff, new machines, EVERYTHING was added. Create obstacle courses of Metal Poles and Rubber-Sheets, explore the Nether with an Electrical Jetpack or blow up whole landscapes at once by using the Dynamite-O-Mote. Or discover the much more complex mechanisms of Nuclear Engineering, blow up your hut or burn your hands. Or grab the rusty ol Composite Vest, and start hunting Creepers with the new, allmighty NanoSaber."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
-        versions:
-            v1.43:
-                md5: "6c2b853de664186854d53122c81d7fb1"
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-            v1.42:
-                md5: "7da881afa458ec54ec0b2e71dbb85a3e"
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
-    craftguide:
-        name: "CraftGuide"
-        description: "It was created as a result of how useful Risugami's RecipeBook is, but how quickly it became a hassle to navigate once you have a hundred pages at the time. RecipeBook has improved greatly since then, though. (In my opinion, the single greatest change was the addition of the scroll wheel as a way to navigate quickly)"
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/731133-100-craftguide-v131/"
-        versions:
-            v1.3.1:
-                md5: "1cebc5ca4802895d69afc69ffef6eb9c"
-                dependencies:
-                    baseModloader: 1.0.0
-            v1.3.0:
-                md5: "ec6cdf2d4fde191efa4b987f71e7668c"
-                dependencies:
-                    baseModloader: 1.0.0
+            r8:
+                md5: "4E1ED1BE7B0202EDE9AA20F9B1E99714"
     mfr:
         name: "MineFactory Reloaded"
         description: "A way to automatically farm plants and animals, as well some new rail tracks! With this mod you can set up a completely automated farm for any of these things that requires no real work aside from collecting the harvests and reloading the planter, without incredibly complex and unwieldy water/piston solutions. And you can milk cows to death or otherwise run livestock farms if you need those resources. Oh and it has conveyor belts too."
@@ -281,6 +124,12 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
         versions:
+            v1.4.0p2:
+                md5: "34D815F293464549DC67CC1DAD629D92"
+                dependencies:
+                    baseModloader: 1.0.0
+                    baseforge: 1.2.4
+                    buildcraft: 2.2.11
             v1.4.0p:
                 md5: "4037ff08b34f500b3c41e94c6d1c144c"
                 dependencies:
@@ -293,50 +142,16 @@ mods:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
                     buildcraft: 2.2.7
-    bettershelf:
-        name: "Better Shelf"
-        description: "A better shelf"
+    minecraftconsole:
+        name: "Minecraft Console"
+        description: "The Minecraft console mod adds a new GUI console to Minecraft which makes viewing messages a whole lot easier!"
         installtype: "zip"
-        modtype: "content"
-        link: ""
+        modtype: "tweak"
+        link: "http://www.minecraftforum.net/topic/680231-181-minecraft-console-v10/"
+        optional: true
         versions:
-            v1.0.0:
-                md5: "f96e206f554198288dbf169b14536487"
-                dependencies:
-                    baseModloader: 1.0.0
-    crystalwing:
-        name: "Crystal Wing"
-        description: "With this enchanted wing, you'll be able to teleport back to your spawn point (fancy effects included!)."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/124117-100-daftpvfs-mods/#crystal_wing"
-        versions:
-            v1.0.0:
-                md5: "f771872143af47f2d65fa406cb2d5002"
-                dependencies:
-                    baseModloader: 1.0.0
-    ee:
-        name: "Equivalent Exchange"
-        description: "This mod allows you to transmute tons of materials into other materials. It adds a lot of what is classified by many as 'endgame content', to make you feel more godlike in your sandbox world. If this offends your Minecrafting sensibilities, this may not be the mod for you."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/364525-100-equivalent-exchange-v573/"
-        versions:
-            v5.7.3:
-                md5: "c0ab2c74369f32c74c0acb3ad3f87bc8"
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseAudioMod: 1.0.0
-                    baseforge: 1.2.3
-    tomes:
-        name: "Tomes"
-        description: "Tomes are player writable books."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/821714-100-pinkemmas-mods-xp-book-sspsmp-tomes-sspsmp-writable-books-new-update-8th-of-dec/#tomes"
-        versions:
-            v3:
-                md5: "5b688d34e62ffbd21e766257a1aeeef0"
+            v1.1:
+                md5: "49cee2cc6abe503ac86131f41c30ea4d"
                 dependencies:
                     baseModloader: 1.0.0
     netherores:
@@ -359,12 +174,12 @@ mods:
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
             v2.2.1:
-                md5: "ed3fbac4c440b13087e01cc9660dc38c"
+                md5: "87198B1E43359F960ABBBBFA2676F509"
                 dependencies:
                     baseModloader: 1.0.0
-                    baseforge: 1.2.3
-                    basemcl: 4.0
-                    buildcraft: 2.2.7
+                    baseforge: 1.2.4
+                    basemcl: 4.1
+                    buildcraft: 2.2.11
                     
             v2.1.1:
                 md5: "b6637143ac02d02481482094a1c8d483"
@@ -373,38 +188,41 @@ mods:
                     baseforge: 1.2.2
                     basemcl: 4.0
                     buildcraft: 2.2.7
-    recipehelper:
-        name: "Recipe Helper"
-        description: "Press [P] key to show a new screen, that shows recipes using item that you put in it. Like - put stick in it - see all the recipes using sticks and recipes making sticks."
+    redpower:
+        name: "RedPower"
+        description: "Redpower by Eloraam is a mod for minecraft which introduces redstone-like wires, cables, integrated circuits, lights, and more."
         installtype: "zip"
         modtype: "content"
-        link: "http://www.minecraftforum.net/topic/78064-ssp10-shockahs-mods-updating-in-progress-sapi-r12/#Crafting"
+        link: "http://www.eloraam.com/"
         versions:
-            v4:
-                md5: "1b7568f7486b0d508645df48f5dfd237"
+            v2.0.4c:
+                md5: "E1ADD5BC73E020AD797E5584225EB7E5"
                 dependencies:
                     baseModloader: 1.0.0
-    redstoneremote:
-        name: "Redstone Remote"
-        description: "Have you ever wanted to control your redstone contraptions from the palm of your (mouse)hand? Now you can! Redstone Remote allows you to control any 'receiver' block you have line of sight to."
-        installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/#rr"
-        versions:
-            v1.1.0:
-                md5: "7162d546b80b2bdf3cd663ed95c5e6f8"
+                    baseforge: 1.2.4
+            v2.0.4b:
+                md5: "c4f8acb605084c644790749a58af70d7"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
-    startinginventory:
-        name: "Starting Inventory"
-        description: "This mod gives you items and blocks each time you start a new world, just by editing a .txt file."
+    reisminimap:
+        name: "Rei's Minimap"
+        description: "Adds a realtime minimap with features such as waypoints, cave maps and entity locations."
         installtype: "zip"
-        modtype: "content"
-        link: "http://www.minecraftforum.net/topic/124117-100-daftpvfs-mods/#starting_inventory"
+        modtype: "tweak"
+        link: "http://www.minecraftforum.net/topic/482147-100b181b19pre5jan01-reis-minimap-v29-01/"
+        optional: true
         versions:
-            v1.0.0:
-                md5: "2393137219377c6b93bace35fc52366f"
+            v3.0:
+                md5: "2A282F6EE76F9A5711A1415427D96C9D"
+                dependencies:
+                    baseModloader: 1.0.0
+            v2.9.01:
+                md5: "d3d82e19aaa6caadde42bf8a80a83e2f"
+                dependencies:
+                    baseModloader: 1.0.0
+            v2.9:
+                md5: "b94f7ddaacdc0f3f7edce53afa531967"
                 dependencies:
                     baseModloader: 1.0.0
     wirelessredstone:
@@ -415,10 +233,19 @@ mods:
         link: "http://www.minecraftforum.net/topic/328725-100wireless-redstone-v15/"
         versions:
             v1.5:
-                md5: "b19d2f8180d17cc41a3c93a33e6ba6d5"
+                md5: "A223858EE8D4526D239C2217EE79E944"
                 dependencies:
                     baseModloader: 1.0.0
             v1.4:
                 md5: "d9753f6e811b8da011c289574bec26f6"
                 dependencies:
                     baseModloader: 1.0.0
+    worldeditcui:
+        name: "WorldEdit CUI"
+        description: ""
+        installtype: "zip"
+        modtype: "UI"
+        link: "http://www.minecraftforum.net/topic/885099-11-worldeditcui-worldedit-client-user-interface-v11a/"
+        versions:
+            v1.0:
+                md5: "521E63B398E8D629E8603C0E26C0A750"
