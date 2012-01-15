@@ -1,0 +1,7 @@
+modpacks:
+    1:
+        name: "Technic"
+        filename: "technic"
+    2:
+        name: "YogBox"
+        filename: "yogbox"
