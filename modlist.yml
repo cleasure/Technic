@@ -6,14 +6,8 @@ mods:
         modtype: "content"
         link: ""
         versions:
-            v1.2.0-OptiFine-AA:
-                md5: "D028A3717834E200CEA3EF98AB46DDAC"
-            v1.2.0-OptiFine-MT:
-                md5: "7C2000D3645C0C921E3DB8267DBD3858"
-            v1.2.0-OptiFine-S:
-                md5: "A173B2E34DC6E35698CEDCA6091BB0E1"
-            v1.2.0-OptiFine:
-                md5: "CC4F36000399D74D6C1D0BC4CDEC6183"
+            v1.2.0-S:
+                md5: "8AB3B6EEF1A25D1D7982CCF51C7217A4"
             v1.2.0:
                 md5: "0E9261E6492C1731DB6A6440DBF10B48"
             v5.0.5:
