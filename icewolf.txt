@@ -1,0 +1,1 @@
+add launcher.md5 and technic-launcher.jar to the server and we are good.. i added technic logo after loading splash :D

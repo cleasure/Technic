@@ -101,7 +101,7 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
         versions:
             v3.1:
-                md5: "568F717F8DF8ED9B249A03FB34ABF854"
+                md5: "DCC6801EC165C6F4AB609E3CE444FC4C"
     inventorytweaks:
         name: "Inventory Tweaks"
         description: "Tweaks your inventory handling to be more intuitive. Break your iron sword in the heat of battle and don't have time to replace it? No worries, if you have another one handy in your inventory it will automatically be moved into the last slot it was used! Works with all stacked items!"

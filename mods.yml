@@ -1,0 +1,29 @@
+mods:
+    1:
+        name: "Single Player Commands"
+        description: "Adds the ability to type in commands to do various things in singleplayer"
+        installtype: "jar"
+        filenames: "spc"
+    2:
+        name: "Too Many Items"
+        description: "Adds a menu to give yourself items, change the weather, and change the time of day"
+        installtype: "jar"
+        filenames: "tmi"
+    3:
+        name: "OptiFine 1.0.0_HD_B2"
+        description: "Classic edition. Adds support for HD textures, HD fonts, and BetterGrass among other things"
+        installtype: "jar"
+        filenames: "optifine_hd_b2"
+        groupid: "1"
+    4:
+        name: "OptiFine 1.0.0_HD_S_B2"
+        description: "Smooth edition. Has everything Classic has plus fixes certain lag spike causes."
+        installtype: "jar"
+        filenames: "optifine_hd_s_b2"
+        groupid: "1"
+    5:
+        name: "OptiFine 1.0.0_HD_MT_B2"
+        description: "MultiThreaded edition. Extends Classic and Smooth editions"
+        installtype: "jar"
+        filenames: "optifine_hd_mt_b2"
+        groupid: "1"

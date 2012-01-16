@@ -1,8 +1,18 @@
 launcher: 
 current: 
 recommended: 6
-latest: 6
+latest: 7
 builds:
+    7:
+        minecraft: 1.1.0
+        libraries:
+            commons-io: 2.1
+            commons-lang3: 3.1
+            guava: 10.0.1
+            joda-time: 2.0
+            slick: 0.3
+            snakeyaml: 1.9
+            trove4j: 3.0.1
     6:
         minecraft: 1.0.0
         libraries:
