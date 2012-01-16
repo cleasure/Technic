@@ -3,7 +3,7 @@ current:
 recommended: 6
 latest: 7
 builds:
-    7:
+    "7":
         minecraft: 1.1.0
         libraries:
             commons-io: 2.1
@@ -137,7 +137,7 @@ builds:
             reisminimap: v3.0
             wirelessredstone: v1.5
             worldeditcui: v1.0
-    6:
+    "6":
         minecraft: 1.0.0
         libraries:
             commons-io: 2.1
@@ -168,7 +168,7 @@ builds:
             reisminimap: v3.0
             wirelessredstone: v1.5
             worldeditcui: v1.0
-    5:
+    "5":
         minecraft: 1.0.0
         libraries:
             commons-io: 2.1
@@ -209,7 +209,7 @@ builds:
             redstoneremote: v1.1.0
             startinginventory: v1.0.0
             wirelessredstone: v1.4
-    4:
+    "4":
         minecraft: 1.0.0
         libraries:
             commons-io: 2.1
@@ -223,7 +223,7 @@ builds:
             buildcraft: 2.2.7
             buildcraft-logisticspipes: 0.1.0a
             millenaire: 2.0
-    3:
+    "3":
         minecraft: 1.0.0
         libraries:
             commons-io: 2.1
@@ -237,7 +237,7 @@ builds:
             buildcraft: 2.2.7
             buildcraft-logisticspipes: 0.1.0a
             millenaire: 2.0
-    2:
+    "2":
         minecraft: 1.0.0
         libraries:
             commons-io: 2.1
@@ -247,7 +247,7 @@ builds:
             slick: 0.3
             snakeyaml: 1.9
             trove4j: 3.0.1
-    1:
+    "1":
         minecraft: 1.0.0
         libraries:
             commons-io: 2.1
