@@ -1,7 +1,7 @@
 launcher: 
 current: 
-recommended: 6
-latest: 7
+recommended: "6"
+latest: "7"
 builds:
     "7":
         minecraft: 1.1.0
