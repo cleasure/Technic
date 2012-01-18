@@ -8,6 +8,8 @@ mods:
         versions:
             v1.3.0:
                 md5: "75A8E6E32F0DE7755CE99F9132FADA0E"
+            v1.2.1y:
+                md5: "6B67855B19AE44FE96AED460B33EF32C"
             v1.2.0-S:
                 md5: "3995710DF0B2E5C2D219C801C0D3DA78"
             v1.2.0:
@@ -64,6 +66,19 @@ mods:
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
+    ee:
+        name: "Equivalent Exchange"
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        versions:
+            v5.7.3:
+                md5: "C0AB2C74369F32C74C0ACB3AD3F87BC8"
+    elementalcreepers:
+        name: "Elemental Creepers"
+        versions:
+            v1.9:
+                md5: "4F747F2E37E04B76ECCC4BCE3F284AB1"
     enderchest:
         name: "EnderChest"
         desctiption: ""
@@ -73,6 +88,11 @@ mods:
         versions:
             v1.0:
                 md5: "C9C3AC21F478E091B4514F41E3802062"
+    floatingruins:
+        name: "Floating Ruins"
+        versions:
+            v1.0.0:
+                md5: "A0FCE169B76BC1188DF77AD6E73A2E45"
     forestry:
         name: "Forestry"
         desctiption: ""
@@ -132,6 +152,11 @@ mods:
         versions:
             r8:
                 md5: "4E1ED1BE7B0202EDE9AA20F9B1E99714"
+    millenaire:
+        name: "Millenaire"
+        versions:
+            v2.1:
+                md5: "D45E374354876925BFB096A6C44932C7"
     mfr:
         name: "MineFactory Reloaded"
         description: "A way to automatically farm plants and animals, as well some new rail tracks! With this mod you can set up a completely automated farm for any of these things that requires no real work aside from collecting the harvests and reloading the planter, without incredibly complex and unwieldy water/piston solutions. And you can milk cows to death or otherwise run livestock farms if you need those resources. Oh and it has conveyor belts too."
@@ -169,6 +194,11 @@ mods:
                 md5: "49cee2cc6abe503ac86131f41c30ea4d"
                 dependencies:
                     baseModloader: 1.0.0
+    mocreatures:
+        name: "Mo Creatures"
+        versions:
+            v3.1.0:
+                md5: "F2B351A7F33FA8F579108247BEA7F354"
     netherores:
         name: "Nether Ores"
         description: "This is a fairly basic mod. It makes the eight 'ores' - coal, diamond, gold, iron, lapis, redstone, sopper and tin - spawn in the nether so that you have a reason to go there."
@@ -258,6 +288,21 @@ mods:
                 md5: "b94f7ddaacdc0f3f7edce53afa531967"
                 dependencies:
                     baseModloader: 1.0.0
+    thaumcraft:
+        name: "Thaumcraft"
+        versions:
+            v1.2.1:
+                md5: "7B2D01F4085FAF66B16D52D0B8B7F3F4"
+    tok:
+        name: "Tales of Kingdoms"
+        versions:
+            v1.3.0.3:
+                md5: "DD7A9BA0B782D145909E099DB54C7EB3"
+    treecapitator:
+        name: "Treecapitator"
+        versions:
+            v1.0.0:
+                md5: "EB6295D856C4C87D898E41C82ADD977C"
     wirelessredstone:
         name: "Wireless Redstone"
         description: "Wireless Redstone is a Minecraft modification that allows you to transmit and receive redstone signals without wires. The mod has been in beta for 4 weeks prior to final release, this was done to guarantee as much quality as possible for the final product and to make sure the base mod has room for iteration and expantion."

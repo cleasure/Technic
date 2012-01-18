@@ -1,0 +1,47 @@
+launcher: 
+current: 
+recommended: "2"
+latest: "3"
+builds:
+    "3":
+        minecraft: 1.1.0
+        libraries:
+            commons-io: 2.1
+            commons-lang3: 3.1
+            guava: 10.0.1
+            joda-time: 2.0
+            slick: 0.3
+            snakeyaml: 1.9
+            trove4j: 3.0.1
+    "2":
+        minecraft: 1.0.0
+        libraries:
+            commons-io: 2.1
+            commons-lang3: 3.1
+            guava: 10.0.1
+            joda-time: 2.0
+            slick: 0.3
+            snakeyaml: 1.9
+            trove4j: 3.0.1
+        mods:
+            basemods: v1.2.0y
+            ee: v5.7.3
+            elementalcreepers: v1.9
+            floatingruins: v1.0.0
+            millenaire: v2.1
+            mocreatures: v3.1.0
+            inventorytweaks: v1.35
+            reisminimap: v3.0
+            thaumcraft: v1.2.1
+            tok: v1.3.0.3
+            treecapitator: v1.0.0
+    "1":
+        minecraft: 1.0.0
+        libraries:
+            commons-io: 2.1
+            commons-lang3: 3.1
+            guava: 10.0.1
+            joda-time: 2.0
+            slick: 0.3
+            snakeyaml: 1.9
+            trove4j: 3.0.1
