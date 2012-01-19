@@ -24,6 +24,8 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.1.2:
+                md5: "32D94FB54196FAA3858306835B6ACEF7"
             v2.2.12:
                 md5: "0F83B9C1390CC0D1C48045C8A65C668F"
             v2.2.11:
@@ -34,6 +36,11 @@ mods:
                 md5: "03fd974285584b306af080a5e5e6edc7"
                 dependencies:
                     baseforge: 1.2.3
+    buildcraft-objects:
+        name: "BuildCraft Objects"
+        versions:
+            v56:
+                md5: "173C7E6998B2FFD97F56535AB84CEC5B"
     chargingbench:
         name: "IC2 Charging Bench"
         description: "A bench with multiple charging slots so you can charge all of your items at once.  Apply redstone power to the bench to reverse the way it functions."
@@ -86,6 +93,8 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/909223-100181-chickenbones-mods/"
         versions:
+            v1.0.1:
+                md5: "8CAE2A248BBD26DDEB1F5AEAF48B4F9B"
             v1.0:
                 md5: "C9C3AC21F478E091B4514F41E3802062"
     floatingruins:
@@ -100,6 +109,8 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
+            v1.2.9.15:
+                md5: "4A3DE11802837438E10C2EE12C17AD37"
             v1.2.6.3:
                 md5: "89F3EAE3E66C1DDE1E52298453A1ED6F"
     ic2:
@@ -136,6 +147,8 @@ mods:
         link: "http://www.minecraftforum.net/topic/323444-100spsmp-inventory-tweaks-135-dec-24/"
         optional: true
         versions:
+            v1.36:
+                md5: "F69D0D5C8E73F21B693B2946ECF3112B"
             v1.35:
                 md5: "305e4eff9032a0274ae3822ebb7d35c3"
                 dependencies:
@@ -150,11 +163,15 @@ mods:
         installtype: "zip"
         modtype: "audio"
         versions:
+            r10:
+                md5: "7826EEB0F032A58ADECE8C0642245CAB"
             r8:
                 md5: "4E1ED1BE7B0202EDE9AA20F9B1E99714"
     millenaire:
         name: "Millenaire"
         versions:
+            v2.1.2:
+                md5: "30A925217F1E26DD16DC1DD2FCAAF74E"
             v2.1:
                 md5: "D45E374354876925BFB096A6C44932C7"
     mfr:
@@ -256,7 +273,7 @@ mods:
             v2.0.4d:
                 md5: "A3599D27C121EAB79A81178429DC13B5"
                 dependencies:
-                    baseModloader: 1.0.0
+                    baseModloader: 1.1.0
                     baseforge: 1.3.0
             v2.0.4c:
                 md5: "E1ADD5BC73E020AD797E5584225EB7E5"
@@ -276,6 +293,8 @@ mods:
         link: "http://www.minecraftforum.net/topic/482147-100b181b19pre5jan01-reis-minimap-v29-01/"
         optional: true
         versions:
+            v3.0_01:
+                md5: "B8D7B5A6575F3881F0059C89B518A427"
             v3.0:
                 md5: "2A282F6EE76F9A5711A1415427D96C9D"
                 dependencies:
@@ -291,6 +310,8 @@ mods:
     thaumcraft:
         name: "Thaumcraft"
         versions:
+            v1.2.3:
+                md5: "EFB591BB77DD2075A356AB170634B387"
             v1.2.1:
                 md5: "7B2D01F4085FAF66B16D52D0B8B7F3F4"
     tok:
@@ -298,6 +319,11 @@ mods:
         versions:
             v1.3.0.3:
                 md5: "DD7A9BA0B782D145909E099DB54C7EB3"
+    tomes:
+        name: "Tomes"
+        versions:
+            v4:
+                md5: "C91E193FF1F48BD199DAFE19397084E8"
     treecapitator:
         name: "Treecapitator"
         versions:
