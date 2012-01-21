@@ -1,9 +1,9 @@
 launcher: 
 current: 
-recommended: "1"
-latest: "1"
+recommended: "2"
+latest: "3"
 builds:
-    "1":
+    "3":
         minecraft: 1.1.0
         libraries:
             commons-io: 2.1
@@ -14,16 +14,69 @@ builds:
             snakeyaml: 1.9
             trove4j: 3.0.1
         mods:
-            basemods: technic-v5.1.0
-            buildcraft: v3.1.2
-            buildcraft-objects: v56
-            enderchest: v1.0.1
-            forestry: v1.2.9.15
-            inventorytweaks: v1.36
-            matmos: r10
-            millenaire: v2.1.2
+            basemods: v1.3.0
+            buildcraft: v2.2.12
             rc: v3.0.0
             redpower: v2.0.4d
-            reisminimap: v3.0_01
-            thaumcraft: v1.2.3
-            tomes: v4
+    "2":
+        minecraft: 1.0.0
+        libraries:
+            commons-io: 2.1
+            commons-lang3: 3.1
+            guava: 10.0.1
+            joda-time: 2.0
+            slick: 0.3
+            snakeyaml: 1.9
+            trove4j: 3.0.1
+        mods:
+            basemods: v1.2.0-S
+            buildcraft: v2.2.11
+            chargingbench: v1.43
+            computercraft: v1.2
+            craftingtableii: v1.5
+            enderchest: v1.0
+            forestry: v1.2.6.3
+            ic2: v1.43
+            ic2advancedmachines: v3.1
+            inventorytweaks: v1.35
+            matmos: r8
+            mfr: v1.4.0p2
+            minecraftconsole: v1.1
+            netherores: v1.1.0
+            powerconverters: v1.3.0p2
+            rc: v2.2.1
+            redpower: v2.0.4c
+            reisminimap: v3.0
+            wirelessredstone: v1.5
+            worldeditcui: v1.0
+    "1":
+        minecraft: 1.0.0
+        libraries:
+            commons-io: 2.1
+            commons-lang3: 3.1
+            guava: 10.0.1
+            joda-time: 2.0
+            slick: 0.3
+            snakeyaml: 1.9
+            trove4j: 3.0.1
+        mods:
+            basemods: v1.2.0
+            buildcraft: v2.2.11
+            chargingbench: v1.43
+            computercraft: v1.2
+            craftingtableii: v1.5
+            enderchest: v1.0
+            forestry: v1.2.6.3
+            ic2: v1.43
+            ic2advancedmachines: v3.1
+            inventorytweaks: v1.35
+            matmos: r8
+            mfr: v1.4.0p2
+            minecraftconsole: v1.1
+            netherores: v1.1.0
+            powerconverters: v1.3.0p2
+            rc: v2.2.1
+            redpower: v2.0.4c
+            reisminimap: v3.0
+            wirelessredstone: v1.5
+            worldeditcui: v1.0
