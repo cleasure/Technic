@@ -1,10 +1,4 @@
 modpacks:
-    1:
-        name: "Tekkit"
-        filename: "tekkit"
-    2:
-        name: "Technic SSP"
-        filename: "technic"
-    3:
-        name: "YogBox"
-        filename: "yogbox"
+    tekkit: 'Tekkit'
+    technicssp: 'Technic SSP'
+    yogbox: 'YogBox'

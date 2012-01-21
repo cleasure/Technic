@@ -1,0 +1,41 @@
+launcher: 
+current: 
+recommended: '1'
+latest: '1'
+builds:
+    '1':
+        basedon: 'Base 1.1.0'
+        mods:
+            basemods: technic-v5.1.0
+            buildcraft: v3.1.2
+            buildcraft-objects: v56
+            enderchest: v1.0.1
+            forestry: v1.2.9.15
+            inventorytweaks: v1.36
+            matmos: r10
+            millenaire: v2.1.2
+            rc: v3.0.0
+            redpower: v2.0.4d
+            reisminimap: v3.0_01
+            thaumcraft: v1.2.3
+            tomes: v4
+    'Base 1.1.0'
+        minecraft: 1.1.0
+        libraries:
+            commons-io: 2.1
+            commons-lang3: 3.1
+            guava: 10.0.1
+            joda-time: 2.0
+            slick: 0.3
+            snakeyaml: 1.9
+            trove4j: 3.0.1
+    'Base 1.0.0'
+        minecraft: 1.0.0
+        libraries:
+            commons-io: 2.1
+            commons-lang3: 3.1
+            guava: 10.0.1
+            joda-time: 2.0
+            slick: 0.3
+            snakeyaml: 1.9
+            trove4j: 3.0.1
