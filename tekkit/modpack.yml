@@ -56,7 +56,7 @@ builds:
             reisminimap: v3.0
             wirelessredstone: v1.5
             worldeditcui: v1.0
-    'Base 1.1.0'
+    'Base 1.1.0':
         minecraft: 1.1.0
         libraries:
             commons-io: 2.1
@@ -66,7 +66,7 @@ builds:
             slick: 0.3
             snakeyaml: 1.9
             trove4j: 3.0.1
-    'Base 1.0.0'
+    'Base 1.0.0':
         minecraft: 1.0.0
         libraries:
             commons-io: 2.1

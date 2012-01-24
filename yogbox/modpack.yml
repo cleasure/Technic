@@ -17,7 +17,7 @@ builds:
             thaumcraft: v1.2.1
             tok: v1.3.0.3
             treecapitator: v1.0.0
-    'Base 1.1.0'
+    'Base 1.1.0':
         minecraft: 1.1.0
         libraries:
             commons-io: 2.1
@@ -27,7 +27,7 @@ builds:
             slick: 0.3
             snakeyaml: 1.9
             trove4j: 3.0.1
-    'Base 1.0.0'
+    'Base 1.0.0':
         minecraft: 1.0.0
         libraries:
             commons-io: 2.1
