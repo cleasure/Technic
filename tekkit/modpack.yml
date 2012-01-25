@@ -1,32 +1,27 @@
-launcher: 
-current: 
+launcher: 0.5.0
+current:
 recommended: b2
 latest: b3
 lib-1: &lib-1
-    libraries:
-        commons-io: 2.1
-        commons-lang3: 3.1
-        guava: 10.0.1
-        joda-time: 2.0
-        slick: 0.3
-        snakeyaml: 1.9
-        trove4j: 3.0.1
-orig-1.1.0: &orig-1-1-0
-    << : [*lib-1]
-    minecraft: 1.1.0
-orig-1.0.0: &orig-1-0-0
-    << : [*lib-1]
-    minecraft: 1.0.0
+    commons-io: 2.1
+    commons-lang3: 3.1
+    guava: 10.0.1
+    joda-time: 2.0
+    slick: 0.3
+    snakeyaml: 1.9
+    trove4j: 3.0.1
 builds:
     b3:
-        << : [*orig-1-1-0]
+        libraries: *lib-1
+        minecraft: 1.1.0
         mods:
             basemods: v1.3.0
             buildcraft: v2.2.12
             rc: v3.0.0
             redpower: v2.0.4d
     b2:
-        << : [*orig-1-0-0]
+        libraries: *lib-1
+        minecraft: 1.0.0
         mods:
             basemods: v1.2.0-S
             buildcraft: v2.2.11
@@ -49,7 +44,8 @@ builds:
             wirelessredstone: v1.5
             worldeditcui: v1.0
     b1:
-        << : [*orig-1-0-0]
+        libraries: *lib-1
+        minecraft: 1.0.0
         mods:
             basemods: v1.2.0
             buildcraft: v2.2.11
