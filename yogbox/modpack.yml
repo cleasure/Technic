@@ -1,10 +1,10 @@
 launcher: 
 current: 
-recommended: '1'
-latest: '1'
+recommended: b1
+latest: b1
 builds:
-    '1':
-        basedon: 'Base 1.0.0'
+    b1:
+        basedon: orig-1.1.0
         mods:
             basemods: v1.2.0y
             ee: v5.7.3
@@ -17,18 +17,13 @@ builds:
             thaumcraft: v1.2.1
             tok: v1.3.0.3
             treecapitator: v1.0.0
-    'Base 1.1.0':
+    orig-1.1.0:
+        basedon: libraries
         minecraft: 1.1.0
-        libraries:
-            commons-io: 2.1
-            commons-lang3: 3.1
-            guava: 10.0.1
-            joda-time: 2.0
-            slick: 0.3
-            snakeyaml: 1.9
-            trove4j: 3.0.1
-    'Base 1.0.0':
+    orig-1.0.0:
+        basedon: libraries
         minecraft: 1.0.0
+    libraries:
         libraries:
             commons-io: 2.1
             commons-lang3: 3.1

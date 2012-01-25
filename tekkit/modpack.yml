@@ -1,7 +1,7 @@
-launcher: 0.5.0
-current: '2'
-recommended: '2'
-latest: '3'
+launcher: 
+current: 
+recommended: b2
+latest: b3
 builds:
     b3:
         basedon: orig-1.1.0
@@ -57,17 +57,12 @@ builds:
             wirelessredstone: v1.5
             worldeditcui: v1.0
     orig-1.1.0:
+        basedon: libraries
         minecraft: 1.1.0
-        libraries:
-            commons-io: 2.1
-            commons-lang3: 3.1
-            guava: 10.0.1
-            joda-time: 2.0
-            slick: 0.3
-            snakeyaml: 1.9
-            trove4j: 3.0.1
     orig-1.0.0:
+        basedon: libraries
         minecraft: 1.0.0
+    libraries:
         libraries:
             commons-io: 2.1
             commons-lang3: 3.1
