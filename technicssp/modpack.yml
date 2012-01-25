@@ -3,8 +3,7 @@ current:
 recommended: b1
 latest: b1
 builds:
-    b1:
-        basedon: orig-1.1.0
+    b1: *orig1.1.0
         mods:
             basemods: technic-v5.1.0
             buildcraft: v3.1.2
@@ -19,18 +18,16 @@ builds:
             reisminimap: v3.0_01
             thaumcraft: v1.2.3
             tomes: v4
-    orig-1.1.0:
-        basedon: libraries
-        minecraft: 1.1.0
-    orig-1.0.0:
-        basedon: libraries
-        minecraft: 1.0.0
+orig-1.1.0: &orig1.0.0 *lib01
+    minecraft: 1.1.0
+orig-1.0.0: &orig1.0.0 *lib01
+    minecraft: 1.0.0
+libraries-01: &lib01
     libraries:
-        libraries:
-            commons-io: 2.1
-            commons-lang3: 3.1
-            guava: 10.0.1
-            joda-time: 2.0
-            slick: 0.3
-            snakeyaml: 1.9
-            trove4j: 3.0.1
+        commons-io: 2.1
+        commons-lang3: 3.1
+        guava: 10.0.1
+        joda-time: 2.0
+        slick: 0.3
+        snakeyaml: 1.9
+        trove4j: 3.0.1

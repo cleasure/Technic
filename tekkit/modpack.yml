@@ -3,15 +3,13 @@ current:
 recommended: b2
 latest: b3
 builds:
-    b3:
-        basedon: orig-1.1.0
+    b3: *orig1.1.0
         mods:
             basemods: v1.3.0
             buildcraft: v2.2.12
             rc: v3.0.0
             redpower: v2.0.4d
-    b2:
-        basedon: orig-1.0.0
+    b2: *orig1.0.0
         mods:
             basemods: v1.2.0-S
             buildcraft: v2.2.11
@@ -33,8 +31,7 @@ builds:
             reisminimap: v3.0
             wirelessredstone: v1.5
             worldeditcui: v1.0
-    b1:
-        basedon: orig-1.0.0
+    b1: *orig1.0.0
         mods:
             basemods: v1.2.0
             buildcraft: v2.2.11
@@ -56,18 +53,16 @@ builds:
             reisminimap: v3.0
             wirelessredstone: v1.5
             worldeditcui: v1.0
-    orig-1.1.0:
-        basedon: libraries
-        minecraft: 1.1.0
-    orig-1.0.0:
-        basedon: libraries
-        minecraft: 1.0.0
+orig-1.1.0: &orig1.0.0 *lib01
+    minecraft: 1.1.0
+orig-1.0.0: &orig1.0.0 *lib01
+    minecraft: 1.0.0
+libraries-01: &lib01
     libraries:
-        libraries:
-            commons-io: 2.1
-            commons-lang3: 3.1
-            guava: 10.0.1
-            joda-time: 2.0
-            slick: 0.3
-            snakeyaml: 1.9
-            trove4j: 3.0.1
+        commons-io: 2.1
+        commons-lang3: 3.1
+        guava: 10.0.1
+        joda-time: 2.0
+        slick: 0.3
+        snakeyaml: 1.9
+        trove4j: 3.0.1
