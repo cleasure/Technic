@@ -7,16 +7,10 @@ mods:
         link: ""
         versions:
             v1.3.0:
-                md5: "75A8E6E32F0DE7755CE99F9132FADA0E"
             v1.2.1y:
-                md5: "6B67855B19AE44FE96AED460B33EF32C"
             v1.2.0-S:
-                md5: "b2bb0c3806222a8b03077e1f5ad1d357"
             v1.2.0:
-                md5: "0E9261E6492C1731DB6A6440DBF10B48"
             v5.0.5:
-                md5: "2c7fdad80f4e12a489b8a23a96b9ea52"
-
     buildcraft:
         name: "BuildCraft"
         description: "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!"
@@ -25,11 +19,12 @@ mods:
         link: "http://www.mod-buildcraft.com/"
         versions:
             v3.1.2:
-                md5: "32D94FB54196FAA3858306835B6ACEF7"
+                dependencies:
+                    baseforge: 1.2.4
             v2.2.12:
-                md5: "0F83B9C1390CC0D1C48045C8A65C668F"
+                dependencies:
+                    baseforge: 1.2.4
             v2.2.11:
-                md5: "02A41F344ACC210D693DA5251FD1A9EA"
                 dependencies:
                     baseforge: 1.2.4
             v2.2.7: 
@@ -41,7 +36,8 @@ mods:
         installtype: "zip"
         versions:
             v56:
-                md5: "173C7E6998B2FFD97F56535AB84CEC5B"
+                dependencies:
+                    buildcraft: v2.2.7
     chargingbench:
         name: "IC2 Charging Bench"
         description: "A bench with multiple charging slots so you can charge all of your items at once.  Apply redstone power to the bench to reverse the way it functions."
@@ -50,7 +46,8 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=929"
         versions:
             v1.43:
-                md5: "CA36A7C2A9C3DC0EE6CE76C3A3ACAD75"
+                dependencies:
+                    ic2: v1.43
     computercraft:
         name: "ComputerCraft"
         description: "Add's Lua based computers to the game"
@@ -59,8 +56,6 @@ mods:
         link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
         versions:
             v1.2:
-                md5: "5EEFE5BC665FB7D3D91199CF3AC86F23"
-                
     craftingtableii:
         name: "Crafting Table II"
         description: "Inspired by Terraria crafting, Crafting Table II displays everything you can currently craft with the items in your inventory. How much of each item the recipe uses is displayed on the left as well as a description of that item, click on the item and the Crafting Table II will automatically craft it for you without you ever having to remember recipes. As you add and remove items from your inventory the list of available items updates. Works with any recipe, including mods."
@@ -70,7 +65,6 @@ mods:
         optional: true
         versions:
             v1.5:
-                md5: "40C09404E6664CF2083E7F07B8867D93"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
@@ -81,13 +75,11 @@ mods:
         modtype: "content"
         versions:
             v5.7.3:
-                md5: "C0AB2C74369F32C74C0ACB3AD3F87BC8"
     elementalcreepers:
         name: "Elemental Creepers"
         installtype: "zip"
         versions:
             v1.9:
-                md5: "4F747F2E37E04B76ECCC4BCE3F284AB1"
     enderchest:
         name: "EnderChest"
         desctiption: ""
@@ -96,15 +88,12 @@ mods:
         link: "http://www.minecraftforum.net/topic/909223-100181-chickenbones-mods/"
         versions:
             v1.0.1:
-                md5: "8CAE2A248BBD26DDEB1F5AEAF48B4F9B"
             v1.0:
-                md5: "C9C3AC21F478E091B4514F41E3802062"
     floatingruins:
         name: "Floating Ruins"
         installtype: "zip"
         versions:
             v1.0.0:
-                md5: "A0FCE169B76BC1188DF77AD6E73A2E45"
     forestry:
         name: "Forestry"
         desctiption: ""
@@ -113,9 +102,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
             v1.2.9.15:
-                md5: "4A3DE11802837438E10C2EE12C17AD37"
             v1.2.6.3:
-                md5: "89F3EAE3E66C1DDE1E52298453A1ED6F"
     ic2:
         name: "Industrial Craft 2"
         description: "This is it. IC2, the future of IC. While playing it, you will feel right at home again, rediscovering most of the stuff known from IC. However, once you get your machines running, you will quickly notice how smooth and well-designed everything works now. Wiring is easier, batterys aren't as twosided (on/off) anymore, new cables, rubber stuff, new machines, EVERYTHING was added. Create obstacle courses of Metal Poles and Rubber-Sheets, explore the Nether with an Electrical Jetpack or blow up whole landscapes at once by using the Dynamite-O-Mote. Or discover the much more complex mechanisms of Nuclear Engineering, blow up your hut or burn your hands. Or grab the rusty ol Composite Vest, and start hunting Creepers with the new, allmighty NanoSaber."
@@ -124,12 +111,10 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
             v1.43:
-                md5: "3E1DE79032E4BD06AB952090FC70A805"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.4
             v1.42:
-                md5: "7da881afa458ec54ec0b2e71dbb85a3e"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.4
@@ -141,7 +126,6 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
         versions:
             v3.1:
-                md5: "DCC6801EC165C6F4AB609E3CE444FC4C"
     inventorytweaks:
         name: "Inventory Tweaks"
         description: "Tweaks your inventory handling to be more intuitive. Break your iron sword in the heat of battle and don't have time to replace it? No worries, if you have another one handy in your inventory it will automatically be moved into the last slot it was used! Works with all stacked items!"
@@ -151,13 +135,10 @@ mods:
         optional: true
         versions:
             v1.36:
-                md5: "F69D0D5C8E73F21B693B2946ECF3112B"
             v1.35:
-                md5: "305e4eff9032a0274ae3822ebb7d35c3"
                 dependencies:
                     baseModloader: 1.0.0
             v1.34b:
-                md5: "5f883813e1c12553cd6525a40d2edd58"
                 dependencies:
                     baseModloader: 1.0.0
     matmos:
@@ -167,17 +148,13 @@ mods:
         modtype: "audio"
         versions:
             r10:
-                md5: "7826EEB0F032A58ADECE8C0642245CAB"
             r8:
-                md5: "4E1ED1BE7B0202EDE9AA20F9B1E99714"
     millenaire:
         name: "Millenaire"
         installtype: "zip"
         versions:
             v2.1.2:
-                md5: "30A925217F1E26DD16DC1DD2FCAAF74E"
             v2.1:
-                md5: "D45E374354876925BFB096A6C44932C7"
     mfr:
         name: "MineFactory Reloaded"
         description: "A way to automatically farm plants and animals, as well some new rail tracks! With this mod you can set up a completely automated farm for any of these things that requires no real work aside from collecting the harvests and reloading the planter, without incredibly complex and unwieldy water/piston solutions. And you can milk cows to death or otherwise run livestock farms if you need those resources. Oh and it has conveyor belts too."
@@ -186,19 +163,16 @@ mods:
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
         versions:
             v1.4.0p2:
-                md5: "34D815F293464549DC67CC1DAD629D92"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.4
                     buildcraft: 2.2.11
             v1.4.0p:
-                md5: "4037ff08b34f500b3c41e94c6d1c144c"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
                     buildcraft: 2.2.11
             v1.4.0:
-                md5: "8b3586847eff0cba79438cfa4d82ed28"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
@@ -212,7 +186,6 @@ mods:
         optional: true
         versions:
             v1.1:
-                md5: "49cee2cc6abe503ac86131f41c30ea4d"
                 dependencies:
                     baseModloader: 1.0.0
     mocreatures:
@@ -220,7 +193,6 @@ mods:
         name: "Mo Creatures"
         versions:
             v3.1.0:
-                md5: "F2B351A7F33FA8F579108247BEA7F354"
     netherores:
         name: "Nether Ores"
         description: "This is a fairly basic mod. It makes the eight 'ores' - coal, diamond, gold, iron, lapis, redstone, sopper and tin - spawn in the nether so that you have a reason to go there."
@@ -229,7 +201,6 @@ mods:
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/#no"
         versions:
             v1.1.0:
-                md5: "2F4535A052067C56B7BC2AEA34A37C4A"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
@@ -240,7 +211,6 @@ mods:
         modtype: "content"
         versions:
             v1.3.0p2:
-                md5: "97F2247F4E9EDFB70D1457CE91AB25ED"
     rc:
         name: "Railcraft"
         description: "Have you ever wished minecarts and rails had received a bit more attention during development? Well that ends now! Gone are all those broken bits and in their place are a ton of new tools to build your massive rail system. If you ever cared about rails, you wont ever look back!"
@@ -249,12 +219,10 @@ mods:
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
             v3.0.0:
-                md5: "DFFA3A897B0679D670652F8CC42F0B8C"
                 dependencies:
                     baseModloader: 1.1.0
                     baseforge: 1.3.0
             v2.2.1:
-                md5: "87198B1E43359F960ABBBBFA2676F509"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.4
@@ -262,7 +230,6 @@ mods:
                     buildcraft: 2.2.11
                     
             v2.1.1:
-                md5: "b6637143ac02d02481482094a1c8d483"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.2
@@ -276,17 +243,14 @@ mods:
         link: "http://www.eloraam.com/"
         versions:
             v2.0.4d:
-                md5: "A3599D27C121EAB79A81178429DC13B5"
                 dependencies:
                     baseModloader: 1.1.0
                     baseforge: 1.3.0
             v2.0.4c:
-                md5: "E1ADD5BC73E020AD797E5584225EB7E5"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.4
             v2.0.4b:
-                md5: "c4f8acb605084c644790749a58af70d7"
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
@@ -299,17 +263,13 @@ mods:
         optional: true
         versions:
             v3.0_01:
-                md5: "B8D7B5A6575F3881F0059C89B518A427"
             v3.0:
-                md5: "2A282F6EE76F9A5711A1415427D96C9D"
                 dependencies:
                     baseModloader: 1.0.0
             v2.9.01:
-                md5: "d3d82e19aaa6caadde42bf8a80a83e2f"
                 dependencies:
                     baseModloader: 1.0.0
             v2.9:
-                md5: "b94f7ddaacdc0f3f7edce53afa531967"
                 dependencies:
                     baseModloader: 1.0.0
     thaumcraft:
@@ -317,27 +277,22 @@ mods:
         installtype: "zip"
         versions:
             v1.2.3:
-                md5: "EFB591BB77DD2075A356AB170634B387"
             v1.2.1:
-                md5: "7B2D01F4085FAF66B16D52D0B8B7F3F4"
     tok:
         name: "Tales of Kingdoms"
         installtype: "zip"
         versions:
             v1.3.0.3:
-                md5: "DD7A9BA0B782D145909E099DB54C7EB3"
     tomes:
         name: "Tomes"
         installtype: "zip"
         versions:
             v4:
-                md5: "C91E193FF1F48BD199DAFE19397084E8"
     treecapitator:
         name: "Treecapitator"
         installtype: "zip"
         versions:
             v1.0.0:
-                md5: "EB6295D856C4C87D898E41C82ADD977C"
     wirelessredstone:
         name: "Wireless Redstone"
         description: "Wireless Redstone is a Minecraft modification that allows you to transmit and receive redstone signals without wires. The mod has been in beta for 4 weeks prior to final release, this was done to guarantee as much quality as possible for the final product and to make sure the base mod has room for iteration and expantion."
@@ -346,11 +301,9 @@ mods:
         link: "http://www.minecraftforum.net/topic/328725-100wireless-redstone-v15/"
         versions:
             v1.5:
-                md5: "A223858EE8D4526D239C2217EE79E944"
                 dependencies:
                     baseModloader: 1.0.0
             v1.4:
-                md5: "d9753f6e811b8da011c289574bec26f6"
                 dependencies:
                     baseModloader: 1.0.0
     worldeditcui:
@@ -361,4 +314,3 @@ mods:
         link: "http://www.minecraftforum.net/topic/885099-11-worldeditcui-worldedit-client-user-interface-v11a/"
         versions:
             v1.0:
-                md5: "521E63B398E8D629E8603C0E26C0A750"
