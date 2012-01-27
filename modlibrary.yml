@@ -38,6 +38,7 @@ mods:
                     baseforge: 1.2.3
     buildcraft-objects:
         name: "BuildCraft Objects"
+        installtype: "zip"
         versions:
             v56:
                 md5: "173C7E6998B2FFD97F56535AB84CEC5B"
@@ -83,6 +84,7 @@ mods:
                 md5: "C0AB2C74369F32C74C0ACB3AD3F87BC8"
     elementalcreepers:
         name: "Elemental Creepers"
+        installtype: "zip"
         versions:
             v1.9:
                 md5: "4F747F2E37E04B76ECCC4BCE3F284AB1"
@@ -99,6 +101,7 @@ mods:
                 md5: "C9C3AC21F478E091B4514F41E3802062"
     floatingruins:
         name: "Floating Ruins"
+        installtype: "zip"
         versions:
             v1.0.0:
                 md5: "A0FCE169B76BC1188DF77AD6E73A2E45"
@@ -169,6 +172,7 @@ mods:
                 md5: "4E1ED1BE7B0202EDE9AA20F9B1E99714"
     millenaire:
         name: "Millenaire"
+        installtype: "zip"
         versions:
             v2.1.2:
                 md5: "30A925217F1E26DD16DC1DD2FCAAF74E"
@@ -212,6 +216,7 @@ mods:
                 dependencies:
                     baseModloader: 1.0.0
     mocreatures:
+        installtype: "zip"
         name: "Mo Creatures"
         versions:
             v3.1.0:
@@ -309,6 +314,7 @@ mods:
                     baseModloader: 1.0.0
     thaumcraft:
         name: "Thaumcraft"
+        installtype: "zip"
         versions:
             v1.2.3:
                 md5: "EFB591BB77DD2075A356AB170634B387"
@@ -316,16 +322,19 @@ mods:
                 md5: "7B2D01F4085FAF66B16D52D0B8B7F3F4"
     tok:
         name: "Tales of Kingdoms"
+        installtype: "zip"
         versions:
             v1.3.0.3:
                 md5: "DD7A9BA0B782D145909E099DB54C7EB3"
     tomes:
         name: "Tomes"
+        installtype: "zip"
         versions:
             v4:
                 md5: "C91E193FF1F48BD199DAFE19397084E8"
     treecapitator:
         name: "Treecapitator"
+        installtype: "zip"
         versions:
             v1.0.0:
                 md5: "EB6295D856C4C87D898E41C82ADD977C"
