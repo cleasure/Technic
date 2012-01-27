@@ -13,7 +13,7 @@ lib-1: &lib-1
 builds:
     b1:
         libraries: *lib-1
-        minecraft: 1.1.0
+        minecraft: 1.1
         mods:
             basemods: v1.2.0y
             ee: v5.7.3
