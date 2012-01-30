@@ -1,7 +1,7 @@
 launcher: 
 current: 
-recommended: b1
-latest: b1
+recommended: yog-v1
+latest: yog-v1
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    b1:
+    yog-v1:
         libraries: *lib-1
         minecraft: 1.1
         mods:
