@@ -11,6 +11,21 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    yog-v2:
+        libraries: *lib-1
+        minecraft: 1.1
+        mods:
+            basemods: v1.2.1y
+            ee: v5.7.3
+            elementalcreepers: v1.9
+            floatingruins: v1.0.0
+            millenaire: v2.1
+            mocreatures: v3.1.0
+            inventorytweaks: v1.35
+            reisminimap: v3.0
+            thaumcraft: v1.2.1
+            tok: v1.3.0.3
+            treecapitator: v1.0.0
     yog-v1:
         libraries: *lib-1
         minecraft: 1.1
