@@ -1,7 +1,7 @@
 launcher: 
 current: 
-recommended: yog-v1
-latest: yog-v1
+recommended: 1.0.0v1
+latest: 1.1b1
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,24 +11,28 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    yog-v2:
+    b1.3.0:
         libraries: *lib-1
         minecraft: 1.1
         mods:
             basemods: v1.2.1y
-            ee: v5.7.3
-            elementalcreepers: v1.9
+            armorstand: v1.1
+            craftguide: v1.4.1
+            craftingtableii: v1.6.2
+            ee: v6.18
+            elementalcreepers: v2.0
             floatingruins: v1.0.0
-            millenaire: v2.1
-            mocreatures: v3.1.0
-            inventorytweaks: v1.35
-            reisminimap: v3.0
-            thaumcraft: v1.2.1
-            tok: v1.3.0.3
-            treecapitator: v1.0.0
-    yog-v1:
+            millenaire: v2.1.5
+            mocreatures: v3.2.2
+            inventorytweaks: v1.36
+            reisminimap: v3.0_01
+            ropeplus: v1.1
+            shelf: v1.1
+            thaumcraft: v1.2.4bc3
+            treecapitator: v1.1
+    b1.2.1:
         libraries: *lib-1
-        minecraft: 1.1
+        minecraft: 1.0.0
         mods:
             basemods: v1.2.1y
             ee: v5.7.3

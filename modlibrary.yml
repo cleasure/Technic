@@ -11,6 +11,11 @@ mods:
             v1.2.0-S:
             v1.2.0:
             v5.0.5:
+    armorstand:
+        name: "Armor stand mod"
+        installtype: "zip"
+        versions:
+            v1.1:
     buildcraft:
         name: "BuildCraft"
         description: "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!"
@@ -56,6 +61,14 @@ mods:
         link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
         versions:
             v1.2:
+    craftguide:
+        name: "CraftGuide"
+        description: "Quick access to a list of every crafting recipe in the game!"
+        installtype: "zip"
+        versions:
+            v1.4.1:
+                dependencies:
+                    minecraft: 1.1
     craftingtableii:
         name: "Crafting Table II"
         description: "Inspired by Terraria crafting, Crafting Table II displays everything you can currently craft with the items in your inventory. How much of each item the recipe uses is displayed on the left as well as a description of that item, click on the item and the Crafting Table II will automatically craft it for you without you ever having to remember recipes. As you add and remove items from your inventory the list of available items updates. Works with any recipe, including mods."
@@ -65,9 +78,7 @@ mods:
         optional: true
         versions:
             v1.5:
-                dependencies:
-                    baseModloader: 1.0.0
-                    baseforge: 1.2.3
+            v1.6.2:
     ee:
         name: "Equivalent Exchange"
         description: ""
@@ -75,11 +86,13 @@ mods:
         modtype: "content"
         versions:
             v5.7.3:
+            v6.18:
     elementalcreepers:
         name: "Elemental Creepers"
         installtype: "zip"
         versions:
             v1.9:
+            v2.0:
     enderchest:
         name: "EnderChest"
         desctiption: ""
@@ -153,6 +166,7 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.1.5:
             v2.1.2:
             v2.1:
     mfr:
@@ -192,6 +206,7 @@ mods:
         installtype: "zip"
         name: "Mo Creatures"
         versions:
+            v3.2.2:
             v3.1.0:
     netherores:
         name: "Nether Ores"
@@ -264,18 +279,24 @@ mods:
         versions:
             v3.0_01:
             v3.0:
-                dependencies:
-                    baseModloader: 1.0.0
             v2.9.01:
-                dependencies:
-                    baseModloader: 1.0.0
             v2.9:
-                dependencies:
-                    baseModloader: 1.0.0
+    ropeplus:
+        name: "Ropes +"
+        installtype: "zip"
+        versions:
+            v1.1:
+    shelf:
+        name: "Shelf"
+        installtype: "zip"
+        versions:
+            v1.1:
     thaumcraft:
         name: "Thaumcraft"
         installtype: "zip"
         versions:
+            v1.2.4bc3:
+            v1.2.4bc2:
             v1.2.3:
             v1.2.1:
     tok:
@@ -292,6 +313,7 @@ mods:
         name: "Treecapitator"
         installtype: "zip"
         versions:
+            v1.1:
             v1.0.0:
     wirelessredstone:
         name: "Wireless Redstone"
