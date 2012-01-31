@@ -79,6 +79,11 @@ mods:
         versions:
             v1.5:
             v1.6.2:
+    custommobspawner:
+        name: "Custom Mob Spawner"
+        installtype: "zip"
+        versions:
+            v1.4:
     ee:
         name: "Equivalent Exchange"
         description: ""
