@@ -23,6 +23,9 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.1.3:
+                dependencies:
+                    baseforge: 1.3.1
             v3.1.2:
                 dependencies:
                     baseforge: 1.2.4
@@ -36,6 +39,17 @@ mods:
                 md5: "03fd974285584b306af080a5e5e6edc7"
                 dependencies:
                     baseforge: 1.2.3
+    buildcraft-additionalpipes:
+        installtype: "zip"
+        versions:
+            v34:
+    buildcraft-logisticspipes:
+        installtype: "zip"
+        versions:
+            v0.1.0a:
+            v0.1.2a:
+            v0.1.3a:
+            v0.1.8a:
     buildcraft-objects:
         name: "BuildCraft Objects"
         installtype: "zip"
@@ -43,6 +57,7 @@ mods:
             v56:
                 dependencies:
                     buildcraft: v2.2.7
+            v63:
     chargingbench:
         name: "IC2 Charging Bench"
         description: "A bench with multiple charging slots so you can charge all of your items at once.  Apply redstone power to the bench to reverse the way it functions."
@@ -92,6 +107,7 @@ mods:
         versions:
             v5.7.3:
             v6.18:
+            v6.22:
     elementalcreepers:
         name: "Elemental Creepers"
         installtype: "zip"
@@ -121,6 +137,7 @@ mods:
         versions:
             v1.2.9.15:
             v1.2.6.3:
+            v1.3.0.3:
     ic2:
         name: "Industrial Craft 2"
         description: "This is it. IC2, the future of IC. While playing it, you will feel right at home again, rediscovering most of the stuff known from IC. However, once you get your machines running, you will quickly notice how smooth and well-designed everything works now. Wiring is easier, batterys aren't as twosided (on/off) anymore, new cables, rubber stuff, new machines, EVERYTHING was added. Create obstacle courses of Metal Poles and Rubber-Sheets, explore the Nether with an Electrical Jetpack or blow up whole landscapes at once by using the Dynamite-O-Mote. Or discover the much more complex mechanisms of Nuclear Engineering, blow up your hut or burn your hands. Or grab the rusty ol Composite Vest, and start hunting Creepers with the new, allmighty NanoSaber."
@@ -136,6 +153,7 @@ mods:
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.4
+            v1.64:
     ic2advancedmachines:
         name: "IC2 Advanced Machines"
         description: ""
@@ -159,6 +177,7 @@ mods:
             v1.34b:
                 dependencies:
                     baseModloader: 1.0.0
+            v1.37c:
     matmos:
         name: "MAtmos"
         description: ""
@@ -238,6 +257,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v3.2.1:
             v3.0.0:
                 dependencies:
                     baseModloader: 1.1.0
