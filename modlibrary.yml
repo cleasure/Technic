@@ -6,6 +6,7 @@ mods:
         modtype: "content"
         link: ""
         versions:
+            technic-v6.0.0:
             v1.3.0:
             v1.2.1y:
             v1.2.0-S:
