@@ -17,6 +17,9 @@ mods:
         installtype: "zip"
         versions:
             v1.1:
+    balkonsweaponmod:
+        versions:
+            v8.3:
     buildcraft:
         name: "BuildCraft"
         description: "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!"
