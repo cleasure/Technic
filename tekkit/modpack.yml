@@ -11,6 +11,30 @@ lib-1: &id001
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    test:
+        libraries: *id001
+        minecraft: 1.0.0
+        mods:
+            basemods: test2
+            buildcraft: v2.2.11
+            chargingbench: v1.43
+            computercraft: v1.2
+            craftingtableii: v1.5
+            enderchest: v1.0
+            forestry: v1.2.6.3
+            ic2: v1.43
+            ic2advancedmachines: v3.1
+            inventorytweaks: v1.35
+            matmos: r8
+            mfr: v1.4.0p2
+            minecraftconsole: v1.1
+            netherores: v1.1.0
+            powerconverters: v1.3.0p2
+            rc: v2.2.1
+            redpower: v2.0.4c
+            reisminimap: v3.0
+            wirelessredstone: v1.5
+            worldeditcui: v1.0
     b3:
         libraries: *id001
         minecraft: 1.1
