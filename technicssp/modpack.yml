@@ -76,6 +76,8 @@ builds:
             buildcraft-additionalpipes: v34
             buildcraft-logisticspipes: v0.1.8a
             buildcraft-objects: v63
+            computercraft: v1.21
+            chargingbench: v1.64-1
             craftingtableii: v1.6.2
             custommobspawner: v1.4
             ee: v6.22
@@ -85,10 +87,12 @@ builds:
             ic2: v1.64
             matmos: r10
             mocreatures: v3.2.2
-            millenaire: v2.1.5
+            millenaire: v2.1.6
             rc: v3.2.1
             redpower: v2.0.4d
             reisminimap: v3.0_01
             thaumcraft: v1.2.4bc3
             tomes: v4
             treecapitator: v1.1
+            wirelessredstone: v1.5.1
+            z-technic-configs: v6.0.0
