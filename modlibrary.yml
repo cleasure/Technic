@@ -89,6 +89,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
         versions:
+            v1.21:
             v1.2:
     craftguide:
         name: "CraftGuide"
@@ -362,6 +363,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/328725-100wireless-redstone-v15/"
         versions:
+            v1.5.1:
             v1.5:
                 dependencies:
                     baseModloader: 1.0.0
@@ -376,3 +378,9 @@ mods:
         link: "http://www.minecraftforum.net/topic/885099-11-worldeditcui-worldedit-client-user-interface-v11a/"
         versions:
             v1.0:
+    z-technic-configs:
+        name: "Technic Configs"
+        description: "A collection of configs for all Technic mods"
+        installtype: "zip"
+        versions:
+            v6.0.0:
