@@ -26,6 +26,10 @@ mods:
             v8.3:
             v8.2:
             v8.1:
+    betterdungeons:
+        installtype: "zip"
+        versions:
+            v0.91:
     buildcraft:
         name: "BuildCraft"
         description: "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!"
