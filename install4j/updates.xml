@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updateDescriptor baseUrl="">
-  <entry targetMediaFileId="24" updatableVersionMin="" updatableVersionMax="" fileName="techniclauncher_windows_0_5_0_0.exe" newVersion="0.5.0.0" newMediaFileId="24" fileSize="1221120" bundledJre="" archive="false">
+  <entry targetMediaFileId="24" updatableVersionMin="" updatableVersionMax="" fileName="techniclauncher_windows_0_5_0_0.exe" newVersion="0.5.0.0" newMediaFileId="24" fileSize="1221632" bundledJre="" archive="false">
+    <comment language="en" />
+  </entry>
+  <entry targetMediaFileId="65" updatableVersionMin="" updatableVersionMax="" fileName="techniclauncher_windows-x64_0_5_0_0.exe" newVersion="0.5.0.0" newMediaFileId="65" fileSize="977920" bundledJre="" archive="false">
     <comment language="en" />
   </entry>
 </updateDescriptor>
