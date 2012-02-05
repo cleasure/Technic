@@ -8,6 +8,7 @@ mods:
         versions:
             test2:
             test:
+            technic-v6.0.2:
             technic-v6.0.1:
             technic-v6.0.0:
             v1.3.0:
@@ -23,6 +24,7 @@ mods:
     balkonsweaponmod:
         installtype: "zip"
         versions:
+            v8.4:
             v8.3:
             v8.2:
             v8.1:
