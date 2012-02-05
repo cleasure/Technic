@@ -8,7 +8,6 @@ mods:
         versions:
             test2:
             test:
-            technic-v6.0.3:
             technic-v6.0.2:
             technic-v6.0.1:
             technic-v6.0.0:
@@ -214,7 +213,6 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
-            v2.2:
             v2.1.6:
             v2.1.5:
             v2.1.2:
