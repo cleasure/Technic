@@ -1,7 +1,7 @@
 launcher: 
 current: 
 recommended: b2
-latest: "6.0.2"
+latest: 6.0.2
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -42,7 +42,7 @@ builds:
             treecapitator: v1.1
             wirelessredstone: v1.5.1
             z-technic-configs: v6.0.0
-    "6.0.2":
+    6.0.2:
         libraries: *lib-1
         minecraft: 1.1
         mods:
@@ -72,7 +72,7 @@ builds:
             tomes: v4
             treecapitator: v1.1
             wirelessredstone: v1.5.1
-            z-technic-configs: v6.0.0
+            z-technic-configs: v6.0.2
     b2:
         libraries: *lib-1
         minecraft: 1.1

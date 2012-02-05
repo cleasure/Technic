@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="65" updatableVersionMin="" updatableVersionMax="" fileName="techniclauncher_windows-x64_0_5_0_4.exe" newVersion="0.5.0.4" newMediaFileId="65" fileSize="981504" bundledJre="" archive="false">
+    <comment language="en" />
+  </entry>
+</updateDescriptor>
+
