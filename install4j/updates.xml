@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updateDescriptor baseUrl="">
-  <entry targetMediaFileId="24" updatableVersionMin="" updatableVersionMax="" fileName="techniclauncher_windows_0_5_0_2.exe" newVersion="0.5.0.2" newMediaFileId="24" fileSize="1223168" bundledJre="" archive="false">
-    <comment language="en" />
-  </entry>
-  <entry targetMediaFileId="61" updatableVersionMin="" updatableVersionMax="" fileName="techniclauncher_macos_0_5_0_2.dmg" newVersion="0.5.0.2" newMediaFileId="61" fileSize="1447936" bundledJre="" archive="false">
-    <comment language="en" />
-  </entry>
-  <entry targetMediaFileId="62" updatableVersionMin="" updatableVersionMax="" fileName="techniclauncher_unix_0_5_0_2.sh" newVersion="0.5.0.2" newMediaFileId="62" fileSize="1017671" bundledJre="" archive="false">
-    <comment language="en" />
-  </entry>
-  <entry targetMediaFileId="65" updatableVersionMin="" updatableVersionMax="" fileName="techniclauncher_windows-x64_0_5_0_2.exe" newVersion="0.5.0.2" newMediaFileId="65" fileSize="979968" bundledJre="" archive="false">
+  <entry targetMediaFileId="65" updatableVersionMin="" updatableVersionMax="" fileName="techniclauncher_windows-x64_0_5_0_3.exe" newVersion="0.5.0.3" newMediaFileId="65" fileSize="980480" bundledJre="" archive="false">
     <comment language="en" />
   </entry>
 </updateDescriptor>
