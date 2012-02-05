@@ -72,7 +72,7 @@ builds:
             tomes: v4
             treecapitator: v1.1
             wirelessredstone: v1.5.1
-            z-technic-configs: v6.0.0
+            z-technic-configs: v6.0.2
     b2:
         libraries: *lib-1
         minecraft: 1.1
