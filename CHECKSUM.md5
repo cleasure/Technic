@@ -2,6 +2,7 @@
 03DFC762E07F0B6B84CD36F3DB39118F|modfixes\minecraft-gui-1.1\res\minecraft_biz.png
 A67A0BE53E00ADE88FD29FF89F12B5F7|modfixes\minecraft-gui-1.1\res\spoutcraft.png
 4BA90E0FD2ADF22F684DF249F1050F27|modfixes\minecraft-gui-1.1\res\yourkit.png
+5E800723B2BB40ED1A46576CD750E2A2|mods\z-tekkit-configs\z-tekkit-configs-2.0.0.zip
 4854C2344AA182AD4F37976E83348AA0|Libraries\commons-io\commons-io-2.1.jar
 71B48E6B3E1B1DC73FE705604B9C7584|Libraries\commons-lang3\commons-lang3-3.1.jar
 58B3D877862E49BD5828A73B2C7D1313|Libraries\fastutil\fastutil-6.4.1-int2obj.jar
@@ -154,7 +155,7 @@ A223858EE8D4526D239C2217EE79E944|mods\wirelessredstone\wirelessredstone-v1.5.zip
 1727DB1616623C8AA67B9342A6C0A80C|mods\z-technic-configs\z-technic-configs-v6.0.0.zip
 1727DB1616623C8AA67B9342A6C0A80C|mods\z-technic-configs\z-technic-configs-v6.0.2.zip
 B08115745A7944726D0457FCDC0EE4A6|mods\z-technic-configs\z-technic-configs-v6.0.3.zip
-5E800723B2BB40ED1A46576CD750E2A2|mods\z-tekkit-configs\z-tekkit-configs-2.0.0.zip
+5E800723B2BB40ED1A46576CD750E2A2|mods\z-tekkit-configs\z-tekkit-configs-v2.0.0.zip
 4E09227D288886A16BE991BE32ED68FA|mods.yml
 DC645600C1B866A2BAB8416F16BA56E0|Patches\Minecraft\minecraft_1.0.0-1.1.patch
 80776D8C789151F5C11AE8D39EB87C76|Patches\Minecraft\minecraft_1.0.0-b1.7.2.patch
