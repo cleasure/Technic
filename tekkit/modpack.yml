@@ -13,7 +13,7 @@ lib-1: &id001
 builds:
     b4:
         libraries: *id001
-        minecraft: 1.1.0
+        minecraft: 1.1
         mods:
             basemods: tekkit-v2.0.0
             buildcraft: v2.2.12
