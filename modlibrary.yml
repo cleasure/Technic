@@ -410,11 +410,17 @@ mods:
         versions:
             v1.0:
             v1.1:
+    xpbook:
+        name: "XP Book"
+        installtype: "zip"
+        versions:
+            v4:
     z-technic-configs:
         name: "Technic Configs"
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v6.0.4:
             v6.0.3:
             v6.0.2:
             v6.0.0:
