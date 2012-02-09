@@ -17,6 +17,7 @@ mods:
             v1.2.0-S:
             v1.2.0:
             v5.0.5:
+            tekkit-v2.0.0:
     armorstand:
         name: "Armor stand mod"
         installtype: "zip"
@@ -144,6 +145,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/909223-100181-chickenbones-mods/"
         versions:
+            v1.0.1v2:
             v1.0.1:
             v1.0:
     floatingruins:
@@ -160,6 +162,7 @@ mods:
         versions:
             v1.3.2.1:
             v1.2.9.15:
+            v1.2.6.4:
             v1.2.6.3:
             v1.3.0.3:
     ic2:
@@ -178,6 +181,9 @@ mods:
                     baseModloader: 1.0.0
                     baseforge: 1.2.4
             v1.64:
+                dependencies:
+                    baseModloader: 1.1.0
+                    baseforge: 1.3.2
     ic2advancedmachines:
         name: "IC2 Advanced Machines"
         description: ""
@@ -226,6 +232,10 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
         versions:
+            v1.4.1_01:
+                dependencies:
+                    baseModloader: 1.1.0
+                    baseforge: 1.3.2
             v1.4.0p2:
                 dependencies:
                     baseModloader: 1.0.0
@@ -249,6 +259,9 @@ mods:
         link: "http://www.minecraftforum.net/topic/680231-181-minecraft-console-v10/"
         optional: true
         versions:
+            v1.2:
+                dependencies:
+                    baseModloader: 1.1.0
             v1.1:
                 dependencies:
                     baseModloader: 1.0.0
@@ -265,6 +278,10 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/#no"
         versions:
+            v1.1.2:
+                dependencies:
+                    baseModloader: 1.1.0
+                    baseforge: 1.3.2
             v1.1.0:
                 dependencies:
                     baseModloader: 1.0.0
@@ -275,6 +292,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v1.3.1_01:
             v1.3.0p2:
     rc:
         name: "Railcraft"
@@ -373,6 +391,9 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/328725-100wireless-redstone-v15/"
         versions:
+            v1.5.2:
+                dependencies:
+                    baseModloader: 1.1.0
             v1.5.1:
             v1.5:
                 dependencies:
@@ -388,6 +409,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/885099-11-worldeditcui-worldedit-client-user-interface-v11a/"
         versions:
             v1.0:
+            v1.1:
     z-technic-configs:
         name: "Technic Configs"
         description: "A collection of configs for all Technic mods"
@@ -396,3 +418,10 @@ mods:
             v6.0.3:
             v6.0.2:
             v6.0.0:
+    z-tekkit-configs:
+        name: "Technic Configs"
+        description: "A collection of configs for all Technic mods"
+        installtype: "zip"
+        versions:
+            v2.0.0:
+            
