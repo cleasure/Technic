@@ -15,7 +15,7 @@ builds:
         libraries: *id001
         minecraft: 1.1
         mods:
-            basemods: tekkit-v2.0.0
+            basemods: technic-v6.0.3
             buildcraft: v2.2.12
             chargingbench: v1.64-1
             computercraft: v1.21
