@@ -60,6 +60,7 @@ mods:
     buildcraft-additionalpipes:
         installtype: "zip"
         versions:
+            v32.3:
             v34:
     buildcraft-additionalpower:
         installtype: "zip"
@@ -91,6 +92,12 @@ mods:
             v1.43:
                 dependencies:
                     ic2: v1.43
+    codechickencore:
+        name: "CodeChickenCore"
+        description: "Required by Chicken Bones' Mods"
+        installtype: "zip"
+        versions:
+            v0.4.2:
     computercraft:
         name: "ComputerCraft"
         description: "Add's Lua based computers to the game"
