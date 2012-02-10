@@ -1,3 +1,4 @@
+6F30A994108BD25621A8D0EE7B907C6E|mods\netherores\mods\NetherOres_Client_1.1.2.zip
 4854C2344AA182AD4F37976E83348AA0|Libraries\commons-io\commons-io-2.1.jar
 71B48E6B3E1B1DC73FE705604B9C7584|Libraries\commons-lang3\commons-lang3-3.1.jar
 58B3D877862E49BD5828A73B2C7D1313|Libraries\fastutil\fastutil-6.4.1-int2obj.jar
@@ -17,7 +18,7 @@ EFFE7B2F806C5FAA8DF2DE8BAEA207AA|minecraft.yml
 EEB95A8FC23CDBEF337D0AAAC891BC4B|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI-0.13.1-1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI-0.13.1-1.1\gui\gui.png
-C81A0F4C9BE1568CD9F2165C6D901C36|modlibrary.yml
+0D6FC287799726F3C06DC6AC8C56F15E|modlibrary.yml
 75D61DD41C4A433D93977756AEAF4968|modpacks.yml
 253B4C87FBD05039620B08F1B42E223E|mods\airships\airships-v2.5.1.zip
 6A2200B23D01778F31AE215A93FC4C58|mods\armorstand\armorstand-v1.1.zip
@@ -30,6 +31,7 @@ D416BECF3B3F3A65B825E64A89A2AAB0|mods\basemods\basemods-technic-v5.1.0.zip
 012021B66D9858E3D0D8C8D5CB276C89|mods\basemods\basemods-technic-v6.0.1.zip
 3CDFE537DB7A87E49E08A76338065E64|mods\basemods\basemods-technic-v6.0.2.zip
 A1C8D2FB3A045ED038D6278E3D4C49CA|mods\basemods\basemods-technic-v6.0.3.zip
+E31CB01BFD347276AEEFC6AC9295534A|mods\basemods\basemods-technic-v6.0.5.zip
 365D4D7EF19BA336312154FA739CE4C8|mods\basemods\basemods-tekkit-v2.0.0.zip
 74246E99B7C29D2D041D6169EC6747E6|mods\basemods\basemods-test.zip
 089A3457C5C153F958A216AC357EFCD8|mods\basemods\basemods-test2.zip
@@ -39,6 +41,7 @@ A1C8D2FB3A045ED038D6278E3D4C49CA|mods\basemods\basemods-technic-v6.0.3.zip
 75A8E6E32F0DE7755CE99F9132FADA0E|mods\basemods\basemods-v1.3.0.zip
 EBC6ECA2A25EB973E10142037FF846BC|mods\basemods\basemods-v5.0.5.zip
 AF8116DDBC0B18BFE6841B389F8C0DE6|mods\betterdungeons\betterdungeons-v0.91.zip
+6C72B7C063E08673219323068502AB9D|mods\betterdungeons\betterdungeons-v0.92.zip
 F96E206F554198288DBF169B14536487|mods\bettershelf\bettershelf-v1.0.0.zip
 02A41F344ACC210D693DA5251FD1A9EA|mods\buildcraft\buildcraft-v2.2.11.zip
 0F83B9C1390CC0D1C48045C8A65C668F|mods\buildcraft\buildcraft-v2.2.12.zip
@@ -70,6 +73,7 @@ F771872143AF47F2D65FA406CB2D5002|mods\crystalwing\crystalwing-v1.0.0.zip
 C0AB2C74369F32C74C0ACB3AD3F87BC8|mods\ee\ee-v5.7.3.zip
 80F47CF80AF74AF9EBD640443F6AB98E|mods\ee\ee-v6.18.zip
 E25CCC8F50966CC791D088F33DB469A8|mods\ee\ee-v6.22.zip
+01CE338F53F5BA842E51D631324F0F3C|mods\ee2\ee2v1.1.zip
 4F747F2E37E04B76ECCC4BCE3F284AB1|mods\elementalcreepers\elementalcreepers-v1.9.zip
 CB5FDC38FDAB5906616C30D6361F8AC1|mods\elementalcreepers\elementalcreepers-v2.0.zip
 A217E84DADFF30DD42D223E6264063BE|mods\enderchest\enderchest-v1.0.1.zip
@@ -85,7 +89,7 @@ DE13F0068CCCDF6565AE2F2398C19506|mods\forestry\forestry-v1.3.2.1.zip
 3E1DE79032E4BD06AB952090FC70A805|mods\ic2\ic2-v1.43.zip
 18C973FFED1F0B01F595EA3DAD19AFAA|mods\ic2\ic2-v1.64.zip
 DCC6801EC165C6F4AB609E3CE444FC4C|mods\ic2advancedmachines\ic2advancedmachines-v3.1.zip
-B688CADC9A22FB88648D22E39F6AF111|mods\ic2advancedmachines\ic2advancedmachines-v3.2_beta2.zip
+7722290A65CA9385394DBE5EAE03106E|mods\ic2advancedmachines\ic2advancedmachines-v3.2_beta2.zip
 5F883813E1C12553CD6525A40D2EDD58|mods\inventorytweaks\inventorytweaks-v1.34b.zip
 305E4EFF9032A0274AE3822EBB7D35C3|mods\inventorytweaks\inventorytweaks-v1.35.zip
 F69D0D5C8E73F21B693B2946ECF3112B|mods\inventorytweaks\inventorytweaks-v1.36.zip
@@ -105,20 +109,21 @@ D0F64DCFA52AC7E29642ED3E9E8314B0|mods\millenaire\millenaire-v2.0.zip
 89AC50944E17D995855F2FACF488D017|mods\millenaire\millenaire-v2.1.5.zip
 90DCF994D1A0CF59C7836650A26DC383|mods\millenaire\millenaire-v2.1.6.zip
 D45E374354876925BFB096A6C44932C7|mods\millenaire\millenaire-v2.1.zip
+19CC4F18CAB13E4226101B57D29AE930|mods\millenaire\millenaire-v2.2.1.zip
 21B9909BD01DC12212AA742806D3E5EA|mods\millenaire\millenaire-v2.2.zip
 49CEE2CC6ABE503AC86131F41C30EA4D|mods\minecraftconsole\minecraftconsole-v1.1.zip
 7735F526DAC16D6792327676ECFDCC58|mods\minecraftconsole\minecraftconsole-v1.2.zip
 F2B351A7F33FA8F579108247BEA7F354|mods\mocreatures\mocreatures-v3.1.0.zip
 266F0DC415CD26A65E7305D5876E7A29|mods\mocreatures\mocreatures-v3.2.2.zip
-6F30A994108BD25621A8D0EE7B907C6E|mods\netherores\mods\NetherOres_Client_1.1.2.zip
 2F4535A052067C56B7BC2AEA34A37C4A|mods\netherores\netherores-v1.1.0.zip
-CE3D1C32980E38BF889BE43558C9C486|mods\netherores\netherores-v1.1.2.zip
+6415D0A259F49FBEB97D134EA1297E22|mods\netherores\netherores-v1.1.2.zip
 97F2247F4E9EDFB70D1457CE91AB25ED|mods\powerconverters\powerconverters-v1.3.0p2.zip
 2C1282E0E6A1505EECC070F8BFF1F904|mods\powerconverters\powerconverters-v1.3.1_01.zip
 B6637143AC02D02481482094A1C8D483|mods\rc\rc-v2.1.1.zip
 87198B1E43359F960ABBBBFA2676F509|mods\rc\rc-v2.2.1.zip
 DFFA3A897B0679D670652F8CC42F0B8C|mods\rc\rc-v3.0.0.zip
 4C258FED31188B52B13F75E0C6DAAB08|mods\rc\rc-v3.2.1.zip
+72A0F196668B46971FA8E1D139176917|mods\rc\rc-v3.3.1.zip
 1B7568F7486B0D508645DF48F5DFD237|mods\recipehelper\recipehelper-v4.zip
 C4F8ACB605084C644790749A58AF70D7|mods\redpower\redpower-v2.0.4b.zip
 E1ADD5BC73E020AD797E5584225EB7E5|mods\redpower\redpower-v2.0.4c.zip
@@ -137,6 +142,7 @@ C2CE2D17953C0E5587B87605B85247EE|mods\reisminimap\reisminimap-v3.0_01.zip
 EFB591BB77DD2075A356AB170634B387|mods\thaumcraft\thaumcraft-v1.2.3.zip
 F9BC755EE9BB34DB56EB4B8EBB83DBDC|mods\thaumcraft\thaumcraft-v1.2.4bc2.zip
 7896305183EA7265E7BAACCC986F2464|mods\thaumcraft\thaumcraft-v1.2.4bc3.zip
+3AA52C7AB4F127E9DDC8D107A5583183|mods\thaumcraft\thaumcraft-v1.2.5bc3.zip
 EF5DF8BBAE85E6084E23CB9527FA646F|mods\tok\tok-v1.3.0.2.zip
 DD7A9BA0B782D145909E099DB54C7EB3|mods\tok\tok-v1.3.0.3.zip
 5B688D34E62FFBD21E766257A1AEEEF0|mods\tomes\tomes-v3.zip
@@ -155,7 +161,9 @@ C0A6BEEBD44478A633BD21DEABF61299|mods\xpbook\xpbook-v4.zip
 1727DB1616623C8AA67B9342A6C0A80C|mods\z-technic-configs\z-technic-configs-v6.0.2.zip
 B08115745A7944726D0457FCDC0EE4A6|mods\z-technic-configs\z-technic-configs-v6.0.3.zip
 BC0246E0DCB158F45FFB965503C69B6A|mods\z-technic-configs\z-technic-configs-v6.0.4.zip
+32B37CE1F42C06AF06F6FA641374DC39|mods\z-technic-configs\z-technic-configs-v6.0.5.zip
 8C0F792604EF242A35789C6A92DD02A8|mods\z-tekkit-configs\z-tekkit-configs-v2.0.0.zip
+2D8CE20468D98C05A559AF82A0EC5023|mods\zeppelin\zeppelin-v1.1.0.0.25.zip
 C72F0962D992FA5E787DADB806453533|mods.yml
 DC645600C1B866A2BAB8416F16BA56E0|Patches\Minecraft\minecraft_1.0.0-1.1.patch
 80776D8C789151F5C11AE8D39EB87C76|Patches\Minecraft\minecraft_1.0.0-b1.7.2.patch
@@ -182,7 +190,7 @@ F640DA15AC0416E5BB4281AE2AF99072|Patches\Minecraft\minecraft_b1.8.1-1.0.0.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 3E7CAEBAA1E7599F0E3D68CD332D1D76|technic-launcher.jar
-6A92F1F173566B7F2BA899FAB78AE2FA|technicssp\modpack.yml
+4CD4461E91CD73A03BFFB21578785CF0|technicssp\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|technicssp\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|technicssp\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|technicssp\resources\icon.ico

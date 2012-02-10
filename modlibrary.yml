@@ -8,6 +8,7 @@ mods:
         versions:
             test2:
             test:
+            technic-v6.0.5:
             technic-v6.0.3:
             technic-v6.0.2:
             technic-v6.0.1:
@@ -33,6 +34,7 @@ mods:
     betterdungeons:
         installtype: "zip"
         versions:
+            v0.92:
             v0.91:
     buildcraft:
         name: "BuildCraft"
@@ -139,6 +141,13 @@ mods:
             v5.7.3:
             v6.18:
             v6.22:
+    ee2:
+        name: "Equivalent Exchange 2"
+        description: ""
+        installtype: "zip"
+        modtype: "content"
+        versions:
+            v1.1:
     elementalcreepers:
         name: "Elemental Creepers"
         installtype: "zip"
@@ -228,6 +237,7 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.2.1:
             v2.2:
             v2.1.6:
             v2.1.5:
@@ -309,6 +319,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v3.3.1:
             v3.2.1:
             v3.0.0:
                 dependencies:
@@ -372,6 +383,7 @@ mods:
         name: "Thaumcraft"
         installtype: "zip"
         versions:
+            v1.2.5bc3:
             v1.2.4bc3:
             v1.2.4bc2:
             v1.2.3:
@@ -423,11 +435,17 @@ mods:
         installtype: "zip"
         versions:
             v4:
+    zeppelin:
+        name: "Zeppelin Mod"
+        installtype: "zip"
+        versions:
+            v1.1.0.0.25:
     z-technic-configs:
         name: "Technic Configs"
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v6.0.5:
             v6.0.4:
             v6.0.3:
             v6.0.2:
