@@ -50,7 +50,7 @@ builds:
         libraries: *lib-1
         minecraft: 1.1
         mods:
-            basemods: technic-v6.0.5_no_optifine
+            basemods: technic-no-optifine
             balkonsweaponmod: v8.4
             betterdungeons: v0.92
             buildcraft: v3.1.3
