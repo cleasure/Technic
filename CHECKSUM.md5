@@ -17,7 +17,7 @@ EFFE7B2F806C5FAA8DF2DE8BAEA207AA|minecraft.yml
 EEB95A8FC23CDBEF337D0AAAC891BC4B|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI-0.13.1-1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI-0.13.1-1.1\gui\gui.png
-6728838D7425B0BA84B22FD6D1D43856|modlibrary.yml
+2024AAD6EE5A465142D5E8A33522D489|modlibrary.yml
 4847CDF60D82DF627C1597D18B326611|modpacks.yml
 253B4C87FBD05039620B08F1B42E223E|mods\airships\airships-v2.5.1.zip
 6A2200B23D01778F31AE215A93FC4C58|mods\armorstand\armorstand-v1.1.zip
@@ -25,13 +25,13 @@ D66DE08F5004167E75498940DB6C2FEE|mods\balkonsweaponmod\balkonsweaponmod-v8.1.zip
 98C5F2F1C64CE3BE377DDFA417EF52E5|mods\balkonsweaponmod\balkonsweaponmod-v8.2.zip
 5CA7640E1BEFE4F116306CD64C14D208|mods\balkonsweaponmod\balkonsweaponmod-v8.3.zip
 A58FD3362E670DF702D0B5F108F88C32|mods\balkonsweaponmod\balkonsweaponmod-v8.4.zip
+B439A81F38C3C8EB07FE53176D912BF9|mods\basemods\basemods-technic-no-optifine.zip
 D416BECF3B3F3A65B825E64A89A2AAB0|mods\basemods\basemods-technic-v5.1.0.zip
 407FE6E72F2A453A1B2C76FF3F6E350C|mods\basemods\basemods-technic-v6.0.0.zip
 012021B66D9858E3D0D8C8D5CB276C89|mods\basemods\basemods-technic-v6.0.1.zip
 3CDFE537DB7A87E49E08A76338065E64|mods\basemods\basemods-technic-v6.0.2.zip
 A1C8D2FB3A045ED038D6278E3D4C49CA|mods\basemods\basemods-technic-v6.0.3.zip
 E31CB01BFD347276AEEFC6AC9295534A|mods\basemods\basemods-technic-v6.0.5.zip
-B439A81F38C3C8EB07FE53176D912BF9|mods\basemods\basemods-technic-v6.0.5_no_optifine.zip
 365D4D7EF19BA336312154FA739CE4C8|mods\basemods\basemods-tekkit-v2.0.0.zip
 74246E99B7C29D2D041D6169EC6747E6|mods\basemods\basemods-test.zip
 089A3457C5C153F958A216AC357EFCD8|mods\basemods\basemods-test2.zip
@@ -190,7 +190,7 @@ F640DA15AC0416E5BB4281AE2AF99072|Patches\Minecraft\minecraft_b1.8.1-1.0.0.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 3E7CAEBAA1E7599F0E3D68CD332D1D76|technic-launcher.jar
-87683DE2C29CF6E7304FE7B2F52D8E31|technicssp\modpack.yml
+638260451B8C2EF7DE387F6A547100CA|technicssp\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|technicssp\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|technicssp\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|technicssp\resources\icon.ico
