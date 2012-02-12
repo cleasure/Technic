@@ -6,8 +6,7 @@ mods:
         modtype: "content"
         link: ""
         versions:
-            test2:
-            test:
+            vanilla-v1.1:
             technic-no-optifine:
             technic-v6.0.5:
             technic-v6.0.3:
