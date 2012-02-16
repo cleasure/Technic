@@ -1,3 +1,5 @@
+DCC6801EC165C6F4AB609E3CE444FC4C|mods\ic2advancedmachines\ic2advancedmachines-v3.1.zip
+7722290A65CA9385394DBE5EAE03106E|mods\ic2advancedmachines\ic2advancedmachines-v3.2_beta2.zip
 4854C2344AA182AD4F37976E83348AA0|Libraries\commons-io\commons-io-2.1.jar
 71B48E6B3E1B1DC73FE705604B9C7584|Libraries\commons-lang3\commons-lang3-3.1.jar
 58B3D877862E49BD5828A73B2C7D1313|Libraries\fastutil\fastutil-6.4.1-int2obj.jar
@@ -23,7 +25,7 @@ EFFE7B2F806C5FAA8DF2DE8BAEA207AA|minecraft.yml
 1E77D766B24615FE0B8F71420A199759|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI-0.13.1-1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI-0.13.1-1.1\gui\gui.png
-FB19700C3F1A6E3D44A2626BAD6604A1|modlibrary.yml
+D0796A15DBBA6BF089FDE5E91A5A620C|modlibrary.yml
 1F313890127AD2FBFBF1936132449E04|modpacks.yml
 253B4C87FBD05039620B08F1B42E223E|mods\airships\airships-v2.5.1.zip
 6A2200B23D01778F31AE215A93FC4C58|mods\armorstand\armorstand-v1.1.zip
@@ -95,8 +97,8 @@ DE13F0068CCCDF6565AE2F2398C19506|mods\forestry\forestry-v1.3.2.1.zip
 7DA881AFA458EC54EC0B2E71DBB85A3E|mods\ic2\ic2-v1.42.zip
 3E1DE79032E4BD06AB952090FC70A805|mods\ic2\ic2-v1.43.zip
 18C973FFED1F0B01F595EA3DAD19AFAA|mods\ic2\ic2-v1.64.zip
-DCC6801EC165C6F4AB609E3CE444FC4C|mods\ic2advancedmachines\ic2advancedmachines-v3.1.zip
-7722290A65CA9385394DBE5EAE03106E|mods\ic2advancedmachines\ic2advancedmachines-v3.2_beta2.zip
+DCC6801EC165C6F4AB609E3CE444FC4C|mods\ic2-advancedmachines\ic2-advancedmachines-v3.1.zip
+D0F7B47277BDE437D19219CFEB1A4E8B|mods\ic2-advancedmachines\ic2-advancedmachines-v3.2_beta2.zip
 5F883813E1C12553CD6525A40D2EDD58|mods\inventorytweaks\inventorytweaks-v1.34b.zip
 305E4EFF9032A0274AE3822EBB7D35C3|mods\inventorytweaks\inventorytweaks-v1.35.zip
 F69D0D5C8E73F21B693B2946ECF3112B|mods\inventorytweaks\inventorytweaks-v1.36.zip
@@ -168,7 +170,7 @@ C0A6BEEBD44478A633BD21DEABF61299|mods\xpbook\xpbook-v4.zip
 1727DB1616623C8AA67B9342A6C0A80C|mods\z-technic-configs\z-technic-configs-v6.0.2.zip
 B08115745A7944726D0457FCDC0EE4A6|mods\z-technic-configs\z-technic-configs-v6.0.3.zip
 BC0246E0DCB158F45FFB965503C69B6A|mods\z-technic-configs\z-technic-configs-v6.0.4.zip
-32B37CE1F42C06AF06F6FA641374DC39|mods\z-technic-configs\z-technic-configs-v6.0.5.zip
+99D4D50806206274C548E753D96035BA|mods\z-technic-configs\z-technic-configs-v6.0.5.zip
 8C0F792604EF242A35789C6A92DD02A8|mods\z-tekkit-configs\z-tekkit-configs-v2.0.0.zip
 2D8CE20468D98C05A559AF82A0EC5023|mods\zeppelin\zeppelin-v1.1.0.0.25.zip
 C72F0962D992FA5E787DADB806453533|mods.yml
@@ -197,7 +199,7 @@ F640DA15AC0416E5BB4281AE2AF99072|Patches\Minecraft\minecraft_b1.8.1-1.0.0.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 66ECCE4F79B59415D865ABEB1F6082C9|technic-launcher.jar
-D494951CC3B4465E436DA6EDF37F47E3|technicssp\modpack.yml
+928254BB41084EDFFC0E2F7842606DA8|technicssp\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|technicssp\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|technicssp\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|technicssp\resources\icon.ico
