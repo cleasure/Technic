@@ -35,6 +35,7 @@ mods:
     betterdungeons:
         installtype: "zip"
         versions:
+            v0.921:
             v0.92:
             v0.91:
     buildcraft:
@@ -148,6 +149,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v1.38:
             v1.1:
     elementalcreepers:
         name: "Elemental Creepers"
@@ -218,6 +220,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/323444-100spsmp-inventory-tweaks-135-dec-24/"
         optional: true
         versions:
+            v1.38:
             v1.36:
             v1.35:
                 dependencies:
@@ -238,6 +241,7 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.4:
             v2.2.1:
             v2.2:
             v2.1.6:
