@@ -8,6 +8,7 @@ mods:
         versions:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v6.0.6:
             technic-v6.0.5:
             technic-v6.0.3:
             technic-v6.0.2:
@@ -445,6 +446,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v6.0.6:
             v6.0.5:
             v6.0.4:
             v6.0.3:
