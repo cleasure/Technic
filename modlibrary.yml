@@ -200,7 +200,7 @@ mods:
                 dependencies:
                     baseModloader: 1.1.0
                     baseforge: 1.3.2
-    ic2advancedmachines:
+    ic2-advancedmachines:
         name: "IC2 Advanced Machines"
         description: ""
         installtype: "zip"
