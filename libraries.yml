@@ -1,24 +1,27 @@
 jinput:
   current: 
-  recommended: 2.6
-  latest: 2.8.2
+  recommended: 2.8.3
+  latest: 2.8.3
   versions:
+    2.8.3: d62ff8cd9539a32dac094c00e820e9e6
     2.8.2: d62ff8cd9539a32dac094c00e820e9e6
     2.8.1: d62ff8cd9539a32dac094c00e820e9e6
     2.6: a7835a73a130656aba23e34147a55367
 lwjgl:
   current: 
-  recommended: 2.6
-  latest: 2.8.2
+  recommended: 2.8.3
+  latest: 2.8.3
   versions:
+    2.8.3: a9deb51bea77db85de26f7b2eb1ecbea
     2.8.2: 31b91cb8a5c32e026201dc06fe28d833
     2.8.1: fe4e4f457d5fc88d904cf91962ae9adf
     2.6: 7a07c4285fa9a6b204ba59f011f1cd77
 lwjgl_util:
   current: 
-  recommended: 2.6
-  latest: 2.8.2
+  recommended: 2.8.3
+  latest: 2.8.3
   versions:
+    2.8.3: f0491373c064cdcaffab1f79361f9bf1
     2.8.2: 120dbb06ce1818f3cd2501c8e25180ec
     2.8.1: ec0f6be5aa2000ec96867fa84a1d205b
     2.6: f00470751cfc093ba760ca3cf10a512c
