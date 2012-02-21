@@ -1,2 +1,2 @@
 mkdir %appdata%\.techniclauncher\rtemp
-java -Xincgc -Xmx1g -jar technic-launcher.jar
+java -Xincgc -Xmx1536m -jar technic-launcher.jar
