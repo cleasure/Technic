@@ -8,6 +8,7 @@ mods:
         versions:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v6.0.7:
             technic-v6.0.6:
             technic-v6.0.5:
             technic-v6.0.3:
@@ -74,6 +75,7 @@ mods:
     buildcraft-logisticspipes:
         installtype: "zip"
         versions:
+            v0.2.0b:
             v0.1.0a:
             v0.1.2a:
             v0.1.3a:
@@ -93,6 +95,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=929"
         versions:
+            v1.70-1:
             v1.64-1:
             v1.43:
                 dependencies:
@@ -180,6 +183,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
+            v1.3.4.0:
             v1.3.2.1:
             v1.2.9.15:
             v1.2.6.4:
@@ -192,6 +196,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
+            v1.70:
             v1.43:
                 dependencies:
                     baseModloader: 1.0.0
@@ -242,6 +247,7 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.2.8:
             v2.2.5:
             v2.2.4:
             v2.2.1:
@@ -452,6 +458,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v6.0.7:
             v6.0.6:
             v6.0.5:
             v6.0.4:
