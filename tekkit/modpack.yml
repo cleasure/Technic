@@ -1,7 +1,7 @@
 launcher: 0.5.0
 current:
-recommended: 7
-latest: 0.0.1.2.7.3.4
+recommended: 2.0
+latest: 2.0
 lib-1: &id001
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1: &id001
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    0.0.1.2.7.3.4:
+    2.0:
         libraries: *lib-1
         minecraft: 1.1
         mods:
@@ -32,83 +32,3 @@ builds:
             reisminimap: v3.0_01
             wirelessredstone: v1.5.1
             z-tekkit-configs: v2.0
-    test:
-        libraries: *id001
-        minecraft: 1.0.0
-        mods:
-            basemods: test2
-            buildcraft: v2.2.11
-            chargingbench: v1.43
-            computercraft: v1.2
-            craftingtableii: v1.5
-            enderchest: v1.0
-            forestry: v1.2.6.3
-            ic2: v1.43
-            ic2advancedmachines: v3.1
-            inventorytweaks: v1.35
-            matmos: r8
-            mfr: v1.4.0p2
-            minecraftconsole: v1.1
-            netherores: v1.1.0
-            powerconverters: v1.3.0p2
-            rc: v2.2.1
-            redpower: v2.0.4c
-            reisminimap: v3.0
-            wirelessredstone: v1.5
-            worldeditcui: v1.0
-    b3:
-        libraries: *id001
-        minecraft: 1.1
-        mods:
-            basemods: v1.3.0
-            buildcraft: v2.2.12
-            rc: v3.0.0
-            redpower: v2.0.4d
-    b2:
-        libraries: *id001
-        minecraft: 1.0.0
-        mods:
-            basemods: v1.2.0-S
-            buildcraft: v2.2.11
-            chargingbench: v1.43
-            computercraft: v1.2
-            craftingtableii: v1.5
-            enderchest: v1.0
-            forestry: v1.2.6.3
-            ic2: v1.43
-            ic2advancedmachines: v3.1
-            inventorytweaks: v1.35
-            matmos: r8
-            mfr: v1.4.0p2
-            minecraftconsole: v1.1
-            netherores: v1.1.0
-            powerconverters: v1.3.0p2
-            rc: v2.2.1
-            redpower: v2.0.4c
-            reisminimap: v3.0
-            wirelessredstone: v1.5
-            worldeditcui: v1.0
-    b1:
-        libraries: *id001
-        minecraft: 1.0.0
-        mods:
-            basemods: v1.2.0
-            buildcraft: v2.2.11
-            chargingbench: v1.43
-            computercraft: v1.2
-            craftingtableii: v1.5
-            enderchest: v1.0
-            forestry: v1.2.6.3
-            ic2: v1.43
-            ic2advancedmachines: v3.1
-            inventorytweaks: v1.35
-            matmos: r8
-            mfr: v1.4.0p2
-            minecraftconsole: v1.1
-            netherores: v1.1.0
-            powerconverters: v1.3.0p2
-            rc: v2.2.1
-            redpower: v2.0.4c
-            reisminimap: v3.0
-            wirelessredstone: v1.5
-            worldeditcui: v1.0
