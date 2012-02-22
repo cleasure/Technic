@@ -18,7 +18,7 @@ builds:
             basemods: tekkit-v2.0
             balkonsweaponmod: v8.4
             buildcraft: v2.2.12
-            buildcraft-additionalpipes: v34
+            buildcraft-additionalpipes: v32.3
             computercraft: v1.21
             craftingtableii: v1.6.2
             ee2: v1.38
