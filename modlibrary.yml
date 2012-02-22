@@ -15,6 +15,7 @@ mods:
             technic-v6.0.2:
             technic-v6.0.1:
             technic-v6.0.0:
+            tekkit-v2.0:
             v1.3.0:
             v1.2.1y:
             v1.2.0-S:
@@ -470,5 +471,6 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v2.0:
             v2.0.0:
             
