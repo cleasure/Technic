@@ -154,6 +154,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v1.38.1:
             v1.38:
             v1.1:
     elementalcreepers:
