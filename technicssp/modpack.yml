@@ -26,10 +26,10 @@ builds:
             chargingbench: v1.70-1
             craftingtableii: v1.6.2
             custommobspawner: v1.4
-            ee2: v1.38
+            ee2: v1.38.1
             enderchest: v1.0.1
             forestry: v1.3.4.0
-            inventorytweaks: v1.38.1
+            inventorytweaks: v1.38
             ic2: v1.70
             ic2-advancedmachines: v3.2_beta2
             matmos: r10
