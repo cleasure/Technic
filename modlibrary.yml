@@ -116,6 +116,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
         versions:
+            v1.3:
             v1.21:
             v1.2:
     craftguide:
@@ -192,6 +193,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
+            v1.3.4.3:
             v1.3.4.0:
             v1.3.2.1:
             v1.2.9.15:

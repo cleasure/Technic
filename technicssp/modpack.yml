@@ -22,19 +22,19 @@ builds:
             buildcraft-additionalpipes: v34
             buildcraft-logisticspipes: v0.2.0b
             buildcraft-objects: v63
-            computercraft: v1.21
+            computercraft: v1.3
             chargingbench: v1.70-1
             craftingtableii: v1.6.2
             custommobspawner: v1.4
             ee2: v1.38.1
             enderchest: v1.0.1
-            forestry: v1.3.4.0
+            forestry: v1.3.4.3
             inventorytweaks: v1.38
             ic2: v1.70
             ic2-advancedmachines: v3.2_beta2
             matmos: r10
             mocreatures: v3.2.2
-            millenaire: v2.2.8
+            millenaire: v2.3.1
             netherores: v1.1.2
             rc: v3.3.1
             redpower: v2.0.4d
