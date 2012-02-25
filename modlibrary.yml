@@ -179,6 +179,11 @@ mods:
         installtype: "zip"
         versions:
             v1.0.0:
+    floodgate:
+        name: "Floodgates"
+        installtype: "zip"
+        versions:
+            v1.1:
     forestry:
         name: "Forestry"
         desctiption: ""
@@ -250,6 +255,7 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.3.1:
             v2.2.8:
             v2.2.5:
             v2.2.4:
@@ -320,6 +326,11 @@ mods:
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
+    pfaeff:
+        name: "Pfaeff's Mods"
+        installtype: "zip"
+        versions:
+            v1.1:
     powerconverters:
         name: "Power Converters"
         description: ""
@@ -420,6 +431,11 @@ mods:
         versions:
             v1.1:
             v1.0.0:
+    twilightforest:
+        name: "Twilight Forest"
+        installtype: "zip"
+        versions:
+            v1.6r2:
     wirelessredstone:
         name: "Wireless Redstone"
         description: "Wireless Redstone is a Minecraft modification that allows you to transmit and receive redstone signals without wires. The mod has been in beta for 4 weeks prior to final release, this was done to guarantee as much quality as possible for the final product and to make sure the base mod has room for iteration and expantion."
@@ -480,4 +496,9 @@ mods:
         versions:
             v2.0:
             v2.0.0:
+    z-yogbox-configs:
+        name: "Yogbox Configs"
+        installtype: "zip"
+        versions:
+            v1.1.0:
             
