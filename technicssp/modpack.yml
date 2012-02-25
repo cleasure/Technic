@@ -249,7 +249,7 @@ builds:
         libraries: *lib-1
         minecraft: 1.1
         mods:
-            basemods: yogbox-v1.1.0
+            basemods: yogbox-v1.1.1
             armorstand: v1.1
             craftguide: v1.4.1
             ee2: v1.38

@@ -6,6 +6,7 @@ mods:
         modtype: "content"
         link: ""
         versions:
+            yogbox-v1.1.1:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
