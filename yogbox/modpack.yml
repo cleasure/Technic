@@ -11,24 +11,12 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    b1.3.0:
+    b1.1.0:
         libraries: *lib-1
         minecraft: 1.1
         mods:
-            basemods: v1.2.1y
-            armorstand: v1.1
-            craftguide: v1.4.1
-            craftingtableii: v1.6.2
-            custommobspawner: v1.4
-            ee: v6.18
-            elementalcreepers: v2.0
-            millenaire: v2.1.5
-            mocreatures: v3.2.2
-            inventorytweaks: v1.36
-            reisminimap: v3.0_01
-            shelf: v1.1
-            thaumcraft: v1.2.4bc3
-            treecapitator: v1.1
+            basemods: yogbox-v1.1.0
+            yogbox: test
     b1.2.1:
         libraries: *lib-1
         minecraft: 1.0.0
