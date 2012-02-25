@@ -263,6 +263,7 @@ builds:
             thaumcraft: v1.2.5bc3
             treecapitator: v1.1
             twilightforest: v1.6r2
+            z-yogbox-configs: v1.1.0
     b1:
         libraries: *lib-1
         minecraft: 1.1
