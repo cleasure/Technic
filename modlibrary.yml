@@ -455,7 +455,7 @@ mods:
         name: "Yogbox"
         installtype: "zip"
         versions:
-            test:
+            v1.1.0:
     zeppelin:
         name: "Zeppelin Mod"
         installtype: "zip"

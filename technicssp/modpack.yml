@@ -250,7 +250,7 @@ builds:
         minecraft: 1.1
         mods:
             basemods: yogbox-v1.1.0
-            yogbox: test
+            yogbox: v1.1.0
     b1:
         libraries: *lib-1
         minecraft: 1.1
