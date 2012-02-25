@@ -252,7 +252,8 @@ builds:
             basemods: yogbox-v1.1.1
             armorstand: v1.1
             craftguide: v1.4.1
-            ee2: v1.38
+            custommobspawner: v1.4
+            ee2: v1.38.1
             floodgate: v1.1
             inventorytweaks: v1.38
             millenaire: v2.3.1
