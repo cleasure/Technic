@@ -299,10 +299,6 @@ builds:
         libraries: *lib-1
         minecraft: 1.1
         mods:
-    6.0.7:
-        libraries: *lib-1
-        minecraft: 1.1
-        mods:
             basemods: technic-v6.1.0
             balkonsweaponmod: v8.4
             betterdungeons: v0.922
