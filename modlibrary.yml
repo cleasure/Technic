@@ -10,6 +10,7 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v6.1.0:
             technic-v6.0.7:
             technic-v6.0.6:
             technic-v6.0.5:
@@ -78,6 +79,7 @@ mods:
     buildcraft-logisticspipes:
         installtype: "zip"
         versions:
+            v0.2.1a:
             v0.2.0b:
             v0.1.0a:
             v0.1.2a:
@@ -207,6 +209,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
+            v1.71:
             v1.70:
             v1.43:
                 dependencies:
@@ -258,6 +261,7 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.3.2:
             v2.3.1:
             v2.2.8:
             v2.2.5:
@@ -349,6 +353,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v3.4.0:
             v3.3.1:
             v3.2.1:
             v3.0.0:

@@ -1,5 +1,3 @@
-E1ED9D967F4A5924F61990A8D0279C96|mods\yogbox\yogbox-test.zip
-E1ED9D967F4A5924F61990A8D0279C96|mods\yogbox\yogbox-v1.1.0.zip
 F5153110229FBBDA8BEE81EAF20045C7|forums_small.png
 4854C2344AA182AD4F37976E83348AA0|Libraries\commons-io\commons-io-2.1.jar
 71B48E6B3E1B1DC73FE705604B9C7584|Libraries\commons-lang3\commons-lang3-3.1.jar
@@ -29,7 +27,7 @@ EFFE7B2F806C5FAA8DF2DE8BAEA207AA|minecraft.yml
 3B36C98EF061CA89E6A1B6DFC91EBC3F|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI-0.13.1-1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI-0.13.1-1.1\gui\gui.png
-1D409263C7F7F432AB573BB25B1621D8|modlibrary.yml
+10BF6838A3D9DD1496761A31FCF9FBFF|modlibrary.yml
 3B62D45388927722EA60AA2B3A6742D1|modpacks.yml
 253B4C87FBD05039620B08F1B42E223E|mods\airships\airships-v2.5.1.zip
 6A2200B23D01778F31AE215A93FC4C58|mods\armorstand\armorstand-v1.1.zip
@@ -46,6 +44,7 @@ A1C8D2FB3A045ED038D6278E3D4C49CA|mods\basemods\basemods-technic-v6.0.3.zip
 E31CB01BFD347276AEEFC6AC9295534A|mods\basemods\basemods-technic-v6.0.5.zip
 5DA3C78B8D44C1308DD8DE191BE4DC2D|mods\basemods\basemods-technic-v6.0.6.zip
 B4341BB67394D88F53FF196FE3A70CC9|mods\basemods\basemods-technic-v6.0.7.zip
+D65B89E77BBE771A6E4D9BBD042254D0|mods\basemods\basemods-technic-v6.1.0.zip
 8D7AC30CA4D6A18C37C2288A98125BAC|mods\basemods\basemods-tekkit-v2.0-optifree.zip
 9F6ED0FFD50F35C9CF98115D3CD59C0A|mods\basemods\basemods-tekkit-v2.0.zip
 74246E99B7C29D2D041D6169EC6747E6|mods\basemods\basemods-test.zip
@@ -77,6 +76,7 @@ C40F46DC1094694D8D437DF25F2FC0AB|mods\buildcraft-additionalpower\buildcraft-addi
 F88899E03BEA13D2807DBF6218055910|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.1.3a.zip
 44CEB86E84CFC8C28B060746D4144F25|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.1.8a.zip
 CB733F859512FF13FE652EE2C2DF4234|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.2.0b.zip
+5AB85F0631770A3249C11F42A964002D|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.2.1A.zip
 173C7E6998B2FFD97F56535AB84CEC5B|mods\buildcraft-objects\buildcraft-objects-v56.zip
 B6B5234679D04979006F7B7CA35FD1F3|mods\buildcraft-objects\buildcraft-objects-v63.zip
 CA36A7C2A9C3DC0EE6CE76C3A3ACAD75|mods\chargingbench\chargingbench-v1.43.zip
@@ -117,6 +117,7 @@ DE13F0068CCCDF6565AE2F2398C19506|mods\forestry\forestry-v1.3.2.1.zip
 3E1DE79032E4BD06AB952090FC70A805|mods\ic2\ic2-v1.43.zip
 D9C57518F6D9E4AA125745D1CA0359AC|mods\ic2\ic2-v1.64.zip
 1962EB6E09D19A91409D7FC00E11F27D|mods\ic2\ic2-v1.70.zip
+93342827E927EAF62BEF9D26BC32E4FF|mods\ic2\ic2-v1.71.zip
 DCC6801EC165C6F4AB609E3CE444FC4C|mods\ic2-advancedmachines\ic2-advancedmachines-v3.1.zip
 7D37C44326FC09D24CBDA36E714933E8|mods\ic2-advancedmachines\ic2-advancedmachines-v3.2_beta2.zip
 5F883813E1C12553CD6525A40D2EDD58|mods\inventorytweaks\inventorytweaks-v1.34b.zip
@@ -145,6 +146,7 @@ D45E374354876925BFB096A6C44932C7|mods\millenaire\millenaire-v2.1.zip
 EBF5C30B56059DCD2DEDB69412BDF20B|mods\millenaire\millenaire-v2.2.8.zip
 21B9909BD01DC12212AA742806D3E5EA|mods\millenaire\millenaire-v2.2.zip
 D4259C38A4BBF07E7721C31EEFB47A68|mods\millenaire\millenaire-v2.3.1.zip
+B7C0126651C302D1782EE8062D975C0D|mods\millenaire\millenaire-v2.3.2.zip
 49CEE2CC6ABE503AC86131F41C30EA4D|mods\minecraftconsole\minecraftconsole-v1.1.zip
 7735F526DAC16D6792327676ECFDCC58|mods\minecraftconsole\minecraftconsole-v1.2.zip
 F2B351A7F33FA8F579108247BEA7F354|mods\mocreatures\mocreatures-v3.1.0.zip
@@ -159,6 +161,7 @@ B6637143AC02D02481482094A1C8D483|mods\rc\rc-v2.1.1.zip
 DFFA3A897B0679D670652F8CC42F0B8C|mods\rc\rc-v3.0.0.zip
 4C258FED31188B52B13F75E0C6DAAB08|mods\rc\rc-v3.2.1.zip
 72A0F196668B46971FA8E1D139176917|mods\rc\rc-v3.3.1.zip
+72A0F196668B46971FA8E1D139176917|mods\rc\rc-v3.4.0.zip
 1B7568F7486B0D508645DF48F5DFD237|mods\recipehelper\recipehelper-v4.zip
 C4F8ACB605084C644790749A58AF70D7|mods\redpower\redpower-v2.0.4b.zip
 E1ADD5BC73E020AD797E5584225EB7E5|mods\redpower\redpower-v2.0.4c.zip
@@ -230,7 +233,7 @@ F640DA15AC0416E5BB4281AE2AF99072|Patches\Minecraft\minecraft_b1.8.1-1.0.0.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 C26948166D6EE219696A613960DCC3D6|technic-launcher.jar
-2EAC11EEC40240CDB37FE776F5F830D1|technicssp\modpack.yml
+D1B86E802BE3B2559367C3596D5CB673|technicssp\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|technicssp\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|technicssp\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|technicssp\resources\icon.ico
