@@ -10,6 +10,14 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v6.1.1:
+            technic-v6.1.1-biome:
+            technic-v6.1.1-hd:
+            technic-v6.1.1-hd-biome:
+            technic-v6.1.1-hd-s:
+            technic-v6.1.1-hd-s-biome:
+            technic-v6.1.1-hd-mt:
+            technic-v6.1.1-hd-mt-biome:
             technic-v6.1.0:
             technic-v6.0.7:
             technic-v6.0.6:
@@ -93,6 +101,11 @@ mods:
                 dependencies:
                     buildcraft: v2.2.7
             v63:
+    caruins:
+        name: "CARuins"
+        installtype: "zip"
+        versions:
+            v2.3.0:
     chargingbench:
         name: "IC2 Charging Bench"
         description: "A bench with multiple charging slots so you can charge all of your items at once.  Apply redstone power to the bench to reverse the way it functions."
@@ -129,6 +142,7 @@ mods:
             v1.4.1:
                 dependencies:
                     minecraft: 1.1
+            v1.4.2:
     craftingtableii:
         name: "Crafting Table II"
         description: "Inspired by Terraria crafting, Crafting Table II displays everything you can currently craft with the items in your inventory. How much of each item the recipe uses is displayed on the left as well as a description of that item, click on the item and the Crafting Table II will automatically craft it for you without you ever having to remember recipes. As you add and remove items from your inventory the list of available items updates. Works with any recipe, including mods."
@@ -195,6 +209,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
+            v1.3.4.4:
             v1.3.4.3:
             v1.3.4.0:
             v1.3.2.1:
@@ -418,6 +433,7 @@ mods:
         name: "Thaumcraft"
         installtype: "zip"
         versions:
+            v1.2.6:
             v1.2.5bc3:
             v1.2.4bc3:
             v1.2.4bc2:
