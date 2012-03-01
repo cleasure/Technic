@@ -7,6 +7,11 @@ versions:
         lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
         lwjgl_util: f00470751cfc093ba760ca3cf10a512c
         minecraft: e92302d2acdba7c97e0d8df1e10d2006
+    '1.2':
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: ee18a8cc1db8d15350bceb6ee71292f4
     1.0.0:
         jinput: a7835a73a130656aba23e34147a55367
         lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
