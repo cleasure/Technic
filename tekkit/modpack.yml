@@ -1,7 +1,7 @@
 launcher: 0.5.0
 current:
 recommended: 2.0.0
-latest: 2.0.0
+latest: 2.1.0
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,6 +11,29 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    2.1.0:
+        libraries: *lib-1
+        minecraft: 1.1
+        mods:
+            basemods: tekkit-v2.0
+            balkonsweaponmod: v8.4
+            buildcraft: v2.2.12
+            buildcraft-additionalpipes: v32.3
+            computercraft: v1.3
+            craftingtableii: v1.6.2
+            ee2: v1.38.1
+            enderchest: v1.0.1
+            forestry: v1.2.6.4
+            inventorytweaks: v1.38
+            ic2: v1.71
+            matmos: r10
+            netherores: v1.1.2
+            powerconverters: v1.3.1_01
+            rc: v3.3.1
+            redpower: v2.0.4d
+            reisminimap: v3.0_01
+            wirelessredstone: v1.5.1
+            z-tekkit-configs: v2.1
     2.0.0:
         libraries: *lib-1
         minecraft: 1.1

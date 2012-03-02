@@ -264,6 +264,11 @@ mods:
                 dependencies:
                     baseModloader: 1.0.0
             v1.37c:
+    ironchests:
+        name: "Iron Chests"
+        installtype: "zip"
+        versions:
+            v2.5:
     matmos:
         name: "MAtmos"
         description: ""
