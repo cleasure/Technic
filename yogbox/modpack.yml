@@ -12,7 +12,7 @@ lib-1: &lib-1
     trove4j: 3.0.1
 builds:
     b1.1.0:
-        libraries: *lib-1
+        libraries: 
         minecraft: 1.1
         mods:
             basemods: yogbox-v1.1.1
