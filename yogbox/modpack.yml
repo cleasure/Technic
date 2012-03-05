@@ -35,9 +35,11 @@ builds:
         libraries: 
         minecraft: 1.1
         mods:
-            basemods: yogbox-v1.1.1
+            basemods: yogbox-v1.1.2
+            betterdungeons: v0.922
             armorstand: v1.1
             craftguide: v1.4.1
+            craftingtableii: v1.6.2
             custommobspawner: v1.4
             ee2: v1.38.1
             floodgate: v1.1
