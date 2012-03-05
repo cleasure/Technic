@@ -66,15 +66,7 @@ EBC6ECA2A25EB973E10142037FF846BC|mods\basemods\basemods-v5.0.5.zip
 A0CA97DB36B1EB079D91CED8D645E26A|mods\basemods\basemods-vanilla-v1.2.3.zip
 D0757110CA029B7DD052EDE4B531C7D8|mods\basemods\basemods-yogbox-v1.1.0.zip
 73E68658F4717B42205AE536164B1555|mods\basemods\basemods-yogbox-v1.1.1.zip
-<<<<<<< HEAD
 944CE15EA0060F6398F5BE54BA45676A|mods\basemods\basemods-yogbox-v1.1.2.zip
-=======
-<<<<<<< HEAD
-944CE15EA0060F6398F5BE54BA45676A|mods\basemods\basemods-yogbox-v1.1.2.zip
-=======
-6D13BB27DF4C8154168B19D7D83AD400|mods\basemods\basemods-yogbox-v1.1.2.zip
->>>>>>> 33162dac17b2dc197ad4df08ca0aa1932d2f2a52
->>>>>>> d87ac91ae757b6eb562480f465c0559a0e0d54c4
 AF8116DDBC0B18BFE6841B389F8C0DE6|mods\betterdungeons\betterdungeons-v0.91.zip
 6C72B7C063E08673219323068502AB9D|mods\betterdungeons\betterdungeons-v0.92.zip
 DA4A4BB15E8EB6595DC488E0364F660E|mods\betterdungeons\betterdungeons-v0.921.zip
@@ -237,7 +229,7 @@ AB86B00832D779F0164336876AA8DC92|mods\z-technic-configs\z-technic-configs-v6.0.7
 3140D75B73EA55E4D6E145AE3EBB6EFD|mods\z-tekkit-configs\z-tekkit-configs-v2.1.1.zip
 C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 34BBA92645015B23B28D84668E8A0210|mods\z-yogbox-configs\z-yogbox-configs-v1.1.0.zip
-40B22F5B8F31E8A030E4BF3977DAE990|mods\z-yogbox-configs\z-yogbox-configs-v1.1.1.zip
+6898BC1E65F60917592863CE8D0DED57|mods\z-yogbox-configs\z-yogbox-configs-v1.1.1.zip
 2D8CE20468D98C05A559AF82A0EC5023|mods\zeppelin\zeppelin-v1.1.0.0.25.zip
 C72F0962D992FA5E787DADB806453533|mods.yml
 DC645600C1B866A2BAB8416F16BA56E0|Patches\Minecraft\minecraft_1.0.0-1.1.patch
@@ -285,15 +277,7 @@ AB01849A4C1C550804E718C2341C0BCC|vanilla\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|vanilla\resources\icon.ico
 1DB1857730E6E58158ED42DBD5273C0A|vanilla\resources\icon.png
 2030AA9A0EA63A0E38F1C565C1F5C18F|vanilla\resources\logo.png
-<<<<<<< HEAD
 71B281DC6535A9526966710303E3EEC3|yogbox\modpack.yml
-=======
-<<<<<<< HEAD
-3D6A9E4E91DE369ACFF059515267616E|yogbox\modpack.yml
-=======
-9801E32E7C3B5623F988E6E2D6EFB0F0|yogbox\modpack.yml
->>>>>>> 33162dac17b2dc197ad4df08ca0aa1932d2f2a52
->>>>>>> d87ac91ae757b6eb562480f465c0559a0e0d54c4
 6A4A2B05BE32E092E31ACA4482AE32D8|yogbox\resources\favicon.png
 B5E05F5CC1FB3F21C20E4DD2DCA08394|yogbox\resources\icon.icns
 DEA47CBFD8A73FF1716D87E8DD4298E7|yogbox\resources\icon.ico
