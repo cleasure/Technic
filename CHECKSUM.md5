@@ -27,7 +27,7 @@ AE6D695605990BD2544B358F17B11C28|Libraries\trove4j\trove4j-3.0.1.jar
 3B36C98EF061CA89E6A1B6DFC91EBC3F|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI-0.13.1-1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI-0.13.1-1.1\gui\gui.png
-26004360432CE1583232262A462A1FEB|modlibrary.yml
+D1B4660B90983DD3B189A63AAE6673A9|modlibrary.yml
 235DC64B8CC85ED6A55D19B3F48C7E76|modpacks.yml
 253B4C87FBD05039620B08F1B42E223E|mods\airships\airships-v2.5.1.zip
 6A2200B23D01778F31AE215A93FC4C58|mods\armorstand\armorstand-v1.1.zip
@@ -135,6 +135,8 @@ D9C57518F6D9E4AA125745D1CA0359AC|mods\ic2\ic2-v1.64.zip
 93342827E927EAF62BEF9D26BC32E4FF|mods\ic2\ic2-v1.71.zip
 DCC6801EC165C6F4AB609E3CE444FC4C|mods\ic2-advancedmachines\ic2-advancedmachines-v3.1.zip
 7D37C44326FC09D24CBDA36E714933E8|mods\ic2-advancedmachines\ic2-advancedmachines-v3.2_beta2.zip
+A8DBF057A0E0A68B425208D9C16748DB|mods\ic2-advancedmachines\ic2-advancedmachines-v3.6e.zip
+8880AC3EDDD6AB7CCE521FCCD4115270|mods\ic2-compactsolars\ic2-compactsolars-v1.2.zip
 5F883813E1C12553CD6525A40D2EDD58|mods\inventorytweaks\inventorytweaks-v1.34b.zip
 305E4EFF9032A0274AE3822EBB7D35C3|mods\inventorytweaks\inventorytweaks-v1.35.zip
 F69D0D5C8E73F21B693B2946ECF3112B|mods\inventorytweaks\inventorytweaks-v1.36.zip
@@ -223,6 +225,7 @@ DD7AF3639C49E8DC89501C74101DBD77|mods\z-technic-configs\z-technic-configs-v6.0.4
 AB86B00832D779F0164336876AA8DC92|mods\z-technic-configs\z-technic-configs-v6.0.7.zip
 8C0F792604EF242A35789C6A92DD02A8|mods\z-tekkit-configs\z-tekkit-configs-v2.0.0.zip
 4818E3B1DF69797778A7CDE49244C01C|mods\z-tekkit-configs\z-tekkit-configs-v2.0.zip
+DF4F5AF00038DCCBE1623E88491E08BD|mods\z-tekkit-configs\z-tekkit-configs-v2.1.1.zip
 C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 34BBA92645015B23B28D84668E8A0210|mods\z-yogbox-configs\z-yogbox-configs-v1.1.0.zip
 2D8CE20468D98C05A559AF82A0EC5023|mods\zeppelin\zeppelin-v1.1.0.0.25.zip
@@ -260,7 +263,7 @@ AB01849A4C1C550804E718C2341C0BCC|technicssp\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|technicssp\resources\icon.ico
 1DB1857730E6E58158ED42DBD5273C0A|technicssp\resources\icon.png
 8657F44B42D2947BB9C7511176AA8AAE|technicssp\resources\logo.png
-0287176A3602FE16F4D929BBBD913713|tekkit\modpack.yml
+1A1063184ED28EBF63E15DF5FEC58CC3|tekkit\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|tekkit\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|tekkit\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|tekkit\resources\icon.ico
