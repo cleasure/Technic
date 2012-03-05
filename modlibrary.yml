@@ -113,6 +113,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=929"
         versions:
+            v1.71-1:
             v1.70-1:
             v1.64-1:
             v1.43:
@@ -158,6 +159,11 @@ mods:
         installtype: "zip"
         versions:
             v1.4:
+    doorfix:
+        name: "Door Fix"
+        installtype: "zip"
+        versions:
+            v2.1:
     ee:
         name: "Equivalent Exchange"
         description: ""
@@ -214,6 +220,7 @@ mods:
             v1.3.4.0:
             v1.3.2.1:
             v1.2.9.15:
+            v1.2.6.6:
             v1.2.6.4:
             v1.2.6.3:
             v1.3.0.3:
@@ -373,6 +380,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v3.4.2:
             v3.4.0:
             v3.3.1:
             v3.2.1:

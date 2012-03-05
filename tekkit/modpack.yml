@@ -19,17 +19,19 @@ builds:
             balkonsweaponmod: v8.4
             buildcraft: v2.2.12
             buildcraft-additionalpipes: v32.3
+            chargingbench: v1.71-1
             computercraft: v1.3
             craftingtableii: v1.6.2
+            doorfix: v2.1
             ee2: v1.38.1
             enderchest: v1.0.1
-            forestry: v1.2.6.4
+            forestry: v1.2.6.6
             inventorytweaks: v1.38
             ic2: v1.71
             matmos: r10
             netherores: v1.1.2
             powerconverters: v1.3.1_01
-            rc: v3.3.1
+            rc: v3.4.2
             redpower: v2.0.4d
             reisminimap: v3.0_01
             wirelessredstone: v1.5.1
