@@ -52,4 +52,27 @@ builds:
             thaumcraft: v1.2.5bc3
             treecapitator: v1.1
             twilightforest: v1.6r2
-            z-yogbox-configs: v1.1.1            
+            z-yogbox-configs: v1.1.1 
+    1.1.2:
+        libraries: 
+        minecraft: 1.1
+        mods:
+            basemods: yogbox-v1.1.2
+            battletowers: v1.1
+            betterdungeons: v0.922
+            armorstand: v1.1
+            craftguide: v1.4.2
+            craftingtableii: v1.6.2
+            custommobspawner: v1.4
+            ee2: v1.38.1
+            floodgate: v1.1
+            inventorytweaks: v1.38
+            millenaire: v2.3.2
+            mocreatures: v3.2.2
+            pfaeff: v1.1
+            reisminimap: v3.0_01
+            shelf: v1.1
+            thaumcraft: v1.2.6
+            treecapitator: v1.1
+            twilightforest: v1.6r2
+            z-yogbox-configs: v1.1.2
