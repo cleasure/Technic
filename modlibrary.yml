@@ -48,15 +48,9 @@ mods:
             v8.2:
             v8.1:
     battletowers:
-<<<<<<< HEAD
         installtype: "zip"
         versions:
             v1.1:
-=======
-    	installtype: "zip"
-    	versions:
-    	    v1.1:
->>>>>>> 88c7a6ecb87e100ccd5f356b6ab9e48551741fc4
     betterdungeons:
         installtype: "zip"
         versions:
