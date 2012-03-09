@@ -67,6 +67,7 @@ A0CA97DB36B1EB079D91CED8D645E26A|mods\basemods\basemods-vanilla-v1.2.3.zip
 D0757110CA029B7DD052EDE4B531C7D8|mods\basemods\basemods-yogbox-v1.1.0.zip
 73E68658F4717B42205AE536164B1555|mods\basemods\basemods-yogbox-v1.1.1.zip
 944CE15EA0060F6398F5BE54BA45676A|mods\basemods\basemods-yogbox-v1.1.2.zip
+F6B5D8AE8D9D181047FC357B19E37EC4|mods\battletowers\battletowers-v1.1.zip
 AF8116DDBC0B18BFE6841B389F8C0DE6|mods\betterdungeons\betterdungeons-v0.91.zip
 6C72B7C063E08673219323068502AB9D|mods\betterdungeons\betterdungeons-v0.92.zip
 DA4A4BB15E8EB6595DC488E0364F660E|mods\betterdungeons\betterdungeons-v0.921.zip
@@ -172,7 +173,7 @@ F2B351A7F33FA8F579108247BEA7F354|mods\mocreatures\mocreatures-v3.1.0.zip
 266F0DC415CD26A65E7305D5876E7A29|mods\mocreatures\mocreatures-v3.2.2.zip
 2F4535A052067C56B7BC2AEA34A37C4A|mods\netherores\netherores-v1.1.0.zip
 6415D0A259F49FBEB97D134EA1297E22|mods\netherores\netherores-v1.1.2.zip
-3D70B4F62767B99D1D4162116B929817|mods\pfaeff\pfaeff-v1.1.zip
+1C6B82C61FD4B8C69B4CEE9FD4EA3C06|mods\pfaeff\pfaeff-v1.1.zip
 97F2247F4E9EDFB70D1457CE91AB25ED|mods\powerconverters\powerconverters-v1.3.0p2.zip
 2C1282E0E6A1505EECC070F8BFF1F904|mods\powerconverters\powerconverters-v1.3.1_01.zip
 B6637143AC02D02481482094A1C8D483|mods\rc\rc-v2.1.1.zip
@@ -230,6 +231,7 @@ AB86B00832D779F0164336876AA8DC92|mods\z-technic-configs\z-technic-configs-v6.0.7
 C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 34BBA92645015B23B28D84668E8A0210|mods\z-yogbox-configs\z-yogbox-configs-v1.1.0.zip
 6898BC1E65F60917592863CE8D0DED57|mods\z-yogbox-configs\z-yogbox-configs-v1.1.1.zip
+A414D911C5FA60AB8CAE9400ADB428C4|mods\z-yogbox-configs\z-yogbox-configs-v1.1.2.zip
 2D8CE20468D98C05A559AF82A0EC5023|mods\zeppelin\zeppelin-v1.1.0.0.25.zip
 C72F0962D992FA5E787DADB806453533|mods.yml
 DC645600C1B866A2BAB8416F16BA56E0|Patches\Minecraft\minecraft_1.0.0-1.1.patch
@@ -277,7 +279,7 @@ AB01849A4C1C550804E718C2341C0BCC|vanilla\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|vanilla\resources\icon.ico
 1DB1857730E6E58158ED42DBD5273C0A|vanilla\resources\icon.png
 2030AA9A0EA63A0E38F1C565C1F5C18F|vanilla\resources\logo.png
-7E1F7A92E093B7B29E2E9ED7B15E6E9C|yogbox\modpack.yml
+973152CBE14EE49088429514AC9183E2|yogbox\modpack.yml
 6A4A2B05BE32E092E31ACA4482AE32D8|yogbox\resources\favicon.png
 B5E05F5CC1FB3F21C20E4DD2DCA08394|yogbox\resources\icon.icns
 DEA47CBFD8A73FF1716D87E8DD4298E7|yogbox\resources\icon.ico
