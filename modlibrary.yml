@@ -150,7 +150,7 @@ mods:
                 dependencies:
                     minecraft: 1.1
             v1.4.2:
-			v1.4.3:
+            v1.4.3:
     craftingtableii:
         name: "Crafting Table II"
         description: "Inspired by Terraria crafting, Crafting Table II displays everything you can currently craft with the items in your inventory. How much of each item the recipe uses is displayed on the left as well as a description of that item, click on the item and the Crafting Table II will automatically craft it for you without you ever having to remember recipes. As you add and remove items from your inventory the list of available items updates. Works with any recipe, including mods."
@@ -451,7 +451,7 @@ mods:
         installtype: "zip"
         versions:
             v1.1:
-			v1.1yb:
+            v1.1yb:
     shelf:
         name: "Shelf"
         installtype: "zip"
@@ -557,4 +557,4 @@ mods:
             v1.1.0:
             v1.1.1:
             v1.1.2:
-			v1.1.3:
+            v1.1.3:
