@@ -359,6 +359,11 @@ mods:
         versions:
             v3.2.2:
             v3.1.0:
+    morefuel:
+        installtype: "zip"
+        name: "More Fuel"
+        versions:
+            v1.7:
     netherores:
         name: "Nether Ores"
         description: "This is a fairly basic mod. It makes the eight 'ores' - coal, diamond, gold, iron, lapis, redstone, sopper and tin - spawn in the nether so that you have a reason to go there."
