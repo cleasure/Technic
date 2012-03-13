@@ -35,6 +35,11 @@ mods:
             v1.2.0:
             v5.0.5:
             tekkit-v2.0.0:
+    adventureitems:
+        name: "Adventure Items"
+        installtype: "zip"
+        versions:
+            v1.1:
     armorstand:
         name: "Armor stand mod"
         installtype: "zip"
@@ -339,6 +344,11 @@ mods:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
                     buildcraft: 2.2.7
+    minecolony:
+        names: "Minecolony"
+        installtype: "zip"
+        versions:
+            v17yb:
     minecraftconsole:
         name: "Minecraft Console"
         description: "The Minecraft console mod adds a new GUI console to Minecraft which makes viewing messages a whole lot easier!"
