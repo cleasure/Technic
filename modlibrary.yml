@@ -477,7 +477,7 @@ mods:
     somnia:
         name: "Somnia"
         installtype: "zip"
-        verions:
+        versions:
             v21:
     thaumcraft:
         name: "Thaumcraft"
