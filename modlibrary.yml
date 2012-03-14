@@ -12,14 +12,6 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
-            technic-v6.1.1:
-            technic-v6.1.1-biome:
-            technic-v6.1.1-hd:
-            technic-v6.1.1-hd-biome:
-            technic-v6.1.1-hd-s:
-            technic-v6.1.1-hd-s-biome:
-            technic-v6.1.1-hd-mt:
-            technic-v6.1.1-hd-mt-biome:
             technic-v6.1.0:
             technic-v6.0.7:
             technic-v6.0.6:
@@ -59,6 +51,7 @@ mods:
     betterdungeons:
         installtype: "zip"
         versions:
+            v0.923:
             v0.922:
             v0.921:
             v0.92:
@@ -70,6 +63,7 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.1.4pre:
             v3.1.3:
                 dependencies:
                     baseforge: 1.3.1
@@ -108,6 +102,7 @@ mods:
         name: "BuildCraft Objects"
         installtype: "zip"
         versions:
+            v84:
             v56:
                 dependencies:
                     buildcraft: v2.2.7
@@ -143,6 +138,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
         versions:
+            v1.31:
             v1.3:
             v1.21:
             v1.2:
@@ -191,6 +187,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v1.4.0.3:
             v1.38.1:
             v1.38:
             v1.1:
@@ -207,6 +204,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/909223-100181-chickenbones-mods/"
         versions:
+            v1.0.2:
             v1.0.1v2:
             v1.0.1:
             v1.0:
@@ -227,6 +225,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
+            v1.4.0.1:
             v1.3.4.4:
             v1.3.4.3:
             v1.3.4.0:
@@ -281,6 +280,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/323444-100spsmp-inventory-tweaks-135-dec-24/"
         optional: true
         versions:
+            v1.40b:
             v1.38:
             v1.36:
             v1.35:
@@ -307,6 +307,7 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.4.2:
             v2.3.2:
             v2.3.1:
             v2.2.8:
@@ -457,6 +458,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/482147-100b181b19pre5jan01-reis-minimap-v29-01/"
         optional: true
         versions:
+            v3.0_03:
             v3.0_01:
             v3.0:
             v2.9.01:
@@ -472,6 +474,11 @@ mods:
         installtype: "zip"
         versions:
             v1.1:
+    somnia:
+        name: "Somnia"
+        installtype: "zip"
+        verions:
+            v21:
     thaumcraft:
         name: "Thaumcraft"
         installtype: "zip"
@@ -510,6 +517,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/328725-100wireless-redstone-v15/"
         versions:
+            v1.5.3:
             v1.5.2:
                 dependencies:
                     baseModloader: 1.1.0
@@ -533,6 +541,7 @@ mods:
         name: "XP Book"
         installtype: "zip"
         versions:
+            v5:
             v4:
     yogbox:
         name: "Yogbox"
@@ -543,12 +552,14 @@ mods:
         name: "Zeppelin Mod"
         installtype: "zip"
         versions:
+            v1.1.0.0.28:
             v1.1.0.0.25:
     z-technic-configs:
         name: "Technic Configs"
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v6.1.0:
             v6.0.7:
             v6.0.6:
             v6.0.5:

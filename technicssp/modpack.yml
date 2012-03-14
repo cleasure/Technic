@@ -44,6 +44,26 @@ lib-1: &lib-1
     zeppelin: v1.1.0.0.25
     z-technic-configs: v6.0.7
 builds:
+    6.1.0:
+        libraries: *lib-1
+        minecraft: 1.1
+        mods:
+            basemods: technic-v6.1.0
+            betterdungeons: v0.923
+            buildcraft: v3.1.4pre
+            buildcraft-objects: v84
+            computercraft: v1.31
+            ee2: v1.4.0.3
+            enderchest: v1.0.2
+            forestry: v1.4.0.1
+            inventorytweaks: v1.40b
+            millenaire: v2.4.2
+            reisminimap: v3.0_03
+            somnia: v21
+            wirelessredstone: v1.5.3
+            xpbook: v5
+            zeppelin: v1.1.0.0.28
+            z-technic-configs: v6.1.0
     6.0.7:
         libraries: *lib-1
         minecraft: 1.1
