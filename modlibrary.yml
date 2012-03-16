@@ -321,9 +321,10 @@ mods:
             v2.1.2:
             v2.1:
     minions:
+        name: "Minecraft Minions"
         installtype: "zip"
         versions:
-            v1.1
+            v1.1:
     mfr:
         name: "MineFactory Reloaded"
         description: "A way to automatically farm plants and animals, as well some new rail tracks! With this mod you can set up a completely automated farm for any of these things that requires no real work aside from collecting the harvests and reloading the planter, without incredibly complex and unwieldy water/piston solutions. And you can milk cows to death or otherwise run livestock farms if you need those resources. Oh and it has conveyor belts too."
