@@ -1,7 +1,7 @@
 launcher: 
 current: 
 recommended: 1.1.4
-latest: 1.1.4
+latest: 1.1.5
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -130,3 +130,32 @@ builds:
             treecapitator: v1.1
             twilightforest: v1.6r2
             z-yogbox-configs: v1.1.3
+    1.1.5:
+        libraries: 
+        minecraft: 1.1
+        mods:
+            basemods: yogbox-v1.1.5
+            adventureitems: v1.1
+            balkonsweaponmod: v8.4
+            battletowers: v1.1
+            betterdungeons: v0.922
+            armorstand: v1.1
+            craftguide: v1.4.3
+            craftingtableii: v1.6.2
+            custommobspawner: v1.4
+            ee2: v1.38.1
+            floodgate: v1.1
+            inventorytweaks: v1.38
+            millenaire: v2.3.2
+            minecolony: v17yb
+            minions: v1.1
+            mocreatures: v3.2.2
+            morefuel: v1.7
+            pfaeff: v1.1
+            ropeplus: v1.1yb
+            reisminimap: v3.0_01
+            shelf: v1.1
+            thaumcraft: v1.2.6
+            treecapitator: v1.1
+            twilightforest: v1.6r2
+            z-yogbox-configs: v1.1.5

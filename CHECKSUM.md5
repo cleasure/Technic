@@ -36,7 +36,7 @@ AE6D695605990BD2544B358F17B11C28|Libraries\trove4j\trove4j-3.0.1.jar
 4E2FDFB42B9B3E154F5F7CAE3A83EAE4|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI-0.13.1-1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI-0.13.1-1.1\gui\gui.png
-7D859584AE0C32AEA094F18246D3849D|modlibrary.yml
+4C9BD51FF2EB303E118CFDB4C1887A1F|modlibrary.yml
 235DC64B8CC85ED6A55D19B3F48C7E76|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 253B4C87FBD05039620B08F1B42E223E|mods\airships\airships-v2.5.1.zip
@@ -69,6 +69,7 @@ A0CA97DB36B1EB079D91CED8D645E26A|mods\basemods\basemods-vanilla-v1.2.3.zip
 D0757110CA029B7DD052EDE4B531C7D8|mods\basemods\basemods-yogbox-v1.1.0.zip
 73E68658F4717B42205AE536164B1555|mods\basemods\basemods-yogbox-v1.1.1.zip
 EAAFAB5AA4D4E61C68724C2DD074E647|mods\basemods\basemods-yogbox-v1.1.2.zip
+217E46E7114CAAD8313BF4BC28F43E60|mods\basemods\basemods-yogbox-v1.1.5.zip
 F6B5D8AE8D9D181047FC357B19E37EC4|mods\battletowers\battletowers-v1.1.zip
 AF8116DDBC0B18BFE6841B389F8C0DE6|mods\betterdungeons\betterdungeons-v0.91.zip
 6C72B7C063E08673219323068502AB9D|mods\betterdungeons\betterdungeons-v0.92.zip
@@ -182,6 +183,7 @@ C4F6545612F1662410F5C42804233786|mods\millenaire\millenaire-v2.4.2.zip
 146F162F639026BC2629773EEBAC8753|mods\minecolony\minecolony-v17yb.zip
 49CEE2CC6ABE503AC86131F41C30EA4D|mods\minecraftconsole\minecraftconsole-v1.1.zip
 7735F526DAC16D6792327676ECFDCC58|mods\minecraftconsole\minecraftconsole-v1.2.zip
+5BE72F83AE6FCCBCA9CA580113EEBD79|mods\minions\minions-v1.1.zip
 F2B351A7F33FA8F579108247BEA7F354|mods\mocreatures\mocreatures-v3.1.0.zip
 266F0DC415CD26A65E7305D5876E7A29|mods\mocreatures\mocreatures-v3.2.2.zip
 090BFD2E4BDBDA8CC68625CF672D39D5|mods\morefuel\morefuel-v1.7.zip
@@ -253,6 +255,7 @@ C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 6898BC1E65F60917592863CE8D0DED57|mods\z-yogbox-configs\z-yogbox-configs-v1.1.1.zip
 2EAD4269B0F4A98B64EB494F6B7BCA03|mods\z-yogbox-configs\z-yogbox-configs-v1.1.2.zip
 4403EA4E6710E98B71868F219DB118A0|mods\z-yogbox-configs\z-yogbox-configs-v1.1.3.zip
+A2794281DF9991FB3D8C9874DF3D4C9A|mods\z-yogbox-configs\z-yogbox-configs-v1.1.5.zip
 2D8CE20468D98C05A559AF82A0EC5023|mods\zeppelin\zeppelin-v1.1.0.0.25.zip
 B044BBD6D4F97B74E7C5DE5A37F30077|mods\zeppelin\zeppelin-v1.1.0.0.28.zip
 C72F0962D992FA5E787DADB806453533|mods.yml
@@ -301,7 +304,7 @@ AB01849A4C1C550804E718C2341C0BCC|vanilla\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|vanilla\resources\icon.ico
 1DB1857730E6E58158ED42DBD5273C0A|vanilla\resources\icon.png
 2030AA9A0EA63A0E38F1C565C1F5C18F|vanilla\resources\logo.png
-F0988E098036035DABB2948BD906D719|yogbox\modpack.yml
+E3A23AA5576F2F870A4D485CFB793A08|yogbox\modpack.yml
 6A4A2B05BE32E092E31ACA4482AE32D8|yogbox\resources\favicon.png
 B5E05F5CC1FB3F21C20E4DD2DCA08394|yogbox\resources\icon.icns
 DEA47CBFD8A73FF1716D87E8DD4298E7|yogbox\resources\icon.ico
