@@ -1,12 +1,3 @@
-419485CE7B2E370D4D4101DF514FC47C|paypalbutton.png
-F3FF656C2D3EE740D00C09ED625C48A4|mods\basemods\basemods-technic-v6.1.1-biome.zip
-0DFDFA018C4E2A1D9E538284EEE60BD8|mods\basemods\basemods-technic-v6.1.1-hd-biome.zip
-5AF68E9A741F6FE2B428E616CACB2F41|mods\basemods\basemods-technic-v6.1.1-hd-mt-biome.zip
-A0CFF4971D03F1FB8B6FE5AEFD825D55|mods\basemods\basemods-technic-v6.1.1-hd-mt.zip
-D8BFF55FB36A91A88306E0586A79F9DD|mods\basemods\basemods-technic-v6.1.1-hd-s-bome.zip
-7A66A644DBEB01E540C935D194B69833|mods\basemods\basemods-technic-v6.1.1-hd-s.zip
-1078BE7C7B211F662A2D669FF093696B|mods\basemods\basemods-technic-v6.1.1-hd.zip
-BE50626D8800C429A7ECFCEBF0F6A7D1|mods\basemods\basemods-technic-v6.1.1.zip
 F5153110229FBBDA8BEE81EAF20045C7|forums_small.png
 4854C2344AA182AD4F37976E83348AA0|Libraries\commons-io\commons-io-2.1.jar
 71B48E6B3E1B1DC73FE705604B9C7584|Libraries\commons-lang3\commons-lang3-3.1.jar
@@ -36,7 +27,7 @@ AE6D695605990BD2544B358F17B11C28|Libraries\trove4j\trove4j-3.0.1.jar
 4E2FDFB42B9B3E154F5F7CAE3A83EAE4|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI-0.13.1-1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI-0.13.1-1.1\gui\gui.png
-4F43F38930E2681C34E055C83CD1C929|modlibrary.yml
+BFC1A28C35E87A3580190665F62AD4F4|modlibrary.yml
 235DC64B8CC85ED6A55D19B3F48C7E76|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 253B4C87FBD05039620B08F1B42E223E|mods\airships\airships-v2.5.1.zip
@@ -45,6 +36,7 @@ D66DE08F5004167E75498940DB6C2FEE|mods\balkonsweaponmod\balkonsweaponmod-v8.1.zip
 98C5F2F1C64CE3BE377DDFA417EF52E5|mods\balkonsweaponmod\balkonsweaponmod-v8.2.zip
 5CA7640E1BEFE4F116306CD64C14D208|mods\balkonsweaponmod\balkonsweaponmod-v8.3.zip
 A58FD3362E670DF702D0B5F108F88C32|mods\balkonsweaponmod\balkonsweaponmod-v8.4.zip
+A69CF9E2661FC93E882CBD3679B69012|mods\balkonsweaponmod\balkonsweaponmod-v8.5.zip
 BDC4BDD60D841C6F378CD3DEE68A44D8|mods\basemods\basemods-technic-no-optifine.zip
 D416BECF3B3F3A65B825E64A89A2AAB0|mods\basemods\basemods-technic-v5.1.0.zip
 407FE6E72F2A453A1B2C76FF3F6E350C|mods\basemods\basemods-technic-v6.0.0.zip
@@ -54,7 +46,7 @@ A1C8D2FB3A045ED038D6278E3D4C49CA|mods\basemods\basemods-technic-v6.0.3.zip
 E31CB01BFD347276AEEFC6AC9295534A|mods\basemods\basemods-technic-v6.0.5.zip
 5DA3C78B8D44C1308DD8DE191BE4DC2D|mods\basemods\basemods-technic-v6.0.6.zip
 B4341BB67394D88F53FF196FE3A70CC9|mods\basemods\basemods-technic-v6.0.7.zip
-C6CBCC72312085708B8E43A5C7256D12|mods\basemods\basemods-technic-v6.1.0.zip
+6AFEAE02E19B5FBDF2C1AEBA88622A3A|mods\basemods\basemods-technic-v6.1.0.zip
 8D7AC30CA4D6A18C37C2288A98125BAC|mods\basemods\basemods-tekkit-v2.0-optifree.zip
 45A3154BCAB5B3FF975C35EF35BAAF72|mods\basemods\basemods-tekkit-v2.0.zip
 74246E99B7C29D2D041D6169EC6747E6|mods\basemods\basemods-test.zip
@@ -79,9 +71,11 @@ E950FAE354F8829E2B757AFBA79CE347|mods\betterdungeons\betterdungeons-v0.923.zip
 F96E206F554198288DBF169B14536487|mods\bettershelf\bettershelf-v1.0.0.zip
 02A41F344ACC210D693DA5251FD1A9EA|mods\buildcraft\buildcraft-v2.2.11.zip
 0F83B9C1390CC0D1C48045C8A65C668F|mods\buildcraft\buildcraft-v2.2.12.zip
+21B7E6B9181FD19A3FC4465DEC6378C4|mods\buildcraft\buildcraft-v2.2.13.zip
 03FD974285584B306AF080A5E5E6EDC7|mods\buildcraft\buildcraft-v2.2.7.zip
 32D94FB54196FAA3858306835B6ACEF7|mods\buildcraft\buildcraft-v3.1.2.zip
 36E94E33A3221E0B28767F823028C3D6|mods\buildcraft\buildcraft-v3.1.3.zip
+4D3F81FCFC8CD1FE84929A58C0970B7D|mods\buildcraft\buildcraft-v3.1.4.zip
 46AD6B0F69E893EBF50A49BCEFE3720E|mods\buildcraft\buildcraft-v3.1.4pre.zip
 97F8C8C4C60FAC6BDA2B2BA8FA227139|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v3.1.zip
 146EE50BD65D4C47D47FD3692E3DCF80|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v32.3.zip
@@ -93,6 +87,7 @@ F88899E03BEA13D2807DBF6218055910|mods\buildcraft-logisticspipes\buildcraft-logis
 44CEB86E84CFC8C28B060746D4144F25|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.1.8a.zip
 CB733F859512FF13FE652EE2C2DF4234|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.2.0b.zip
 5AB85F0631770A3249C11F42A964002D|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.2.1A.zip
+5A498BFE739D1296BB9A3D0382215F7F|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.2.2a.zip
 173C7E6998B2FFD97F56535AB84CEC5B|mods\buildcraft-objects\buildcraft-objects-v56.zip
 B6B5234679D04979006F7B7CA35FD1F3|mods\buildcraft-objects\buildcraft-objects-v63.zip
 38C0960293D6803A10755531EC07E431|mods\buildcraft-objects\buildcraft-objects-v84.zip
@@ -141,11 +136,13 @@ DE13F0068CCCDF6565AE2F2398C19506|mods\forestry\forestry-v1.3.2.1.zip
 2B9B8220816A7828BEDB8D3803CF7137|mods\forestry\forestry-v1.3.4.3.zip
 C0C41B17B08A4CF6C8AA6F00436BD99D|mods\forestry\forestry-v1.3.4.4.zip
 B81F924CE3080562BE28848ABD32B91B|mods\forestry\forestry-v1.4.0.1.zip
+7FB0BC34500B56536E19AAB289A441A8|mods\forestry\forestry-v1.4.0.2.zip
 7DA881AFA458EC54EC0B2E71DBB85A3E|mods\ic2\ic2-v1.42.zip
 3E1DE79032E4BD06AB952090FC70A805|mods\ic2\ic2-v1.43.zip
 D9C57518F6D9E4AA125745D1CA0359AC|mods\ic2\ic2-v1.64.zip
 1962EB6E09D19A91409D7FC00E11F27D|mods\ic2\ic2-v1.70.zip
 93342827E927EAF62BEF9D26BC32E4FF|mods\ic2\ic2-v1.71.zip
+B08F593D952B10C075536DC55F4959EF|mods\ic2\ic2-v1.81.zip
 DCC6801EC165C6F4AB609E3CE444FC4C|mods\ic2-advancedmachines\ic2-advancedmachines-v3.1.zip
 7D37C44326FC09D24CBDA36E714933E8|mods\ic2-advancedmachines\ic2-advancedmachines-v3.2_beta2.zip
 A8DBF057A0E0A68B425208D9C16748DB|mods\ic2-advancedmachines\ic2-advancedmachines-v3.6e.zip
@@ -180,6 +177,7 @@ EBF5C30B56059DCD2DEDB69412BDF20B|mods\millenaire\millenaire-v2.2.8.zip
 D4259C38A4BBF07E7721C31EEFB47A68|mods\millenaire\millenaire-v2.3.1.zip
 B7C0126651C302D1782EE8062D975C0D|mods\millenaire\millenaire-v2.3.2.zip
 C4F6545612F1662410F5C42804233786|mods\millenaire\millenaire-v2.4.2.zip
+2882ACFCB8EEEE2B5F31471B3A4A727E|mods\millenaire\millenaire-v2.4.4.zip
 146F162F639026BC2629773EEBAC8753|mods\minecolony\minecolony-v17yb.zip
 49CEE2CC6ABE503AC86131F41C30EA4D|mods\minecraftconsole\minecraftconsole-v1.1.zip
 7735F526DAC16D6792327676ECFDCC58|mods\minecraftconsole\minecraftconsole-v1.2.zip
@@ -203,6 +201,7 @@ A93246B01B5AA2E693B47A5F48F5720A|mods\rc\rc-v3.4.2.zip
 C4F8ACB605084C644790749A58AF70D7|mods\redpower\redpower-v2.0.4b.zip
 E1ADD5BC73E020AD797E5584225EB7E5|mods\redpower\redpower-v2.0.4c.zip
 811F04D64A4FD98708D2B12AD64FE606|mods\redpower\redpower-v2.0.4d.zip
+6E6C90712137817C04E418B5053F7B73|mods\redpower\redpower-v2.0.4e.zip
 7162D546B80B2BDF3CD663ED95C5E6F8|mods\redstoneremote\redstoneremote-v1.1.0.zip
 D3D82E19AAA6CAADDE42BF8A80A83E2F|mods\reisminimap\reisminimap-v2.9.01.zip
 B94F7DDAACDC0F3F7EDCE53AFA531967|mods\reisminimap\reisminimap-v2.9.zip
@@ -246,7 +245,7 @@ DD7AF3639C49E8DC89501C74101DBD77|mods\z-technic-configs\z-technic-configs-v6.0.4
 99D4D50806206274C548E753D96035BA|mods\z-technic-configs\z-technic-configs-v6.0.5.zip
 20D5E1373BA5BDAA56C09FA99C69BB78|mods\z-technic-configs\z-technic-configs-v6.0.6.zip
 AB86B00832D779F0164336876AA8DC92|mods\z-technic-configs\z-technic-configs-v6.0.7.zip
-5A14B55411E8FF621BD2FF06FEABF49E|mods\z-technic-configs\z-technic-configs-v6.1.0.zip
+D30BAB4D32AE9A065585A5BE9F65FA65|mods\z-technic-configs\z-technic-configs-v6.1.0.zip
 8C0F792604EF242A35789C6A92DD02A8|mods\z-tekkit-configs\z-tekkit-configs-v2.0.0.zip
 4818E3B1DF69797778A7CDE49244C01C|mods\z-tekkit-configs\z-tekkit-configs-v2.0.zip
 2E16D95B4893F110C914E0F48CBAE569|mods\z-tekkit-configs\z-tekkit-configs-v2.1.1.zip
@@ -286,7 +285,7 @@ F640DA15AC0416E5BB4281AE2AF99072|Patches\Minecraft\minecraft_b1.8.1-1.0.0.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 C139201A0E0BED21799DDCF29CB30252|technic-launcher.jar
-60002EB153A108F3EE5F875A84F39764|technicssp\modpack.yml
+5E1AC2AA1B5A9795C4195057025A7DB3|technicssp\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|technicssp\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|technicssp\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|technicssp\resources\icon.ico
