@@ -50,14 +50,17 @@ builds:
         mods:
             basemods: technic-v6.1.0
             betterdungeons: v0.923
-            buildcraft: v3.1.4pre
+            buildcraft: v3.1.4
+            buildcraft-logisticpipes: v2.2a
             buildcraft-objects: v84
             computercraft: v1.31
             ee2: v1.4.0.3
             enderchest: v1.0.2
-            forestry: v1.4.0.1
+            forestry: v1.4.0.2
+            ic2: v1.81
             inventorytweaks: v1.40b
-            millenaire: v2.4.2
+            millenaire: v2.4.4
+            redpower: v2.0.4e
             reisminimap: v3.0_03
             somnia: v21
             wirelessredstone: v1.5.3
