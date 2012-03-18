@@ -51,7 +51,7 @@ builds:
             basemods: technic-v6.1.0
             betterdungeons: v0.923
             buildcraft: v3.1.4
-            buildcraft-logisticpipes: v2.2a
+            buildcraft-logisticspipes: v2.2a
             buildcraft-objects: v84
             computercraft: v1.31
             ee2: v1.4.0.3
