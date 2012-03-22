@@ -1,7 +1,12 @@
 current: '1.1'
 recommended: '1.1'
-latest: 1.2.3
+latest: 1.2.4
 versions:
+    1.2.4:
+        jinput: a7835a73a130656aba23e34147a55367
+        lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
+        lwjgl_util: f00470751cfc093ba760ca3cf10a512c
+        minecraft: 25423eab6d8707f96cc6ad8a21a7250a
     1.2.3:
         jinput: a7835a73a130656aba23e34147a55367
         lwjgl: 7a07c4285fa9a6b204ba59f011f1cd77
