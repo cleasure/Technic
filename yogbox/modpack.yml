@@ -1,6 +1,6 @@
 launcher: 
 current: 
-recommended: 1.1.5
+recommended: 1.1.6
 latest: 1.1.6
 lib-1: &lib-1
     commons-io: 2.1
@@ -181,7 +181,6 @@ builds:
             morefuel: v1.7
             pfaeff: v1.1
             ropeplus: v1.1yb
-            redpower: v2.0.4d_yb
             reisminimap: v3.0_01
             shelf: v1.1
             thaumcraft: v1.2.6

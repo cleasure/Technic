@@ -1,3 +1,4 @@
+58DD37B9F2C0A7895FB8816CD21E7B4E|mods\redpower\redpower-v2.0.4d_yb.zip
 F5153110229FBBDA8BEE81EAF20045C7|forums_small.png
 4854C2344AA182AD4F37976E83348AA0|Libraries\commons-io\commons-io-2.1.jar
 71B48E6B3E1B1DC73FE705604B9C7584|Libraries\commons-lang3\commons-lang3-3.1.jar
@@ -27,7 +28,7 @@ AE6D695605990BD2544B358F17B11C28|Libraries\trove4j\trove4j-3.0.1.jar
 420192962A93B659D3AD4D0BCF699BF6|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI-0.13.1-1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI-0.13.1-1.1\gui\gui.png
-0A31599FC9DB0EE97CE0D44E78A6DE82|modlibrary.yml
+3DF0665DB3159A6AEC89AD08F1C62B4A|modlibrary.yml
 235DC64B8CC85ED6A55D19B3F48C7E76|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 253B4C87FBD05039620B08F1B42E223E|mods\airships\airships-v2.5.1.zip
@@ -62,7 +63,7 @@ D0757110CA029B7DD052EDE4B531C7D8|mods\basemods\basemods-yogbox-v1.1.0.zip
 73E68658F4717B42205AE536164B1555|mods\basemods\basemods-yogbox-v1.1.1.zip
 EAAFAB5AA4D4E61C68724C2DD074E647|mods\basemods\basemods-yogbox-v1.1.2.zip
 217E46E7114CAAD8313BF4BC28F43E60|mods\basemods\basemods-yogbox-v1.1.5.zip
-99C26582BE0251B07FE38FA178B7B234|mods\basemods\basemods-yogbox-v1.1.6.zip
+435DFEF406BE6E756588C44DFC603D1E|mods\basemods\basemods-yogbox-v1.1.6.zip
 F6B5D8AE8D9D181047FC357B19E37EC4|mods\battletowers\battletowers-v1.1.zip
 AF8116DDBC0B18BFE6841B389F8C0DE6|mods\betterdungeons\betterdungeons-v0.91.zip
 6C72B7C063E08673219323068502AB9D|mods\betterdungeons\betterdungeons-v0.92.zip
@@ -202,7 +203,6 @@ A93246B01B5AA2E693B47A5F48F5720A|mods\rc\rc-v3.4.2.zip
 C4F8ACB605084C644790749A58AF70D7|mods\redpower\redpower-v2.0.4b.zip
 E1ADD5BC73E020AD797E5584225EB7E5|mods\redpower\redpower-v2.0.4c.zip
 811F04D64A4FD98708D2B12AD64FE606|mods\redpower\redpower-v2.0.4d.zip
-58DD37B9F2C0A7895FB8816CD21E7B4E|mods\redpower\redpower-v2.0.4d_yb.zip
 6E6C90712137817C04E418B5053F7B73|mods\redpower\redpower-v2.0.4e.zip
 7162D546B80B2BDF3CD663ED95C5E6F8|mods\redstoneremote\redstoneremote-v1.1.0.zip
 D3D82E19AAA6CAADDE42BF8A80A83E2F|mods\reisminimap\reisminimap-v2.9.01.zip
@@ -258,7 +258,7 @@ C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 2EAD4269B0F4A98B64EB494F6B7BCA03|mods\z-yogbox-configs\z-yogbox-configs-v1.1.2.zip
 4403EA4E6710E98B71868F219DB118A0|mods\z-yogbox-configs\z-yogbox-configs-v1.1.3.zip
 7966965D032D53DCE1A60D084AF87171|mods\z-yogbox-configs\z-yogbox-configs-v1.1.5.zip
-7CFB35B3A74B37AF6ED5D438D36D0B63|mods\z-yogbox-configs\z-yogbox-configs-v1.1.6.zip
+1FA617F3CC54B7B350235EE652EDACA4|mods\z-yogbox-configs\z-yogbox-configs-v1.1.6.zip
 2D8CE20468D98C05A559AF82A0EC5023|mods\zeppelin\zeppelin-v1.1.0.0.25.zip
 B044BBD6D4F97B74E7C5DE5A37F30077|mods\zeppelin\zeppelin-v1.1.0.0.28.zip
 C72F0962D992FA5E787DADB806453533|mods.yml
@@ -307,7 +307,7 @@ AB01849A4C1C550804E718C2341C0BCC|vanilla\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|vanilla\resources\icon.ico
 1DB1857730E6E58158ED42DBD5273C0A|vanilla\resources\icon.png
 2030AA9A0EA63A0E38F1C565C1F5C18F|vanilla\resources\logo.png
-3EE11F26C53027B0A1FE2178786E904C|yogbox\modpack.yml
+C724D74114C4503DE205959D9813BF08|yogbox\modpack.yml
 6A4A2B05BE32E092E31ACA4482AE32D8|yogbox\resources\favicon.png
 B5E05F5CC1FB3F21C20E4DD2DCA08394|yogbox\resources\icon.icns
 DEA47CBFD8A73FF1716D87E8DD4298E7|yogbox\resources\icon.ico
