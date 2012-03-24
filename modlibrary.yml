@@ -29,6 +29,8 @@ mods:
             v1.2.0:
             v5.0.5:
             tekkit-v2.0.0:
+            voxelmodpack-v8.1.0:
+			
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
@@ -303,6 +305,11 @@ mods:
         installtype: "zip"
         versions:
             v2.5:
+    macros:
+        name: "Macro/Keybind Mod"
+        installtype: "zip"
+        versions:
+            0.8.5_for_1.2.3:
     matmos:
         name: "MAtmos"
         description: ""
@@ -328,6 +335,11 @@ mods:
             v2.1.5:
             v2.1.2:
             v2.1:
+    minaptics:
+        name: "Minaptics"
+        installtype: "zip"
+        versions:
+            1.2.3r12vbox:
     minions:
         name: "Minecraft Minions"
         installtype: "zip"
@@ -526,6 +538,26 @@ mods:
         installtype: "zip"
         versions:
             v1.6r2:
+    voxelget:
+        name: "VoxelGET"
+        installtype: "zip"
+        versions:
+            0.5.5_mc1.2.3:
+    voxelplayer:
+        name: "VoxelPlayer"
+        installtype: "zip"
+        versions:
+            v8.1.0:
+    voxeltextures:
+        name: "VoxelTextures"
+        installtype: "zip"
+        versions:
+            0.4.0_mc1.2.3:
+    voxelworld:
+        name: "VoxelWorld"
+        installtype: "zip"
+        versions:
+            v8.1.0:
     wirelessredstone:
         name: "Wireless Redstone"
         description: "Wireless Redstone is a Minecraft modification that allows you to transmit and receive redstone signals without wires. The mod has been in beta for 4 weeks prior to final release, this was done to guarantee as much quality as possible for the final product and to make sure the base mod has room for iteration and expantion."
@@ -553,6 +585,7 @@ mods:
         versions:
             v1.0:
             v1.1:
+            v1.2:
     xpbook:
         name: "XP Book"
         installtype: "zip"
@@ -592,6 +625,11 @@ mods:
             v2.1:
             v2.0:
             v2.0.0:
+    z-voxelmodpack-configs:
+        name: "VoxelModPack Configs"
+        installtype: "zip"
+        versions:
+            v8.1.0:
     z-yogbox-configs:
         name: "Yogbox Configs"
         installtype: "zip"
