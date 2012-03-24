@@ -16,6 +16,7 @@ builds:
         minecraft: 1.2.3
         mods:
             basemods: voxelmodpack-v8.1.0
+            voxelpacket: 1.0.2_client_obf_mc1.2.3
             minaptics: 1.2.3r12vbox
             voxelworld: v8.1.0
             voxelplayer: v8.1.0

@@ -543,6 +543,11 @@ mods:
         installtype: "zip"
         versions:
             0.5.5_mc1.2.3:
+    voxelpacket:
+        name: "VoxelPacket"
+        installtype: "zip"
+        versions:
+            1.0.2_client_obf_mc1.2.3:
     voxelplayer:
         name: "VoxelPlayer"
         installtype: "zip"
