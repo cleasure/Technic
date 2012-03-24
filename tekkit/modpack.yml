@@ -61,3 +61,17 @@ builds:
             reisminimap: v3.0_01
             wirelessredstone: v1.5.1
             z-tekkit-configs: v2.0
+    8.1.0:
+        libraries: 
+        minecraft: 1.2.3
+        mods:
+            basemods: voxelmodpack-v8.1.0
+            minaptics: 1.2.3r12vbox
+            voxelworld: v8.1.0
+            voxelplayer: v8.1.0
+            voxeltextures: 0.4.0_mc1.2.3
+            reisminimap: v3.0_03
+            macros: 0.8.5_for_1.2.3
+            voxelget: 0.5.5_mc1.2.3
+            worldeditcui: v1.2
+            z-voxelmodpack-configs: v8.1.0
