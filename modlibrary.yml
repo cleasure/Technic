@@ -14,6 +14,7 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v6.1.1:
             technic-v6.1.0:
             technic-v6.0.7:
             technic-v6.0.6:
@@ -90,6 +91,7 @@ mods:
     buildcraft-additionalpipes:
         installtype: "zip"
         versions:
+            v3.0.1:
             v32.3:
             v34:
     buildcraft-additionalpower:
@@ -110,6 +112,7 @@ mods:
         name: "BuildCraft Objects"
         installtype: "zip"
         versions:
+            v85:
             v84:
             v56:
                 dependencies:
@@ -127,6 +130,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=929"
         versions:
+            v1.81-1:
             v1.71-1:
             v1.70-1:
             v1.64-1:
@@ -174,6 +178,7 @@ mods:
         name: "Custom Mob Spawner"
         installtype: "zip"
         versions:
+            v1.4.1:
             v1.4:
     doorfix:
         name: "Door Fix"
@@ -233,6 +238,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/700588-100smp-forestry-for-minecraft-tree-farms-automated/"
         versions:
+            v1.4.0.4:
             v1.4.0.2:
             v1.4.0.1:
             v1.3.4.4:
@@ -316,12 +322,14 @@ mods:
         installtype: "zip"
         modtype: "audio"
         versions:
+            v11:
             r10:
             r8:
     millenaire:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.4.6:
             v2.4.4:
             v2.4.2:
             v2.3.2:
@@ -394,6 +402,7 @@ mods:
         installtype: "zip"
         name: "Mo Creatures"
         versions:
+            v3.3.0:
             v3.2.2:
             v3.1.0:
     morefuel:
@@ -436,6 +445,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v4.1.4:
             v3.4.2:
             v3.4.0:
             v3.3.1:
@@ -510,6 +520,7 @@ mods:
         name: "Thaumcraft"
         installtype: "zip"
         versions:
+            v2.0:
             v1.2.6:
             v1.2.5bc3:
             v1.2.4bc3:
