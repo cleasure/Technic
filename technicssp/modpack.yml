@@ -44,6 +44,36 @@ lib-1: &lib-1
     zeppelin: v1.1.0.0.25
     z-technic-configs: v6.0.7
 builds:
+    6.1.1:
+        libraries: *lib-1
+        minecraft: 1.2.3
+        mods:
+            basemods: technic-v6.1.1
+            betterdungeons: v0.923
+            buildcraft: v3.1.4
+            buildcraft-additionalpipes: v3.0.1
+            buildcraft-logisticspipes: v0.2.2a
+            buildcraft-objects: v84
+            chargingbench: v1.81-1
+            computercraft: v1.31
+            custommobspawner: v1.4.1
+            ee2: v1.4.0.3
+            enderchest: v1.0.2
+            forestry: v1.4.0.4
+            ic2: v1.81
+            inventorytweaks: v1.40b
+            millenaire: v2.4.6
+            mocreatures: v3.3.0
+            rc: v4.1.4
+            redpower: v2.0.4e
+            reisminimap: v3.0_03
+            somnia: v21
+            thaumcraft: v2.0
+            treecapitator: v1.2.3.b
+            wirelessredstone: v1.5.3
+            xpbook: v5
+            zeppelin: v1.1.0.0.28
+            z-technic-configs: v6.1.1
     6.1.0:
         libraries: *lib-1
         minecraft: 1.2.3
