@@ -30,7 +30,7 @@ builds:
             ic2: v1.81
             inventorytweaks: v1.40b
             millenaire: v2.4.6
-            mocreatures: v3.3.0
+#            mocreatures: v3.3.0
             rc: v4.1.4
             redpower: v2.0.4e
             reisminimap: v3.0_03
