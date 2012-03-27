@@ -31,7 +31,6 @@ mods:
             v5.0.5:
             tekkit-v2.0.0:
             voxelmodpack-v8.1.0:
-            
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
