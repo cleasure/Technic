@@ -20,7 +20,7 @@ builds:
             buildcraft: v3.1.4
             buildcraft-additionalpipes: v3.0.1
             buildcraft-logisticspipes: v0.2.2a
-            buildcraft-objects: v84
+#            buildcraft-objects: v84
             chargingbench: v1.81-1
             computercraft: v1.31
             custommobspawner: v1.4.1
