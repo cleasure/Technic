@@ -23,7 +23,7 @@ builds:
 #            buildcraft-objects: v84
             chargingbench: v1.81-1
             computercraft: v1.31
-            custommobspawner: v1.4.1
+#            custommobspawner: v1.4.1
             ee2: v1.4.0.3
             enderchest: v1.0.2
             forestry: v1.4.0.4
