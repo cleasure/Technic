@@ -626,7 +626,7 @@ mods:
         versions:
             v1.1.0.0.28:
             v1.1.0.0.25:
-    z-splotlight-configs:
+    z-spotlight-configs:
         name: "Mod Spotlight Configs"
         installtype: "zip"
         versions:
