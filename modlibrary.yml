@@ -142,6 +142,7 @@ mods:
         installtype: "zip"
         versions:
             v0.4.2:
+            v0.4.4:
     computercraft:
         name: "ComputerCraft"
         description: "Add's Lua based computers to the game"

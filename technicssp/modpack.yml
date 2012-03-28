@@ -22,6 +22,7 @@ builds:
             buildcraft-logisticspipes: v0.2.2a
 #            buildcraft-objects: v84
             chargingbench: v1.81-1
+            codechickencore: v0.4.4
             computercraft: v1.31
             custommobspawner: v1.4.1
             ee2: v1.4.0.3
