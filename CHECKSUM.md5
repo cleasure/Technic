@@ -15,8 +15,8 @@ AE6D695605990BD2544B358F17B11C28|Libraries\trove4j\trove4j-3.0.1.jar
 9263A7AE7A9C3AF69F51E0033C036FD0|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI-0.13.1-1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI-0.13.1-1.1\gui\gui.png
-0E7912E543684816F921A7DC21DB143C|modlibrary.yml
-FF3C05090A2FA54BF60494204598DC72|modpacks.yml
+2B50DA0B396D9F22C920C03ED78CCACB|modlibrary.yml
+6F1C1F1804B48FFFDC37D057B5BDDD6C|modpacks.yml
 C72F0962D992FA5E787DADB806453533|mods.yml
 DC645600C1B866A2BAB8416F16BA56E0|Patches\Minecraft\minecraft_1.0.0-1.1.patch
 80776D8C789151F5C11AE8D39EB87C76|Patches\Minecraft\minecraft_1.0.0-b1.7.2.patch
@@ -106,6 +106,7 @@ D66DE08F5004167E75498940DB6C2FEE|mods\balkonsweaponmod\balkonsweaponmod-v8.1.zip
 5CA7640E1BEFE4F116306CD64C14D208|mods\balkonsweaponmod\balkonsweaponmod-v8.3.zip
 A58FD3362E670DF702D0B5F108F88C32|mods\balkonsweaponmod\balkonsweaponmod-v8.4.zip
 A69CF9E2661FC93E882CBD3679B69012|mods\balkonsweaponmod\balkonsweaponmod-v8.5.zip
+79359F1A21BE27718367F55A19787F96|mods\basemods\basemods-spotlight-forge-v1.0.0.zip
 BDC4BDD60D841C6F378CD3DEE68A44D8|mods\basemods\basemods-technic-no-optifine.zip
 D416BECF3B3F3A65B825E64A89A2AAB0|mods\basemods\basemods-technic-v5.1.0.zip
 407FE6E72F2A453A1B2C76FF3F6E350C|mods\basemods\basemods-technic-v6.0.0.zip
@@ -332,6 +333,7 @@ A223858EE8D4526D239C2217EE79E944|mods\wirelessredstone\wirelessredstone-v1.5.zip
 99DA27C842DAA462CCFB385656DD1745|mods\worldeditcui\worldeditcui-v1.2.zip
 C0A6BEEBD44478A633BD21DEABF61299|mods\xpbook\xpbook-v4.zip
 7F4217197CCEA67D053251411D1EE711|mods\xpbook\xpbook-v5.zip
+CD7B01F904449040588268378859D4E4|mods\z-spotlight-configs\z-splotlight-configs-thaumcraft-v2.0.1.zip
 1727DB1616623C8AA67B9342A6C0A80C|mods\z-technic-configs\z-technic-configs-v6.0.0.zip
 1727DB1616623C8AA67B9342A6C0A80C|mods\z-technic-configs\z-technic-configs-v6.0.2.zip
 B08115745A7944726D0457FCDC0EE4A6|mods\z-technic-configs\z-technic-configs-v6.0.3.zip

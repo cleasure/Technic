@@ -6,6 +6,7 @@ mods:
         modtype: "content"
         link: ""
         versions:
+            spotlight-forge-v1.0.0:
             vanilla-v1.2.3:
             yogbox-v1.1.6:
             yogbox-v1.1.5:
@@ -625,6 +626,11 @@ mods:
         versions:
             v1.1.0.0.28:
             v1.1.0.0.25:
+    z-splotlight-configs:
+        name: "Mod Spotlight Configs"
+        installtype: "zip"
+        versions:
+            thaumcraft-v2.0.1:
     z-technic-configs:
         name: "Technic Configs"
         description: "A collection of configs for all Technic mods"

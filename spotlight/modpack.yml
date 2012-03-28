@@ -1,0 +1,12 @@
+launcher: 
+current: 
+recommended: thaumcraft-v2.0.1
+latest: thaumcraft-v2.0.1
+builds:
+    thaumcraft-v2.0.1:
+        libraries:
+        minecraft: 1.2.3
+        mods:
+            basemods: spotlight-forge-v1.0.0
+            thaumcraft: v2.0.1
+            z-splotlight-configs: thaumcraft-v2.0.1
