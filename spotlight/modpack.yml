@@ -9,4 +9,4 @@ builds:
         mods:
             basemods: spotlight-forge-v1.0.0
             thaumcraft: v2.0.1
-            z-splotlight-configs: thaumcraft-v2.0.1
+            z-spotlight-configs: thaumcraft-v2.0.1
