@@ -16,6 +16,7 @@ builds:
         minecraft: 1.2.3
         mods:
             basemods: technic-v6.1.1
+            balkonsweaponmod: v8.5
             betterdungeons: v0.923
             buildcraft: v3.1.4
             buildcraft-additionalpipes: v3.0.1
