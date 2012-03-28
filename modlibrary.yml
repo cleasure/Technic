@@ -409,6 +409,11 @@ mods:
         name: "More Fuel"
         versions:
             v1.7:
+    nei:
+        name: "Not Enough Items"
+        installtype: "zip"
+        versions:
+            v1.2.0:
     netherores:
         name: "Nether Ores"
         description: "This is a fairly basic mod. It makes the eight 'ores' - coal, diamond, gold, iron, lapis, redstone, sopper and tin - spawn in the nether so that you have a reason to go there."
