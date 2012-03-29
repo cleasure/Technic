@@ -8,6 +8,7 @@ mods:
         versions:
             spotlight-forge-v1.0.0:
             vanilla-v1.2.3:
+            yogbox-v1.2.0:
             yogbox-v1.1.6:
             yogbox-v1.1.5:
             yogbox-v1.1.2:
@@ -37,11 +38,18 @@ mods:
         installtype: "zip"
         versions:
             v1.1:
+            v1.2.3:
+    airships:
+        name: "Airships"
+        installtype: "zip"
+        versions:
+            v1.2.3:
     armorstand:
         name: "Armor stand mod"
         installtype: "zip"
         versions:
             v1.1:
+            v1.2.3:
     balkonsweaponmod:
         installtype: "zip"
         versions:
@@ -54,6 +62,7 @@ mods:
         installtype: "zip"
         versions:
             v1.1:
+            v1.2.3:
     betterdungeons:
         installtype: "zip"
         versions:
@@ -354,6 +363,7 @@ mods:
         installtype: "zip"
         versions:
             v1.1:
+            v1.2.3:
     mfr:
         name: "MineFactory Reloaded"
         description: "A way to automatically farm plants and animals, as well some new rail tracks! With this mod you can set up a completely automated farm for any of these things that requires no real work aside from collecting the harvests and reloading the planter, without incredibly complex and unwieldy water/piston solutions. And you can milk cows to death or otherwise run livestock farms if you need those resources. Oh and it has conveyor belts too."
@@ -512,11 +522,13 @@ mods:
         versions:
             v1.1:
             v1.1yb:
+            v1.2.3yb:
     shelf:
         name: "Shelf"
         installtype: "zip"
         versions:
             v1.1:
+            v1.2.3:
     somnia:
         name: "Somnia"
         installtype: "zip"
@@ -526,6 +538,7 @@ mods:
         name: "Thaumcraft"
         installtype: "zip"
         versions:
+            v2.0.2:
             v2.0.1:
             v2.0:
             v1.2.6:
@@ -556,6 +569,7 @@ mods:
         installtype: "zip"
         versions:
             v1.6r2:
+            v1.7.1:
     voxelget:
         name: "VoxelGET"
         installtype: "zip"
@@ -669,3 +683,4 @@ mods:
             v1.1.3:
             v1.1.5:
             v1.1.6:
+            v1.2.0:
