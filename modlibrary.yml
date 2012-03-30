@@ -8,6 +8,7 @@ mods:
         versions:
             spotlight-forge-v1.0.0:
             vanilla-v1.2.3:
+            yogbox-v1.2.1:
             yogbox-v1.2.0:
             yogbox-v1.1.6:
             yogbox-v1.1.5:
@@ -684,3 +685,4 @@ mods:
             v1.1.5:
             v1.1.6:
             v1.2.0:
+            v1.2.1:
