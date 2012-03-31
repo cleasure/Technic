@@ -1,7 +1,7 @@
 launcher: 
 current: 
-recommended: 8.1.0
-latest: 8.1.0
+recommended: 8.2.0
+latest: 8.2.0
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -26,3 +26,18 @@ builds:
             voxelget: 0.5.5_mc1.2.3
             worldeditcui: v1.2
             z-voxelmodpack-configs: v8.1.0
+    8.2.0:
+        libraries: 
+        minecraft: 1.2.4
+        mods:
+            basemods: voxelmodpack-v8.2.0
+            voxelpacket: 1.0.1_mc1.2.4
+            minaptics: 1.2.4r13vbox
+            voxelplayer: 0.6.1_mc1.2.4
+            voxeltextures: 0.4.1_mc1.2.4
+            reisminimap: v3.0_04
+            macros: 0.8.6_for_1.2.4
+            voxelget: 0.5.6_mc1.2.4
+            worldeditcui: v1.2_mc1.2.4
+            z-voxelmodpack-configs: v8.2.0
+            z-voxelmodpack-texturepacks: v8.2.0

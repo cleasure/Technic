@@ -34,6 +34,7 @@ mods:
             v5.0.5:
             tekkit-v2.0.0:
             voxelmodpack-v8.1.0:
+            voxelmodpack-v8.2.0:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
@@ -327,6 +328,7 @@ mods:
         installtype: "zip"
         versions:
             0.8.5_for_1.2.3:
+            0.8.6_for_1.2.4:
     matmos:
         name: "MAtmos"
         description: ""
@@ -359,6 +361,7 @@ mods:
         installtype: "zip"
         versions:
             1.2.3r12vbox:
+            1.2.4r13vbox:
     minions:
         name: "Minecraft Minions"
         installtype: "zip"
@@ -512,6 +515,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/482147-100b181b19pre5jan01-reis-minimap-v29-01/"
         optional: true
         versions:
+            v3.0_04:
             v3.0_03:
             v3.0_01:
             v3.0:
@@ -576,21 +580,25 @@ mods:
         installtype: "zip"
         versions:
             0.5.5_mc1.2.3:
+            0.5.6_mc1.2.4:
     voxelpacket:
         name: "VoxelPacket"
         installtype: "zip"
         versions:
             1.0.2_client_obf_mc1.2.3:
+            1.0.1_mc1.2.4:
     voxelplayer:
         name: "VoxelPlayer"
         installtype: "zip"
         versions:
             v8.1.0:
+            0.6.1_mc1.2.4:
     voxeltextures:
         name: "VoxelTextures"
         installtype: "zip"
         versions:
             0.4.0_mc1.2.3:
+            0.4.1_mc1.2.4:
     voxelworld:
         name: "VoxelWorld"
         installtype: "zip"
@@ -624,6 +632,7 @@ mods:
             v1.0:
             v1.1:
             v1.2:
+            v1.2_mc1.2.4:
     xpbook:
         name: "XP Book"
         installtype: "zip"
@@ -674,6 +683,12 @@ mods:
         installtype: "zip"
         versions:
             v8.1.0:
+            v8.2.0:
+    z-voxelmodpack-texturepacks:
+        name: "VoxelModPack Texture Packs"
+        installtype: "zip"
+        versions:
+            v8.2.0:
     z-yogbox-configs:
         name: "Yogbox Configs"
         installtype: "zip"
