@@ -399,6 +399,7 @@ mods:
         installtype: "zip"
         versions:
             v17yb:
+            v17.1yb:
     minecraftconsole:
         name: "Minecraft Console"
         description: "The Minecraft console mod adds a new GUI console to Minecraft which makes viewing messages a whole lot easier!"
