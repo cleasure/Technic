@@ -186,6 +186,7 @@ mods:
         versions:
             v1.5:
             v1.6.2:
+            v1.6.2-1.2.3:
     custommobspawner:
         name: "Custom Mob Spawner"
         installtype: "zip"

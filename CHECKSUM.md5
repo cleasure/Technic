@@ -15,7 +15,7 @@ AE6D695605990BD2544B358F17B11C28|Libraries\trove4j\trove4j-3.0.1.jar
 9263A7AE7A9C3AF69F51E0033C036FD0|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI-0.13.1-1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI-0.13.1-1.1\gui\gui.png
-B474B4614BC7C68E6B8287F063E164D1|modlibrary.yml
+00525610B73B265FF8DE348002F80FC5|modlibrary.yml
 739E080B6817CCFF180C1474146ABAA3|modpacks.yml
 C72F0962D992FA5E787DADB806453533|mods.yml
 DC645600C1B866A2BAB8416F16BA56E0|Patches\Minecraft\minecraft_1.0.0-1.1.patch
@@ -71,7 +71,7 @@ AB01849A4C1C550804E718C2341C0BCC|vanilla\resources\icon.icns
 39DAB19F3E77502D3722214ABFD0B4EA|voxelmodpack\resources\icon.ico
 20B65CC74698904D5B266659929F106E|voxelmodpack\resources\icon.png
 6EAA9709E784660F68A2298BB0BE5AF8|voxelmodpack\resources\logo.png
-3EFD856654DC1497C2E48DBC632A2C10|yogbox\modpack.yml
+D7ED2DDF10B27A870C2ECE641BC05B01|yogbox\modpack.yml
 6A4A2B05BE32E092E31ACA4482AE32D8|yogbox\resources\favicon.png
 B5E05F5CC1FB3F21C20E4DD2DCA08394|yogbox\resources\icon.icns
 DEA47CBFD8A73FF1716D87E8DD4298E7|yogbox\resources\icon.ico
@@ -192,6 +192,7 @@ EC6CDF2D4FDE191EFA4B987F71E7668C|mods\craftguide\craftguide-v1.3.0.zip
 AC1F437F5B10539B092E836A069B63F2|mods\craftguide\craftguide-v1.4.3.zip
 40C09404E6664CF2083E7F07B8867D93|mods\craftingtableii\craftingtableii-v1.5.zip
 E491FBD402F0687A3504D233671A008B|mods\craftingtableii\craftingtableii-v1.6.2.zip
+CFEF5B29C03E915B56E035292F8EE675|mods\craftingtableii\craftingtableii_v1.6.2-1.2.3.zip
 F771872143AF47F2D65FA406CB2D5002|mods\crystalwing\crystalwing-v1.0.0.zip
 02295D8195C8CE44C207B1D31133BB4A|mods\custommobspawner\custommobspawner-v1.4.1.zip
 7072B3A17A37D4C00D73EA50AFD6E054|mods\custommobspawner\custommobspawner-v1.4.zip
@@ -378,7 +379,7 @@ CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-conf
 7966965D032D53DCE1A60D084AF87171|mods\z-yogbox-configs\z-yogbox-configs-v1.1.5.zip
 1FA617F3CC54B7B350235EE652EDACA4|mods\z-yogbox-configs\z-yogbox-configs-v1.1.6.zip
 D5AA4E4A206FDDBA090B09D900FE2A22|mods\z-yogbox-configs\z-yogbox-configs-v1.2.0.zip
-3356C706866868E4F710B5C97041D7B0|mods\z-yogbox-configs\z-yogbox-configs-v1.2.1.zip
+B86C466EFC495EAFF449D0284C1D2A18|mods\z-yogbox-configs\z-yogbox-configs-v1.2.1.zip
 2D8CE20468D98C05A559AF82A0EC5023|mods\zeppelin\zeppelin-v1.1.0.0.25.zip
 B044BBD6D4F97B74E7C5DE5A37F30077|mods\zeppelin\zeppelin-v1.1.0.0.28.zip
 D6BAEADAD8C792724AEDA91D619A4774|TechnicLauncher.exe
