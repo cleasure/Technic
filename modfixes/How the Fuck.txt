@@ -1,0 +1,30 @@
+MinecraftApplet.java
+Change mc.hideQuitButton to false so there's a stupid quit button
+
+        if ("true".equals(getParameter("stand-alone")))
+        {
+            mc.hideQuitButton = false;
+        }
+
+Minecraft.java
+
+Find     public Minecraft(Component par1Component, Canvas par2Canvas, MinecraftApplet par3MinecraftApplet, int par4, int par5, boolean par6)
+Add above     private static boolean isStandAlone;
+Add below
+              isStandAlone = "true".equals(par3MinecraftApplet.getParameter("stand-alone"));
+
+Remove if statement around hideQuitbutton so it reads
+        hideQuitButton = false;
+
+
+Find     public static File getAppDir(String par0Str)
+Change to
+    {
+        String dir = theMinecraft.mcApplet.getParameter("directory");
+        if (dir != null && par0Str.startsWith("minecraft")) {
+        par0Str = par0Str.replace("minecraft", dir);
+        }
+
+Find             case 3:
+Change to
+                String s1 = isStandAlone ? null : System.getenv("APPDATA");

@@ -1,0 +1,8 @@
+Place the new and desired version of Minecraft in this folder
+Run 'Create Patch.bat'
+Answer the questions
+Move the patch file up one folder
+
+
+Manual Command:
+java -classpath diff.jar ie.wombat.jbdiff.JBDiff minecraft_%newversion%.jar minecraft_%oldversion%.jar Minecraft_%newversion%-%oldversion%.patch
