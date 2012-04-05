@@ -1,0 +1,17 @@
+launcher: 
+current: 
+recommended: '0.1'
+latest: '0.1'
+lib-1: &lib-1
+    commons-io: 2.1
+    commons-lang3: 3.1
+    guava: 10.0.1
+    joda-time: 2.0
+    slick: 0.3
+    snakeyaml: 1.9
+    trove4j: 3.0.1
+builds:
+    '0.1':
+        minecraft: 1.2.3
+        mods:
+            basemods: hackslashmine-v0.1
