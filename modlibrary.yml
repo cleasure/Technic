@@ -18,6 +18,7 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v7.0.0:
             technic-v6.1.1:
             technic-v6.1.0:
             technic-v6.0.7:
@@ -69,6 +70,7 @@ mods:
     betterdungeons:
         installtype: "zip"
         versions:
+            v0.925:
             v0.923:
             v0.922:
             v0.921:
@@ -172,6 +174,7 @@ mods:
         description: "Quick access to a list of every crafting recipe in the game!"
         installtype: "zip"
         versions:
+            v1.4.4:
             v1.4.1:
                 dependencies:
                     minecraft: 1.1
@@ -188,6 +191,11 @@ mods:
             v1.5:
             v1.6.2:
             v1.6.2-1.2.3:
+    crystalwing:
+        name: "Crystal Wing"
+        installtype: "zip"
+        versions:
+            v1.2.5.a:
     custommobspawner:
         name: "Custom Mob Spawner"
         installtype: "zip"
@@ -302,6 +310,11 @@ mods:
         installtype: "zip"
         versions:
             v1.2:
+    ingameinfo:
+        name: "In Game Info"
+        installtype: "zip"
+        versions:
+            v1.2.5.d:
     inventorytweaks:
         name: "Inventory Tweaks"
         description: "Tweaks your inventory handling to be more intuitive. Break your iron sword in the heat of battle and don't have time to replace it? No worries, if you have another one handy in your inventory it will automatically be moved into the last slot it was used! Works with all stacked items!"
@@ -310,6 +323,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/323444-100spsmp-inventory-tweaks-135-dec-24/"
         optional: true
         versions:
+            v1.41b:
             v1.40b:
             v1.38:
             v1.36:
@@ -325,6 +339,11 @@ mods:
         installtype: "zip"
         versions:
             v2.5:
+    lectern:
+        name: "Lectern"
+        installtype: "zip"
+        versions:
+            ssp-1.2.5:
     macros:
         name: "Macro/Keybind Mod"
         installtype: "zip"
@@ -337,6 +356,7 @@ mods:
         installtype: "zip"
         modtype: "audio"
         versions:
+            v12:
             v11:
             r10:
             r8:
@@ -344,6 +364,7 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.5.2:
             v2.4.6:
             v2.4.4:
             v2.4.2:
@@ -518,6 +539,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/482147-100b181b19pre5jan01-reis-minimap-v29-01/"
         optional: true
         versions:
+            v3.0_04-1.2.5:
             v3.0_04:
             v3.0_03:
             v3.0_01:
@@ -541,7 +563,13 @@ mods:
         name: "Somnia"
         installtype: "zip"
         versions:
+            v23:
             v21:
+    startinginventory:
+        name: "Starting Inventory"
+        installtype: "zip"
+        versions:
+            v1.2.5.a:
     thaumcraft:
         name: "Thaumcraft"
         installtype: "zip"
@@ -564,11 +592,13 @@ mods:
         name: "Tomes"
         installtype: "zip"
         versions:
+            ssp-1.2.5:
             v4:
     treecapitator:
         name: "Treecapitator"
         installtype: "zip"
         versions:
+            v1.2.5.e:
             v1.1:
             v1.0.0:
             v1.2.3.b:
@@ -614,6 +644,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/328725-100wireless-redstone-v15/"
         versions:
+            v1.5-1.2.5:
             v1.5.3:
             v1.5.2:
                 dependencies:
@@ -640,6 +671,7 @@ mods:
         name: "XP Book"
         installtype: "zip"
         versions:
+            ssp-1.2.5:
             v5:
             v4:
     yogbox:
@@ -651,6 +683,7 @@ mods:
         name: "Zeppelin Mod"
         installtype: "zip"
         versions:
+            v1.1.0.0.30:
             v1.1.0.0.28:
             v1.1.0.0.25:
     z-spotlight-configs:
@@ -663,6 +696,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v7.0.0:
             v6.1.1:
             v6.1.0:
             v6.0.7:
