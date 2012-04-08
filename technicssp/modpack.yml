@@ -11,6 +11,27 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    7.0.0:
+        minecraft: 1.2.5
+        mods:
+            basemods: technic-v7.0.0
+            betterdungeons: v0.925
+            craftguide: v1.4.4
+            crystalwing: v1.2.5.a
+            ingameinfo: v1.2.5.d
+            inventorytweaks: v1.41b
+            lectern: ssp-1.2.5
+            matmos: v12
+            millenaire: v2.5.2
+            reisminimap: v3.0_04-1.2.5
+            somnia: v23
+            startinginventory: v1.2.5.a
+            tomes: ssp-1.2.5
+            treecapitator: v1.2.5.e
+            wirelessredstone: v1.5-1.2.5
+            xpbook: ssp-1.2.5
+            zeppelin: v1.1.0.0.30
+            z-technic-configs: v7.0.0
     6.1.1:
         libraries: *lib-1
         minecraft: 1.2.3
