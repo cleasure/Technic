@@ -83,6 +83,7 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.1.5:
             v3.1.4:
             v3.1.4pre:
             v3.1.3:
@@ -156,6 +157,7 @@ mods:
         description: "Required by Chicken Bones' Mods"
         installtype: "zip"
         versions:
+            v0.5.2:
             v0.4.2:
             v0.4.4:
             v0.5.0:
@@ -201,6 +203,7 @@ mods:
         name: "Custom Mob Spawner"
         installtype: "zip"
         versions:
+            v1.4.3:
             v1.4.1:
             v1.4:
     doorfix:
@@ -223,6 +226,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v1.4.3.1:
             v1.4.0.3:
             v1.38.1:
             v1.38:
@@ -244,6 +248,11 @@ mods:
             v1.0.1v2:
             v1.0.1:
             v1.0:
+    enderstorage:
+        name: "EnderStorage"
+        installtype: "zip"
+        versions:
+            v1.1.0
     floatingruins:
         name: "Floating Ruins"
         installtype: "zip"
@@ -366,6 +375,7 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.5.4:
             v2.5.2:
             v2.4.6:
             v2.4.4:
@@ -582,6 +592,7 @@ mods:
         name: "Thaumcraft"
         installtype: "zip"
         versions:
+            v2.1.1:
             v2.1.0:
             v2.0.2:
             v2.0.1:
