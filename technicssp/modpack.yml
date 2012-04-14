@@ -16,18 +16,22 @@ builds:
         mods:
             basemods: technic-v7.0.0
             betterdungeons: v0.925
+            buildcraft: v3.1.5
+            codechickencore: v0.5.2
             craftguide: v1.4.4
             crystalwing: v1.2.5.a
+            ee2: v1.4.3.1
+            enderstorage: v1.1.0
             ingameinfo: v1.2.5.d
             inventorytweaks: v1.41b
             lectern: ssp-1.2.5
             matmos: v12
-            millenaire: v2.5.2
+            millenaire: v2.5.4
+            nei: v1.2.1
             reisminimap: v3.0_04-1.2.5
-            sensibleenchanting: v4.9
             somnia: v23
             startinginventory: v1.2.5.a
-            thaumcraft: v2.1.0
+            thaumcraft: v2.1.1
             tomes: ssp-1.2.5
             treecapitator: v1.2.5.e
             wirelessredstone: v1.5-1.2.5
