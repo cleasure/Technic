@@ -6,7 +6,7 @@ mods:
         modtype: "content"
         link: ""
         versions:
-            hackslashmine-v0.1:
+            hackslashmine-v0.4:
             spotlight-forge-v1.0.0:
             vanilla-v1.2.3:
             yogbox-v1.2.1:
