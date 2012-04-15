@@ -37,6 +37,7 @@ mods:
             tekkit-v2.0.0:
             voxelmodpack-v8.1.0:
             voxelmodpack-v8.2.0:
+            voxelmodpack-v8.3.0:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
@@ -361,6 +362,7 @@ mods:
         versions:
             0.8.5_for_1.2.3:
             0.8.6_for_1.2.4:
+            0.8.7_for_1.2.5:
     matmos:
         name: "MAtmos"
         description: ""
@@ -634,24 +636,28 @@ mods:
         versions:
             0.5.5_mc1.2.3:
             0.5.6_mc1.2.4:
+            0.5.6.2_mc1.2.5:
     voxelpacket:
         name: "VoxelPacket"
         installtype: "zip"
         versions:
             1.0.2_client_obf_mc1.2.3:
             1.0.1_mc1.2.4:
+            1.0.1_mc1.2.5:
     voxelplayer:
         name: "VoxelPlayer"
         installtype: "zip"
         versions:
             v8.1.0:
             0.6.1_mc1.2.4:
+            0.6.1_mc1.2.5:
     voxeltextures:
         name: "VoxelTextures"
         installtype: "zip"
         versions:
             0.4.0_mc1.2.3:
             0.4.1_mc1.2.4:
+            0.4.2_mc1.2.5:
     voxelworld:
         name: "VoxelWorld"
         installtype: "zip"
@@ -741,11 +747,13 @@ mods:
         versions:
             v8.1.0:
             v8.2.0:
+            v8.3.0:
     z-voxelmodpack-texturepacks:
         name: "VoxelModPack Texture Packs"
         installtype: "zip"
         versions:
             v8.2.0:
+            v8.3.0:
     z-yogbox-configs:
         name: "Yogbox Configs"
         installtype: "zip"

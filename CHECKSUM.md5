@@ -7,9 +7,9 @@ C72F0962D992FA5E787DADB806453533|mods.yml
 A4201AD8FF8D6765A80B0B68A9E1EB3E|technicssp\modpack.yml
 C86DA787ACFC2A7CD0A8CC01E1BF43EC|tekkit\modpack.yml
 100A15DD2DD7B4C61F319FDD8503AA08|vanilla\modpack.yml
-6FBD8F9D90304C99D9C7587FFE11CAB6|voxelmodpack\modpack.yml
+24608B9DC4E416A2F298896B4A1EBBAF|voxelmodpack\modpack.yml
 D7ED2DDF10B27A870C2ECE641BC05B01|yogbox\modpack.yml
-171B99A94DFA6D81F7B6DAA4B1B30137|modlibrary.yml
+407B7DFF245B346B6241CA931624458A|modlibrary.yml
 9263A7AE7A9C3AF69F51E0033C036FD0|mirrors.yml
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
@@ -136,6 +136,7 @@ EBC6ECA2A25EB973E10142037FF846BC|mods\basemods\basemods-v5.0.5.zip
 A0CA97DB36B1EB079D91CED8D645E26A|mods\basemods\basemods-vanilla-v1.2.3.zip
 E4F13DC7EEAB8D032EF19D113AB6224D|mods\basemods\basemods-voxelmodpack-v8.1.0.zip
 15985A170961F95203C3B661343BAE4C|mods\basemods\basemods-voxelmodpack-v8.2.0.zip
+120FD7587FDF980B30FBDE08398AB9C9|mods\basemods\basemods-voxelmodpack-v8.3.0.zip
 D0757110CA029B7DD052EDE4B531C7D8|mods\basemods\basemods-yogbox-v1.1.0.zip
 73E68658F4717B42205AE536164B1555|mods\basemods\basemods-yogbox-v1.1.1.zip
 EAAFAB5AA4D4E61C68724C2DD074E647|mods\basemods\basemods-yogbox-v1.1.2.zip
@@ -259,6 +260,7 @@ CF8EEBD8B6141E9B33C5D8089ABD003B|mods\ironchests\ironchests-v2.5.zip
 B5946098BFEDE8E7E0B4DA4AB8188B3A|mods\lectern\lectern-ssp-1.2.5.zip
 4F0CDB02BD14C9B56860E10A5EC15F89|mods\macros\macros-0.8.5_for_1.2.3.zip
 2373983FB10BEFA6CDCC4E91E91B9BB8|mods\macros\macros-0.8.6_for_1.2.4.zip
+89768F8F5E69DF6FC43CDA4824FA58C8|mods\macros\macros-0.8.7_for_1.2.5.zip
 7826EEB0F032A58ADECE8C0642245CAB|mods\matmos\matmos-r10.zip
 4E1ED1BE7B0202EDE9AA20F9B1E99714|mods\matmos\matmos-r8.zip
 6812935262987C3F5A52A1FBC87EB5D1|mods\matmos\matmos-v11.zip
@@ -363,13 +365,17 @@ D50F50E6617F5CAA32F28F186F225FC5|mods\treecapitator\treecapitator-v1.2.3.b.zip
 07436A076F11FD833952148A83A5A103|mods\twilightforest\twilightforest-v1.6r2.zip
 4EC196753BD0EA7E4FF6E6F540D7ACB6|mods\twilightforest\twilightforest-v1.7.1.zip
 DD868DEC6452F1C9F04C4ABEBB90F2F7|mods\voxelget\voxelget-0.5.5_mc1.2.3.zip
+4D648EA461BDE93F1E4FA46EB4E696E7|mods\voxelget\voxelget-0.5.6.2_mc1.2.5.zip
 D3191353FA4C129D290C05DC67E8B59A|mods\voxelget\voxelget-0.5.6_mc1.2.4.zip
 609BFB5240129BB9075BB15FBCD652D0|mods\voxelpacket\voxelpacket-1.0.1_mc1.2.4.zip
+12A0F7C1D7DC13A0133269961A5449B2|mods\voxelpacket\voxelpacket-1.0.1_mc1.2.5.zip
 268FD06BE8E2E2653F3EB41FD537FE0D|mods\voxelpacket\voxelpacket-1.0.2_client_obf_mc1.2.3.zip
 DCD0F6262CB0837F4F6020C17DCF7237|mods\voxelplayer\voxelplayer-0.6.1_mc1.2.4.zip
+A616B2A2D7902920F0D3C556AAF08780|mods\voxelplayer\voxelplayer-0.6.1_mc1.2.5.zip
 11F603CA1F38A385CE020746711C2C6D|mods\voxelplayer\voxelplayer-v8.1.0.zip
 FAA38A6D1B0C92E672347C7BF86FDD6B|mods\voxeltextures\voxeltextures-0.4.0_mc1.2.3.zip
 DC31EE92EE7A63D125CA332FD3616ABA|mods\voxeltextures\voxeltextures-0.4.1_mc1.2.4.zip
+FB932CCE8730E35779E607B22A543870|mods\voxeltextures\voxeltextures-0.4.2_mc1.2.5.zip
 C7D0BA5840753C2EDA8393FEF810E674|mods\voxelworld\voxelworld-v8.1.0.zip
 D9753F6E811B8DA011C289574BEC26F6|mods\wirelessredstone\wirelessredstone-v1.4.zip
 42261D3153A142AE6F4A56E48D3EF23C|mods\wirelessredstone\wirelessredstone-v1.5-1.2.5.zip
@@ -401,7 +407,9 @@ AB86B00832D779F0164336876AA8DC92|mods\z-technic-configs\z-technic-configs-v6.0.7
 C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 393D530ECC756D48A5F6D27826D9ED1F|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.1.0.zip
 CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.2.0.zip
+5994012F7E2453FD8092B480B0832831|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.3.0.zip
 9C301B9727913A7CA9D4526800CF4855|mods\z-voxelmodpack-texturepacks\z-voxelmodpack-texturepacks-v8.2.0.zip
+2F94A84004651632934C6C0B0A583F10|mods\z-voxelmodpack-texturepacks\z-voxelmodpack-texturepacks-v8.3.0.zip
 34BBA92645015B23B28D84668E8A0210|mods\z-yogbox-configs\z-yogbox-configs-v1.1.0.zip
 6898BC1E65F60917592863CE8D0DED57|mods\z-yogbox-configs\z-yogbox-configs-v1.1.1.zip
 2EAD4269B0F4A98B64EB494F6B7BCA03|mods\z-yogbox-configs\z-yogbox-configs-v1.1.2.zip
