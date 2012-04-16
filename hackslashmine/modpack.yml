@@ -12,6 +12,6 @@ lib-1: &lib-1
     trove4j: 3.0.1
 builds:
     '0.4':
-        minecraft: 1.2.3
+        minecraft: 1.2.3hsm
         mods:
             basemods: hackslashmine-v0.4
