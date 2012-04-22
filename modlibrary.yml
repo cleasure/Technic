@@ -28,6 +28,7 @@ mods:
             technic-v6.0.2:
             technic-v6.0.1:
             technic-v6.0.0:
+            tekkit-v3.0.0:
             tekkit-v2.0:
             v1.3.0:
             v1.2.1y:
@@ -93,6 +94,7 @@ mods:
             v3.1.2:
                 dependencies:
                     baseforge: 1.2.4
+            v2.2.14:
             v2.2.13:
             v2.2.12:
                 dependencies:
@@ -227,6 +229,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v1.4.4.0:
             v1.4.3.1:
             v1.4.0.3:
             v1.38.1:
@@ -253,7 +256,8 @@ mods:
         name: "EnderStorage"
         installtype: "zip"
         versions:
-            v1.1.0
+            v1.1.1:
+            v1.1.0:
     floatingruins:
         name: "Floating Ruins"
         installtype: "zip"
@@ -467,6 +471,7 @@ mods:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
+            v1.2.2:
             v1.2.0:
             v1.2.1:
     netherores:
@@ -504,6 +509,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v5.0.3:
             v4.1.4:
             v3.4.2:
             v3.4.0:
@@ -533,6 +539,7 @@ mods:
         modtype: "content"
         link: "http://www.eloraam.com/"
         versions:
+            v2.0.5:
             v2.0.4e:
             v2.0.4d:
                 dependencies:
@@ -737,6 +744,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v3.0.0:
             v2.1.1:
             v2.1:
             v2.0:
