@@ -5,11 +5,11 @@ AEE7D6EB28BE4B13A207CB6DC565A7DB|Libraries\snakeyaml\snakeyaml-1.9.jar
 C72F0962D992FA5E787DADB806453533|mods.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 A4201AD8FF8D6765A80B0B68A9E1EB3E|technicssp\modpack.yml
-4B30954786F4FDF0B01D4933FEF58254|tekkit\modpack.yml
+C2895293147B8C1083988FF1A2EA4992|tekkit\modpack.yml
 100A15DD2DD7B4C61F319FDD8503AA08|vanilla\modpack.yml
 6FBC00C0865B02D994A5D47DF5FD9CFD|voxelmodpack\modpack.yml
 D7ED2DDF10B27A870C2ECE641BC05B01|yogbox\modpack.yml
-1AE2514C0467B946192D8E44EB778583|modlibrary.yml
+7F9C511A81F5D3CAD2F3458C32F5CA00|modlibrary.yml
 9263A7AE7A9C3AF69F51E0033C036FD0|mirrors.yml
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
@@ -109,6 +109,7 @@ D66DE08F5004167E75498940DB6C2FEE|mods\balkonsweaponmod\balkonsweaponmod-v8.1.zip
 5CA7640E1BEFE4F116306CD64C14D208|mods\balkonsweaponmod\balkonsweaponmod-v8.3.zip
 A58FD3362E670DF702D0B5F108F88C32|mods\balkonsweaponmod\balkonsweaponmod-v8.4.zip
 A69CF9E2661FC93E882CBD3679B69012|mods\balkonsweaponmod\balkonsweaponmod-v8.5.zip
+6E5AA617D14DAECF896133A1852AD172|mods\balkonsweaponmod\balkonsweaponmod-v8.6.zip
 680360E7943E61FA09C3B88C2E340773|mods\basemods\basemods-hackslashmine-v0.4.zip
 86EC170041CE38F71C14EDCCAE442C96|mods\basemods\basemods-spotlight-forge-v1.0.0.zip
 BDC4BDD60D841C6F378CD3DEE68A44D8|mods\basemods\basemods-technic-no-optifine.zip
@@ -225,7 +226,7 @@ C4144D0F3A14B17EFDA723E9E858134D|mods\enderchest\enderchest-v1.0.1v2.zip
 1E3E258D67D46D75D85B2C47BF2B7A34|mods\enderchest\enderchest-v1.0.2.zip
 C9C3AC21F478E091B4514F41E3802062|mods\enderchest\enderchest-v1.0.zip
 79430805792DABEC462CAE3F01E4DC63|mods\enderstorage\enderstorage-v1.1.0.zip
-54EF81DF2941B2A85B6369D928515A1E|mods\enderstorage\enderstorage-v1.1.1.zip
+AD0C954484D1DE2183AF6618622EBE60|mods\enderstorage\enderstorage-v1.1.1.zip
 DCF738F9AA124853F70753E5F3C7E1B3|mods\floatingruins\floatingruins-v1.0.0.zip
 C550AD1DF881275EB9BFB8112BAB3334|mods\floodgate\floodgate-v1.1.zip
 89F3EAE3E66C1DDE1E52298453A1ED6F|mods\forestry\forestry-v1.2.6.3.zip
@@ -413,7 +414,7 @@ AB86B00832D779F0164336876AA8DC92|mods\z-technic-configs\z-technic-configs-v6.0.7
 4818E3B1DF69797778A7CDE49244C01C|mods\z-tekkit-configs\z-tekkit-configs-v2.0.zip
 2E16D95B4893F110C914E0F48CBAE569|mods\z-tekkit-configs\z-tekkit-configs-v2.1.1.zip
 C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
-AF15978B78C44F7072BDA45287490CF3|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0.zip
+665971CCC0AFB7B75A23CD7423143EE0|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0.zip
 393D530ECC756D48A5F6D27826D9ED1F|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.1.0.zip
 CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.2.0.zip
 5994012F7E2453FD8092B480B0832831|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.3.0.zip

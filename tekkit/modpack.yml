@@ -16,11 +16,11 @@ builds:
         minecraft: 1.2.5
         mods:
             basemods: tekkit-v3.0.0
+            balkonsweaponmod: v8.6
             buildcraft: v2.2.14
             ee2: v1.4.4.0
             enderstorage: v1.1.1
             inventorytweaks: v1.41b
-            nei: v1.2.2
             rc: v5.0.3
             redpower: v2.0.5
             reisminimap: v3.0_04-1.2.5
