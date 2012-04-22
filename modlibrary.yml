@@ -700,6 +700,11 @@ mods:
             v1.1:
             v1.2:
             v1.2_mc1.2.4:
+    wrcbe:
+        name: "Wireless Redstone Chicken Bones Edition"
+        installtype: "zip"
+        versions:
+            v1.2.0:
     xpbook:
         name: "XP Book"
         installtype: "zip"
