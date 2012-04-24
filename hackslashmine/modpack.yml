@@ -1,7 +1,7 @@
 launcher: 
 current: 
-recommended: '0.4'
-latest: '0.4'
+recommended: '0.5.2'
+latest: '0.5.2'
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -15,3 +15,7 @@ builds:
         minecraft: 1.2.3
         mods:
             basemods: hackslashmine-v0.4
+    '0.5.2':
+        minecraft: 1.2.3
+        mods:
+            basemods: hackslashmine-v0.5.2
