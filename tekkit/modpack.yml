@@ -20,6 +20,7 @@ builds:
             buildcraft: v2.2.14
             ee2: v1.4.4.0
             enderstorage: v1.1.1
+            ic2: v1.95
             inventorytweaks: v1.41b
             rc: v5.0.3
             redpower: v2.0.5
