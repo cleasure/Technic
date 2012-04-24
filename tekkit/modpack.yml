@@ -22,8 +22,9 @@ builds:
             enderstorage: v1.1.1
             ic2: v1.95
             inventorytweaks: v1.41b
+            nei: v1.2.2
             rc: v5.0.3
-            redpower: v2.0.5
+            redpower: v2.0.5b1
             wrcbe: v1.2.0
             z-tekkit-configs: v3.0.0
     2.1.0:

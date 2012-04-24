@@ -542,6 +542,7 @@ mods:
         modtype: "content"
         link: "http://www.eloraam.com/"
         versions:
+            v2.0.5b1:
             v2.0.5:
             v2.0.4e:
             v2.0.4d:
