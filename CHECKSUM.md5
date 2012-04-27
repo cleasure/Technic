@@ -5,11 +5,11 @@ AEE7D6EB28BE4B13A207CB6DC565A7DB|Libraries\snakeyaml\snakeyaml-1.9.jar
 C72F0962D992FA5E787DADB806453533|mods.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 9CEFD562D809C3FEB3E19FEEE65D5C16|technicssp\modpack.yml
-082F5961BF061D0DB1816B81CB6E5F06|tekkit\modpack.yml
+5502C3CADE82A32214CD1FA3FEA66E33|tekkit\modpack.yml
 100A15DD2DD7B4C61F319FDD8503AA08|vanilla\modpack.yml
 6FBC00C0865B02D994A5D47DF5FD9CFD|voxelmodpack\modpack.yml
 D7ED2DDF10B27A870C2ECE641BC05B01|yogbox\modpack.yml
-620825829C3ADFA01C55471DD0049657|modlibrary.yml
+B9A0FBA085EFF82A5F5950E36D506CEC|modlibrary.yml
 9263A7AE7A9C3AF69F51E0033C036FD0|mirrors.yml
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
@@ -255,10 +255,13 @@ D9C57518F6D9E4AA125745D1CA0359AC|mods\ic2\ic2-v1.64.zip
 93342827E927EAF62BEF9D26BC32E4FF|mods\ic2\ic2-v1.71.zip
 B08F593D952B10C075536DC55F4959EF|mods\ic2\ic2-v1.81.zip
 9284C67AC6AEE011F34B01FF57694FE5|mods\ic2\ic2-v1.95.zip
+5A452157FCE7439613BA4819C0B5C8C9|mods\ic2\ic2-v1.95b.zip
 DCC6801EC165C6F4AB609E3CE444FC4C|mods\ic2-advancedmachines\ic2-advancedmachines-v3.1.zip
 7D37C44326FC09D24CBDA36E714933E8|mods\ic2-advancedmachines\ic2-advancedmachines-v3.2_beta2.zip
-A8DBF057A0E0A68B425208D9C16748DB|mods\ic2-advancedmachines\ic2-advancedmachines-v3.6e.zip
+FE6DDD8D63F7B69BFFC259F47BCC790D|mods\ic2-advancedmachines\ic2-advancedmachines-v4.0.zip
 5D1FCDD2D5C9B4A55EA10105B059952E|mods\ic2-compactsolars\ic2-compactsolars-v1.2.zip
+A6F36C11FCB50D018E7B65E330E2D667|mods\ic2-compactsolars\ic2-compactsolars-v2.2.0.5.zip
+EF7396751B427D84CB741438F251AA8F|mods\ic2-transformers\ic2-transformers-v1.2.zip
 FAB6AD529D5A7AE21276FEDECAA10F4E|mods\ingameinfo\ingameinfo-v1.2.5.d.zip
 5F883813E1C12553CD6525A40D2EDD58|mods\inventorytweaks\inventorytweaks-v1.34b.zip
 305E4EFF9032A0274AE3822EBB7D35C3|mods\inventorytweaks\inventorytweaks-v1.35.zip
@@ -428,6 +431,7 @@ AB86B00832D779F0164336876AA8DC92|mods\z-technic-configs\z-technic-configs-v6.0.7
 2E16D95B4893F110C914E0F48CBAE569|mods\z-tekkit-configs\z-tekkit-configs-v2.1.1.zip
 C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 3AA25CFF3154D6006AA358A07876BE1E|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0.zip
+2BFCBE2BFCB722243369FD431D5873E6|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0a.zip
 393D530ECC756D48A5F6D27826D9ED1F|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.1.0.zip
 CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.2.0.zip
 5994012F7E2453FD8092B480B0832831|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.3.0.zip

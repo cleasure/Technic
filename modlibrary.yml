@@ -302,6 +302,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
+            v1.95b:
             v1.95:
             v1.81:
             v1.71:
@@ -325,12 +326,19 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
         versions:
+            v4.0:
             v3.6e:
             v3.1:
             v3.2_beta2:
     ic2-compactsolars:
         name: "IC2 Compact Solars"
         description: ""
+        installtype: "zip"
+        versions:
+            v2.2.0.5:
+            v1.2:
+    ic2-transformers:
+        name: "IC2 Transformers"
         installtype: "zip"
         versions:
             v1.2:
@@ -763,6 +771,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v3.0.0a:
             v3.0.0:
             v2.1.1:
             v2.1:
