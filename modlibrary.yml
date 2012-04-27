@@ -19,6 +19,7 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v7.0.1:
             technic-v7.0.0:
             technic-v6.1.1:
             technic-v6.1.0:
@@ -75,6 +76,7 @@ mods:
     betterdungeons:
         installtype: "zip"
         versions:
+            v0.931:
             v0.925:
             v0.923:
             v0.922:
@@ -112,6 +114,7 @@ mods:
     buildcraft-additionalpipes:
         installtype: "zip"
         versions:
+            v3.0.10:
             v3.0.1:
             v32.3:
             v34:
@@ -122,6 +125,7 @@ mods:
     buildcraft-logisticspipes:
         installtype: "zip"
         versions:
+            v0.2.4a:
             v0.2.2a:
             v0.2.1a:
             v0.2.0b:
@@ -385,6 +389,7 @@ mods:
         name: "Millenaire"
         installtype: "zip"
         versions:
+            v2.5.9:
             v2.5.4:
             v2.5.2:
             v2.4.6:
@@ -513,6 +518,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v5.1.0:
             v5.0.3:
             v4.1.4:
             v3.4.2:
@@ -595,6 +601,7 @@ mods:
         name: "Somnia"
         installtype: "zip"
         versions:
+            v24:
             v23:
             v21:
     startinginventory:
@@ -606,6 +613,7 @@ mods:
         name: "Thaumcraft"
         installtype: "zip"
         versions:
+            v2.1.3b:
             v2.1.1:
             v2.1.0:
             v2.0.2:
