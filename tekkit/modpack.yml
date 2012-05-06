@@ -11,6 +11,27 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    3.0.1:
+        libraries:
+        minecraft: 1.2.5
+        mods:
+            basemods: tekkit-v3.0.1
+            enderstorage: v1.1.1
+            ic2: v1.95b
+            ic2-advancedmachines: v4.0
+            ic2-compactsolars: v2.2.0.5
+            ic2-nuclearcontrol: v1.1.3
+            immibiscore: v48.2.1
+            inventorytweaks: v1.41b
+            ironchests: v3.3.1.21
+            nei: v1.2.2
+            netherores: v1.2.1
+            rc: v5.2.0
+            redpower: v2.0.5b1
+            reisminimap: v3.0_04-1.2.5
+            smartmoving: v8.5
+            tubestuff: v48.2.1
+            
     3.0.0:
         libraries:
         minecraft: 1.2.5
