@@ -5,11 +5,11 @@ AEE7D6EB28BE4B13A207CB6DC565A7DB|Libraries\snakeyaml\snakeyaml-1.9.jar
 C72F0962D992FA5E787DADB806453533|mods.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 9CEFD562D809C3FEB3E19FEEE65D5C16|technicssp\modpack.yml
-5502C3CADE82A32214CD1FA3FEA66E33|tekkit\modpack.yml
+359063B288992C78CCD4820EED5911D3|tekkit\modpack.yml
 100A15DD2DD7B4C61F319FDD8503AA08|vanilla\modpack.yml
 6FBC00C0865B02D994A5D47DF5FD9CFD|voxelmodpack\modpack.yml
 D7ED2DDF10B27A870C2ECE641BC05B01|yogbox\modpack.yml
-8FA9D7054E4E67689201F90C164921A7|modlibrary.yml
+84210D668506E7053B00A1B0CFFE8BB7|modlibrary.yml
 9263A7AE7A9C3AF69F51E0033C036FD0|mirrors.yml
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
@@ -131,6 +131,7 @@ B4341BB67394D88F53FF196FE3A70CC9|mods\basemods\basemods-technic-v6.0.7.zip
 45A3154BCAB5B3FF975C35EF35BAAF72|mods\basemods\basemods-tekkit-v2.0.zip
 35E2C2B1ABFFD1E1A6B8D42E4C2305A3|mods\basemods\basemods-tekkit-v3.0.0-smooth.zip
 E41EE9CA5B3C712B067BFD13104C2CC8|mods\basemods\basemods-tekkit-v3.0.0.zip
+6B284D9067F51AF0692B05B9D69FF016|mods\basemods\basemods-tekkit-v3.0.1.zip
 74246E99B7C29D2D041D6169EC6747E6|mods\basemods\basemods-test.zip
 089A3457C5C153F958A216AC357EFCD8|mods\basemods\basemods-test2.zip
 7EF3498F9329FD527EFB2FBF84BE2CDD|mods\basemods\basemods-v1.2.0-S.zip
@@ -263,7 +264,9 @@ A8DBF057A0E0A68B425208D9C16748DB|mods\ic2-advancedmachines\ic2-advancedmachines-
 FE6DDD8D63F7B69BFFC259F47BCC790D|mods\ic2-advancedmachines\ic2-advancedmachines-v4.0.zip
 5D1FCDD2D5C9B4A55EA10105B059952E|mods\ic2-compactsolars\ic2-compactsolars-v1.2.zip
 A6F36C11FCB50D018E7B65E330E2D667|mods\ic2-compactsolars\ic2-compactsolars-v2.2.0.5.zip
+FDC7DA90ED997048AD3DEAE9C038162B|mods\ic2-nuclearcontrol\ic2-nuclearcontrol-v1.1.3.zip
 EF7396751B427D84CB741438F251AA8F|mods\ic2-transformers\ic2-transformers-v1.2.zip
+8CD955A3CF7D6D6B07D6404E59A42C53|mods\immibiscore\immibiscore-v48.2.1.zip
 FAB6AD529D5A7AE21276FEDECAA10F4E|mods\ingameinfo\ingameinfo-v1.2.5.d.zip
 5F883813E1C12553CD6525A40D2EDD58|mods\inventorytweaks\inventorytweaks-v1.34b.zip
 305E4EFF9032A0274AE3822EBB7D35C3|mods\inventorytweaks\inventorytweaks-v1.35.zip
@@ -273,6 +276,7 @@ AEC75044459954171C1090AC00A4BC73|mods\inventorytweaks\inventorytweaks-v1.38.zip
 28A04A5BFF3D7F6D816C2B5356C6BE3F|mods\inventorytweaks\inventorytweaks-v1.40b.zip
 78D7F9D43CE6619DE06DC906D1BAF045|mods\inventorytweaks\inventorytweaks-v1.41b.zip
 CF8EEBD8B6141E9B33C5D8089ABD003B|mods\ironchests\ironchests-v2.5.zip
+2EEE2EF6E27DACC0BA683F2B29CF785F|mods\ironchests\ironchests-v3.3.1.21.zip
 04FD9390C879511AE843BCCA88B1BD69|mods\lasermod\lasermod-v1.2.zip
 B5946098BFEDE8E7E0B4DA4AB8188B3A|mods\lectern\lectern-ssp-1.2.5.zip
 4F0CDB02BD14C9B56860E10A5EC15F89|mods\macros\macros-0.8.5_for_1.2.3.zip
@@ -324,6 +328,7 @@ F2B351A7F33FA8F579108247BEA7F354|mods\mocreatures\mocreatures-v3.1.0.zip
 086091DDE497F8E824D457988C98698E|mods\nei\nei-v1.2.2.zip
 2F4535A052067C56B7BC2AEA34A37C4A|mods\netherores\netherores-v1.1.0.zip
 6415D0A259F49FBEB97D134EA1297E22|mods\netherores\netherores-v1.1.2.zip
+A238C234A5253199339D8D09F59F307B|mods\netherores\netherores-v1.2.1.zip
 1C6B82C61FD4B8C69B4CEE9FD4EA3C06|mods\pfaeff\pfaeff-v1.1.zip
 97F2247F4E9EDFB70D1457CE91AB25ED|mods\powerconverters\powerconverters-v1.3.0p2.zip
 2C1282E0E6A1505EECC070F8BFF1F904|mods\powerconverters\powerconverters-v1.3.1_01.zip
@@ -337,6 +342,7 @@ A93246B01B5AA2E693B47A5F48F5720A|mods\rc\rc-v3.4.2.zip
 E03278F8FFD3690A8C6294E100E4EABE|mods\rc\rc-v4.1.4.zip
 182E7D34A83F826B39C1B61569909B08|mods\rc\rc-v5.0.3.zip
 8FE9E92B7B3829C74BF7EEF2B8A39AC1|mods\rc\rc-v5.1.0.zip
+79C01BBF801609A43644AFDC1CA67A23|mods\rc\rc-v5.2.0.zip
 1B7568F7486B0D508645DF48F5DFD237|mods\recipehelper\recipehelper-v4.zip
 C4F8ACB605084C644790749A58AF70D7|mods\redpower\redpower-v2.0.4b.zip
 E1ADD5BC73E020AD797E5584225EB7E5|mods\redpower\redpower-v2.0.4c.zip
@@ -358,6 +364,7 @@ C2CE2D17953C0E5587B87605B85247EE|mods\reisminimap\reisminimap-v3.0_01.zip
 3B9765093E63653EAB7DFFFCD1CD70E8|mods\sensibleenchanting\sensibleenchanting-v4.9.zip
 0398DB5082952521C35DA51DE769BFFD|mods\shelf\shelf-v1.1.zip
 C13BD4FAA46D7438AA82C648397DF58F|mods\shelf\shelf-v1.2.3.zip
+5305B271C5E63D1EFC730B7176B8523E|mods\smartmoving\smartmoving-v8.5.zip
 38C279AB8A5E89A01F13FA680E7A5E6B|mods\somnia\somnia-v21.zip
 0668475A3BB0180A0B32AD42F6140519|mods\somnia\somnia-v23.zip
 09D49AB90787458E6EABAAF80701CDE8|mods\somnia\somnia-v24.zip
@@ -386,6 +393,7 @@ EB6295D856C4C87D898E41C82ADD977C|mods\treecapitator\treecapitator-v1.0.0.zip
 C8FCB7C1BC94E6779A1CBAF4EC764DD1|mods\treecapitator\treecapitator-v1.1.zip
 D50F50E6617F5CAA32F28F186F225FC5|mods\treecapitator\treecapitator-v1.2.3.b.zip
 5B55966E25F5340524F9DA765BEC13EB|mods\treecapitator\treecapitator-v1.2.5.e.zip
+A2E4A87C6C066216C0B2B44071A305A3|mods\tubestuff\tubestuff-v48.2.1.zip
 360B2451274F87B3B17A55CE54E7B609|mods\turretmod\turretmod-v1.3.2.zip
 07436A076F11FD833952148A83A5A103|mods\twilightforest\twilightforest-v1.6r2.zip
 4EC196753BD0EA7E4FF6E6F540D7ACB6|mods\twilightforest\twilightforest-v1.7.1.zip
@@ -434,6 +442,7 @@ AB86B00832D779F0164336876AA8DC92|mods\z-technic-configs\z-technic-configs-v6.0.7
 C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 3AA25CFF3154D6006AA358A07876BE1E|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0.zip
 2BFCBE2BFCB722243369FD431D5873E6|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0a.zip
+CF097DA26E609B4CD505E18D3D16DD2A|mods\z-tekkit-configs\z-tekkit-configs-v3.0.1.zip
 393D530ECC756D48A5F6D27826D9ED1F|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.1.0.zip
 CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.2.0.zip
 5994012F7E2453FD8092B480B0832831|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.3.0.zip
