@@ -5,11 +5,11 @@ AEE7D6EB28BE4B13A207CB6DC565A7DB|Libraries\snakeyaml\snakeyaml-1.9.jar
 C72F0962D992FA5E787DADB806453533|mods.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 9CEFD562D809C3FEB3E19FEEE65D5C16|technicssp\modpack.yml
-4E40143A2B7E62198230754508B99C8E|tekkit\modpack.yml
+0DE481D04E7681B64CE7E44B27B91A1D|tekkit\modpack.yml
 100A15DD2DD7B4C61F319FDD8503AA08|vanilla\modpack.yml
 6FBC00C0865B02D994A5D47DF5FD9CFD|voxelmodpack\modpack.yml
 D7ED2DDF10B27A870C2ECE641BC05B01|yogbox\modpack.yml
-F6D52E9EF4628E034659D5D56B248CA0|modlibrary.yml
+ADB349BCA6B81C92E7EB98B01A5D8588|modlibrary.yml
 9263A7AE7A9C3AF69F51E0033C036FD0|mirrors.yml
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
@@ -132,6 +132,7 @@ B4341BB67394D88F53FF196FE3A70CC9|mods\basemods\basemods-technic-v6.0.7.zip
 35E2C2B1ABFFD1E1A6B8D42E4C2305A3|mods\basemods\basemods-tekkit-v3.0.0-smooth.zip
 E41EE9CA5B3C712B067BFD13104C2CC8|mods\basemods\basemods-tekkit-v3.0.0.zip
 35162BB19BBCAA0D3B5C11AB19BCB560|mods\basemods\basemods-tekkit-v3.0.1.zip
+08CB848843C66D56504BAB18A7C53661|mods\basemods\basemods-tekkit-v3.0.2.zip
 74246E99B7C29D2D041D6169EC6747E6|mods\basemods\basemods-test.zip
 089A3457C5C153F958A216AC357EFCD8|mods\basemods\basemods-test2.zip
 7EF3498F9329FD527EFB2FBF84BE2CDD|mods\basemods\basemods-v1.2.0-S.zip
@@ -171,6 +172,7 @@ BBE5B6745CA311FC2EE058CE908E485B|mods\buildcraft\buildcraft-v2.2.14.zip
 4D3F81FCFC8CD1FE84929A58C0970B7D|mods\buildcraft\buildcraft-v3.1.4.zip
 46AD6B0F69E893EBF50A49BCEFE3720E|mods\buildcraft\buildcraft-v3.1.4pre.zip
 03D0A12762A9F76FCECB9C19FA776091|mods\buildcraft\buildcraft-v3.1.5.zip
+8170BA30E2102EBDE0CA054FF4519EDA|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v2.1.3.zip
 A90010C150320622095C6B13420834B1|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v3.0.1.zip
 FC9311570042DD1DF556957C041B56E9|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v3.0.10.zip
 97F8C8C4C60FAC6BDA2B2BA8FA227139|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v3.1.zip
@@ -203,6 +205,7 @@ BDDAE5F62CC1D50264826EF17FBD9D58|mods\codechickencore\codechickencore-v0.5.2.zip
 3D99F30534CE8742CAAC292619D383AC|mods\computercraft\computercraft-v1.21.zip
 8C9703BFC28461C7C29F3DF7059FA750|mods\computercraft\computercraft-v1.3.zip
 812DD7A1FBEBEDA49B11506A60EFC6E4|mods\computercraft\computercraft-v1.31.zip
+ACA3B3A64052F9E62992194140C6BEE5|mods\computercraft\computercraft-v1.33.zip
 EC6CDF2D4FDE191EFA4B987F71E7668C|mods\craftguide\craftguide-v1.3.0.zip
 1CEBC5CA4802895D69AFC69FFEF6EB9C|mods\craftguide\craftguide-v1.3.1.zip
 867A7568418AD3A6E325A99D88BEA906|mods\craftguide\craftguide-v1.4.1.zip
@@ -227,6 +230,7 @@ E25CCC8F50966CC791D088F33DB469A8|mods\ee\ee-v6.22.zip
 6A6940330020DCE20BB0DCCF2DB906BA|mods\ee2\ee2-v1.4.0.3.zip
 70A9ED6B4B2A557E693ADAAFE9B6107F|mods\ee2\ee2-v1.4.3.1.zip
 91DA075040E64F85DD811B8F1079E982|mods\ee2\ee2-v1.4.4.0.zip
+47CBE75490A47909718B4E69D6A9E782|mods\ee2\ee2-v1.4.5.1.zip
 4F747F2E37E04B76ECCC4BCE3F284AB1|mods\elementalcreepers\elementalcreepers-v1.9.zip
 CB5FDC38FDAB5906616C30D6361F8AC1|mods\elementalcreepers\elementalcreepers-v2.0.zip
 A217E84DADFF30DD42D223E6264063BE|mods\enderchest\enderchest-v1.0.1.zip
@@ -265,6 +269,7 @@ FE6DDD8D63F7B69BFFC259F47BCC790D|mods\ic2-advancedmachines\ic2-advancedmachines-
 5D1FCDD2D5C9B4A55EA10105B059952E|mods\ic2-compactsolars\ic2-compactsolars-v1.2.zip
 A6F36C11FCB50D018E7B65E330E2D667|mods\ic2-compactsolars\ic2-compactsolars-v2.2.0.5.zip
 FDC7DA90ED997048AD3DEAE9C038162B|mods\ic2-nuclearcontrol\ic2-nuclearcontrol-v1.1.3.zip
+B8136DA8A35D2D42071C2CE7E76E23A4|mods\ic2-nuclearcontrol\ic2-nuclearcontrol-v1.1.6.zip
 EF7396751B427D84CB741438F251AA8F|mods\ic2-transformers\ic2-transformers-v1.2.zip
 8CD955A3CF7D6D6B07D6404E59A42C53|mods\immibiscore\immibiscore-v48.2.1.zip
 FAB6AD529D5A7AE21276FEDECAA10F4E|mods\ingameinfo\ingameinfo-v1.2.5.d.zip
@@ -350,6 +355,7 @@ E1ADD5BC73E020AD797E5584225EB7E5|mods\redpower\redpower-v2.0.4c.zip
 6E6C90712137817C04E418B5053F7B73|mods\redpower\redpower-v2.0.4e.zip
 6B2D1500157F1809E5FDA08975594B1F|mods\redpower\redpower-v2.0.5.zip
 AB367B958C90F9B31ED9716EFE00DB0A|mods\redpower\redpower-v2.0.5b1.zip
+EA3A08580C081C02F526C13C8E89E181|mods\redpower\redpower-v2.0.5b2.zip
 7162D546B80B2BDF3CD663ED95C5E6F8|mods\redstoneremote\redstoneremote-v1.1.0.zip
 D3D82E19AAA6CAADDE42BF8A80A83E2F|mods\reisminimap\reisminimap-v2.9.01.zip
 B94F7DDAACDC0F3F7EDCE53AFA531967|mods\reisminimap\reisminimap-v2.9.zip
@@ -421,6 +427,7 @@ A223858EE8D4526D239C2217EE79E944|mods\wirelessredstone\wirelessredstone-v1.5.zip
 99DA27C842DAA462CCFB385656DD1745|mods\worldeditcui\worldeditcui-v1.2.zip
 CD7CBE08E1B6A2A2733736C9588834BF|mods\worldeditcui\worldeditcui-v1.2_mc1.2.4.zip
 1586B6A8723BE6A73D7F2288396B00A1|mods\wrcbe\wrcbe-v1.2.0.zip
+69C74AEA40D883046D943B786D158369|mods\wrcbe\wrcbe-v1.2.1.zip
 08B3031C3731CA6BE9C5FFDE87EE2897|mods\xpbook\xpbook-ssp-1.2.5.zip
 C0A6BEEBD44478A633BD21DEABF61299|mods\xpbook\xpbook-v4.zip
 7F4217197CCEA67D053251411D1EE711|mods\xpbook\xpbook-v5.zip
@@ -443,6 +450,7 @@ C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 3AA25CFF3154D6006AA358A07876BE1E|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0.zip
 2BFCBE2BFCB722243369FD431D5873E6|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0a.zip
 6DA4DBAE38D8DB71D6949E8CE6BF1743|mods\z-tekkit-configs\z-tekkit-configs-v3.0.1.zip
+AA061EF761B5F3BF9CC126BE24381176|mods\z-tekkit-configs\z-tekkit-configs-v3.0.2.rar
 393D530ECC756D48A5F6D27826D9ED1F|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.1.0.zip
 CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.2.0.zip
 5994012F7E2453FD8092B480B0832831|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.3.0.zip
