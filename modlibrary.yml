@@ -209,6 +209,15 @@ mods:
             v1.5:
             v1.6.2:
             v1.6.2-1.2.3:
+    craftingtableiii:
+        name: "Crafting Table III"
+        description: "Inspired by Terraria crafting, Crafting Table III displays everything you can currently craft with the items in your inventory. How much of each item the recipe uses is displayed on the left as well as a description of that item, click on the item and the Crafting Table III will automatically craft it for you without you ever having to remember recipes. As you add and remove items from your inventory the list of available items updates. Works with any recipe, including mods."
+        installtype: "zip"
+        modtype: "content"
+        link: "http://www.minecraftforum.net/topic/1189975-b18mc125-craftingtableiii-bug-fixs-more-mod-support/"
+        optional: true
+        versions:
+            v1.8:
     crystalwing:
         name: "Crystal Wing"
         installtype: "zip"

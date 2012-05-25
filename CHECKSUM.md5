@@ -5,11 +5,11 @@ AEE7D6EB28BE4B13A207CB6DC565A7DB|Libraries\snakeyaml\snakeyaml-1.9.jar
 C72F0962D992FA5E787DADB806453533|mods.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 9CEFD562D809C3FEB3E19FEEE65D5C16|technicssp\modpack.yml
-39550A1744135B685795874BBA85BAAE|tekkit\modpack.yml
+0010CE658BD90C1DBDC5C778D9C8C7D8|tekkit\modpack.yml
 100A15DD2DD7B4C61F319FDD8503AA08|vanilla\modpack.yml
 6FBC00C0865B02D994A5D47DF5FD9CFD|voxelmodpack\modpack.yml
 D7ED2DDF10B27A870C2ECE641BC05B01|yogbox\modpack.yml
-ADB349BCA6B81C92E7EB98B01A5D8588|modlibrary.yml
+A30F9D1719D0BFBE1A0A456FF4BA36E8|modlibrary.yml
 9263A7AE7A9C3AF69F51E0033C036FD0|mirrors.yml
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
@@ -132,7 +132,7 @@ B4341BB67394D88F53FF196FE3A70CC9|mods\basemods\basemods-technic-v6.0.7.zip
 35E2C2B1ABFFD1E1A6B8D42E4C2305A3|mods\basemods\basemods-tekkit-v3.0.0-smooth.zip
 E41EE9CA5B3C712B067BFD13104C2CC8|mods\basemods\basemods-tekkit-v3.0.0.zip
 35162BB19BBCAA0D3B5C11AB19BCB560|mods\basemods\basemods-tekkit-v3.0.1.zip
-08CB848843C66D56504BAB18A7C53661|mods\basemods\basemods-tekkit-v3.0.2.zip
+7C420F4BBAA6AE552E5FCDD3256DDEBB|mods\basemods\basemods-tekkit-v3.0.2.zip
 74246E99B7C29D2D041D6169EC6747E6|mods\basemods\basemods-test.zip
 089A3457C5C153F958A216AC357EFCD8|mods\basemods\basemods-test2.zip
 7EF3498F9329FD527EFB2FBF84BE2CDD|mods\basemods\basemods-v1.2.0-S.zip
@@ -215,6 +215,7 @@ AC1F437F5B10539B092E836A069B63F2|mods\craftguide\craftguide-v1.4.3.zip
 40C09404E6664CF2083E7F07B8867D93|mods\craftingtableii\craftingtableii-v1.5.zip
 66ED2ABAC60FFD6EB33D02A068C08532|mods\craftingtableii\craftingtableii-v1.6.2-1.2.3.zip
 E491FBD402F0687A3504D233671A008B|mods\craftingtableii\craftingtableii-v1.6.2.zip
+550601EA15B7B03C903FE70870FBB9BD|mods\craftingtableiii\craftingtableiii-v1.8.zip
 F771872143AF47F2D65FA406CB2D5002|mods\crystalwing\crystalwing-v1.0.0.zip
 9A67EF0E542635DC8E42244BEF4A6C74|mods\crystalwing\crystalwing-v1.2.5.a.zip
 02295D8195C8CE44C207B1D31133BB4A|mods\custommobspawner\custommobspawner-v1.4.1.zip
@@ -450,7 +451,7 @@ C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 3AA25CFF3154D6006AA358A07876BE1E|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0.zip
 2BFCBE2BFCB722243369FD431D5873E6|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0a.zip
 6DA4DBAE38D8DB71D6949E8CE6BF1743|mods\z-tekkit-configs\z-tekkit-configs-v3.0.1.zip
-E5DED22D9888C92863CC6071378261B5|mods\z-tekkit-configs\z-tekkit-configs-v3.0.2.zip
+03494A88D79175A7D6A7878791C86E20|mods\z-tekkit-configs\z-tekkit-configs-v3.0.2.zip
 393D530ECC756D48A5F6D27826D9ED1F|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.1.0.zip
 CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.2.0.zip
 5994012F7E2453FD8092B480B0832831|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.3.0.zip
