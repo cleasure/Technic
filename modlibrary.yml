@@ -159,6 +159,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=929"
         versions:
+            v1.95b:
             v1.81-1:
             v1.71-1:
             v1.70-1:
