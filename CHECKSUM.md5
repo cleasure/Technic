@@ -5,11 +5,11 @@ AEE7D6EB28BE4B13A207CB6DC565A7DB|Libraries\snakeyaml\snakeyaml-1.9.jar
 C72F0962D992FA5E787DADB806453533|mods.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 9CEFD562D809C3FEB3E19FEEE65D5C16|technicssp\modpack.yml
-0BDD35B141286E840CA5EF461A7453A5|tekkit\modpack.yml
+A751179F4641994BB39F9FCB393A1D70|tekkit\modpack.yml
 100A15DD2DD7B4C61F319FDD8503AA08|vanilla\modpack.yml
 6FBC00C0865B02D994A5D47DF5FD9CFD|voxelmodpack\modpack.yml
 D7ED2DDF10B27A870C2ECE641BC05B01|yogbox\modpack.yml
-A30F9D1719D0BFBE1A0A456FF4BA36E8|modlibrary.yml
+940D21A1FC3AEA7D1A1D3E38C0439489|modlibrary.yml
 9263A7AE7A9C3AF69F51E0033C036FD0|mirrors.yml
 A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 E2309080B2EAD234AD054E6C3FF3951F|Patches\Minecraft\minecraft_b1.8.1-b1.7.3.patch
@@ -338,6 +338,7 @@ A238C234A5253199339D8D09F59F307B|mods\netherores\netherores-v1.2.1.zip
 1C6B82C61FD4B8C69B4CEE9FD4EA3C06|mods\pfaeff\pfaeff-v1.1.zip
 97F2247F4E9EDFB70D1457CE91AB25ED|mods\powerconverters\powerconverters-v1.3.0p2.zip
 2C1282E0E6A1505EECC070F8BFF1F904|mods\powerconverters\powerconverters-v1.3.1_01.zip
+DDDAEFFDBCC37CF8355FC341E2760E6A|mods\powerconverters\powerconverters-v1.3.4.zip
 B6637143AC02D02481482094A1C8D483|mods\rc\rc-v2.1.1.zip
 87198B1E43359F960ABBBBFA2676F509|mods\rc\rc-v2.2.1.zip
 DFFA3A897B0679D670652F8CC42F0B8C|mods\rc\rc-v3.0.0.zip
@@ -451,7 +452,7 @@ C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 3AA25CFF3154D6006AA358A07876BE1E|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0.zip
 2BFCBE2BFCB722243369FD431D5873E6|mods\z-tekkit-configs\z-tekkit-configs-v3.0.0a.zip
 6DA4DBAE38D8DB71D6949E8CE6BF1743|mods\z-tekkit-configs\z-tekkit-configs-v3.0.1.zip
-03494A88D79175A7D6A7878791C86E20|mods\z-tekkit-configs\z-tekkit-configs-v3.0.2.zip
+1E22D93D534B5D48BDE7D0357E40509F|mods\z-tekkit-configs\z-tekkit-configs-v3.0.2.zip
 393D530ECC756D48A5F6D27826D9ED1F|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.1.0.zip
 CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.2.0.zip
 5994012F7E2453FD8092B480B0832831|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.3.0.zip

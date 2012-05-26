@@ -545,6 +545,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v1.3.4:
             v1.3.1_01:
             v1.3.0p2:
     rc:
