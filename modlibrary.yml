@@ -556,6 +556,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v5.2.4:
             v5.2.0:
             v5.1.0:
             v5.0.3:
