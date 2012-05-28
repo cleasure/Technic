@@ -1,8 +1,13 @@
 launcher: 
 current: 
 recommended: '1.2.3'
-latest: '1.2.3'
+latest: '1.2.5'
 builds:
+    '1.2.5':
+        libraries:
+        minecraft: 1.2.5
+        mods:
+            basemods: vanilla-v1.2.5
     '1.2.3':
         libraries:
         minecraft: 1.2.3
