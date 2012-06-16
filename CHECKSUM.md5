@@ -1,7 +1,7 @@
 6FBC00C0865B02D994A5D47DF5FD9CFD|voxelmodpack\modpack.yml
 29C49D0B3FD92120708BD1156D454435|vanilla\modpack.yml
 4D933015F34A19B4F147BBDA357C02C2|tekkit\modpack.yml
-9CEFD562D809C3FEB3E19FEEE65D5C16|technicssp\modpack.yml
+7BAD521193AC376A26334602591CA87F|technicssp\modpack.yml
 FAE92AD366836FDA4ADAFE1C4D9C774A|Patches\Minecraft\minecraft_b1.7.3-1.0.0.patch
 FA8899420A629D1371C9294A715DDC83|Patches\Minecraft\minecraft_b1.8-b1.7.3.patch
 F640DA15AC0416E5BB4281AE2AF99072|Patches\Minecraft\minecraft_b1.8.1-1.0.0.patch
@@ -76,7 +76,7 @@ C72F0962D992FA5E787DADB806453533|mods.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 3080201D7E20A69E33EBD059FCC89FAA|libraries.yml
 0103D69C0141F74C133947A2363C15D3|yogbox\modpack.yml
-0CF71D6ECDF3A767CFB3D9A6C408D364|modlibrary.yml
+CD68D5078F12B88200B529D3B1699918|modlibrary.yml
 FC658483012963BF32A57F8B8F9B402C|hackslashmine\modpack.yml
 E97BCF908F84EA5BC5A5B51D927F56C2|Libraries\lwjgl\linux_natives.zip
 8FE043F688D2C7759686DF334CEBF8B5|Libraries\lwjgl\lwjgl-2.6.zip
@@ -132,6 +132,7 @@ B4341BB67394D88F53FF196FE3A70CC9|mods\basemods\basemods-technic-v6.0.7.zip
 4396593474A8B29AE77BF21899AA72A3|mods\basemods\basemods-technic-v6.1.1.zip
 5EB628A2E7FEDAF0620232941F136BA7|mods\basemods\basemods-technic-v7.0.0.zip
 5A01A288A0BEBF6329D0D7BC521638CD|mods\basemods\basemods-technic-v7.0.1.zip
+EDDF2D0781CF55DFCE356A6AF8585353|mods\basemods\basemods-technic-v7.1.0.zip
 8D7AC30CA4D6A18C37C2288A98125BAC|mods\basemods\basemods-tekkit-v2.0-optifree.zip
 45A3154BCAB5B3FF975C35EF35BAAF72|mods\basemods\basemods-tekkit-v2.0.zip
 35E2C2B1ABFFD1E1A6B8D42E4C2305A3|mods\basemods\basemods-tekkit-v3.0.0-smooth.zip
@@ -185,6 +186,7 @@ BBE5B6745CA311FC2EE058CE908E485B|mods\buildcraft\buildcraft-v2.2.14.zip
 8170BA30E2102EBDE0CA054FF4519EDA|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v2.1.3.zip
 A90010C150320622095C6B13420834B1|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v3.0.1.zip
 FC9311570042DD1DF556957C041B56E9|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v3.0.10.zip
+7B23C7647DE6A08030D36A305B480A72|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v3.1.0.zip
 97F8C8C4C60FAC6BDA2B2BA8FA227139|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v3.1.zip
 146EE50BD65D4C47D47FD3692E3DCF80|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v32.3.zip
 A3C3911E96F8DD96A875AB32A943CF24|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v34.zip
@@ -197,6 +199,8 @@ CB733F859512FF13FE652EE2C2DF4234|mods\buildcraft-logisticspipes\buildcraft-logis
 5AB85F0631770A3249C11F42A964002D|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.2.1A.zip
 5A498BFE739D1296BB9A3D0382215F7F|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.2.2a.zip
 DF4F516F944514EACA5E0C7749056DEA|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.2.4a.zip
+2D0AE8B10F90C5E37B283096CB86EEB9|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.2.5b.zip
+991C76B33E56E9C9A9C071B03FED4861|mods\buildcraft-objects\buildcraft-objects-v100.zip
 173C7E6998B2FFD97F56535AB84CEC5B|mods\buildcraft-objects\buildcraft-objects-v56.zip
 B6B5234679D04979006F7B7CA35FD1F3|mods\buildcraft-objects\buildcraft-objects-v63.zip
 38C0960293D6803A10755531EC07E431|mods\buildcraft-objects\buildcraft-objects-v84.zip
@@ -212,6 +216,7 @@ F9A9709F2583CD80FFF4FD04EB106A7D|mods\codechickencore\codechickencore-v0.4.2.zip
 62E2D720D34CBC9052734001BAC80DDB|mods\codechickencore\codechickencore-v0.4.4.zip
 5C7AA7415BF7B70515DA05E0B2F1D432|mods\codechickencore\codechickencore-v0.5.0.zip
 BDDAE5F62CC1D50264826EF17FBD9D58|mods\codechickencore\codechickencore-v0.5.2.zip
+275A201640EA2BBCA2F58F02EA395E44|mods\codechickencore\codechickencore-v0.5.3.zip
 5EEFE5BC665FB7D3D91199CF3AC86F23|mods\computercraft\computercraft-v1.2.zip
 3D99F30534CE8742CAAC292619D383AC|mods\computercraft\computercraft-v1.21.zip
 8C9703BFC28461C7C29F3DF7059FA750|mods\computercraft\computercraft-v1.3.zip
@@ -243,6 +248,7 @@ E25CCC8F50966CC791D088F33DB469A8|mods\ee\ee-v6.22.zip
 70A9ED6B4B2A557E693ADAAFE9B6107F|mods\ee2\ee2-v1.4.3.1.zip
 91DA075040E64F85DD811B8F1079E982|mods\ee2\ee2-v1.4.4.0.zip
 47CBE75490A47909718B4E69D6A9E782|mods\ee2\ee2-v1.4.5.1.zip
+976157F93ECF31BC82B8D6332ED29915|mods\ee2\ee2-v1.4.6.1.zip
 4F747F2E37E04B76ECCC4BCE3F284AB1|mods\elementalcreepers\elementalcreepers-v1.9.zip
 CB5FDC38FDAB5906616C30D6361F8AC1|mods\elementalcreepers\elementalcreepers-v2.0.zip
 A217E84DADFF30DD42D223E6264063BE|mods\enderchest\enderchest-v1.0.1.zip
@@ -251,6 +257,7 @@ C4144D0F3A14B17EFDA723E9E858134D|mods\enderchest\enderchest-v1.0.1v2.zip
 C9C3AC21F478E091B4514F41E3802062|mods\enderchest\enderchest-v1.0.zip
 79430805792DABEC462CAE3F01E4DC63|mods\enderstorage\enderstorage-v1.1.0.zip
 AD0C954484D1DE2183AF6618622EBE60|mods\enderstorage\enderstorage-v1.1.1.zip
+8866EEAD13662F57BD340038745AB37D|mods\enderstorage\enderstorage-v1.1.3.zip
 DCF738F9AA124853F70753E5F3C7E1B3|mods\floatingruins\floatingruins-v1.0.0.zip
 C550AD1DF881275EB9BFB8112BAB3334|mods\floodgate\floodgate-v1.1.zip
 89F3EAE3E66C1DDE1E52298453A1ED6F|mods\forestry\forestry-v1.2.6.3.zip
@@ -278,10 +285,12 @@ DCC6801EC165C6F4AB609E3CE444FC4C|mods\ic2-advancedmachines\ic2-advancedmachines-
 7D37C44326FC09D24CBDA36E714933E8|mods\ic2-advancedmachines\ic2-advancedmachines-v3.2_beta2.zip
 A8DBF057A0E0A68B425208D9C16748DB|mods\ic2-advancedmachines\ic2-advancedmachines-v3.6e.zip
 FE6DDD8D63F7B69BFFC259F47BCC790D|mods\ic2-advancedmachines\ic2-advancedmachines-v4.0.zip
+AE584D7DBB03CA083CB0A59CE9FC39B6|mods\ic2-advancedmachines\ic2-advancedmachines-v4.1.zip
 5D1FCDD2D5C9B4A55EA10105B059952E|mods\ic2-compactsolars\ic2-compactsolars-v1.2.zip
 A6F36C11FCB50D018E7B65E330E2D667|mods\ic2-compactsolars\ic2-compactsolars-v2.2.0.5.zip
 FDC7DA90ED997048AD3DEAE9C038162B|mods\ic2-nuclearcontrol\ic2-nuclearcontrol-v1.1.3.zip
 B8136DA8A35D2D42071C2CE7E76E23A4|mods\ic2-nuclearcontrol\ic2-nuclearcontrol-v1.1.6.zip
+130C700EDA20B4FE9B70C6D15D5D65AA|mods\ic2-nuclearcontrol\ic2-nuclearcontrol-v1.1.8.zip
 EF7396751B427D84CB741438F251AA8F|mods\ic2-transformers\ic2-transformers-v1.2.zip
 8CD955A3CF7D6D6B07D6404E59A42C53|mods\immibiscore\immibiscore-v48.2.1.zip
 FAB6AD529D5A7AE21276FEDECAA10F4E|mods\ingameinfo\ingameinfo-v1.2.5.d.zip
@@ -342,11 +351,11 @@ B95F389B5207DBAC614DF10E7C1077DE|mods\minions\minions-v1.2.5.zip
 F2B351A7F33FA8F579108247BEA7F354|mods\mocreatures\mocreatures-v3.1.0.zip
 266F0DC415CD26A65E7305D5876E7A29|mods\mocreatures\mocreatures-v3.2.2.zip
 7051839DDDAA04BDE9887B48875A3A86|mods\mocreatures\mocreatures-v3.3.0.zip
-14C1071286B46639D268C45505970775|mods\mocreatures\mocreatures-v3.6.2.zip
+D1BAF36771C8A0F1CFB3CF7F20EAE3BA|mods\mocreatures\mocreatures-v3.6.2.zip
 090BFD2E4BDBDA8CC68625CF672D39D5|mods\morefuel\morefuel-v1.7.zip
 120A9B7A694000650CBB00B69836191F|mods\nei\nei-v1.2.0.zip
 8A16D2E19D1A2429B4233D96E13B52BE|mods\nei\nei-v1.2.1.zip
-086091DDE497F8E824D457988C98698E|mods\nei\nei-v1.2.2.zip
+375C36EAA063BC0A8C347CF892BCB862|mods\nei\nei-v1.2.2.zip
 2F4535A052067C56B7BC2AEA34A37C4A|mods\netherores\netherores-v1.1.0.zip
 6415D0A259F49FBEB97D134EA1297E22|mods\netherores\netherores-v1.1.2.zip
 A238C234A5253199339D8D09F59F307B|mods\netherores\netherores-v1.2.1.zip
@@ -366,6 +375,7 @@ E03278F8FFD3690A8C6294E100E4EABE|mods\rc\rc-v4.1.4.zip
 8FE9E92B7B3829C74BF7EEF2B8A39AC1|mods\rc\rc-v5.1.0.zip
 79C01BBF801609A43644AFDC1CA67A23|mods\rc\rc-v5.2.0.zip
 1412A68622522FF749F6BBBD6AD26F99|mods\rc\rc-v5.2.4.zip
+B9B48D9DB6A04B1A8AA86C4E1D891919|mods\rc\rc-v5.3.2.zip
 1B7568F7486B0D508645DF48F5DFD237|mods\recipehelper\recipehelper-v4.zip
 C4F8ACB605084C644790749A58AF70D7|mods\redpower\redpower-v2.0.4b.zip
 E1ADD5BC73E020AD797E5584225EB7E5|mods\redpower\redpower-v2.0.4c.zip
@@ -409,6 +419,7 @@ E52A45068AFF650F1FC655BEFA1705E8|mods\thaumcraft\thaumcraft-v2.0.1.zip
 FC1296CFABF455ED3365F2C2C8C1F8EB|mods\thaumcraft\thaumcraft-v2.1.0.zip
 051E01A2BA31C8C978C7A317259ABDDF|mods\thaumcraft\thaumcraft-v2.1.1.zip
 051E01A2BA31C8C978C7A317259ABDDF|mods\thaumcraft\thaumcraft-v2.1.3b.zip
+BA85B9D841CCED6196F4AF1DF84B9E21|mods\thaumcraft\thaumcraft-v2.1.6c.zip
 EF5DF8BBAE85E6084E23CB9527FA646F|mods\tok\tok-v1.3.0.2.zip
 DD7A9BA0B782D145909E099DB54C7EB3|mods\tok\tok-v1.3.0.3.zip
 C91E193FF1F48BD199DAFE19397084E8|mods\tomes\tomes-ssp-1.2.5.zip
@@ -447,6 +458,7 @@ A223858EE8D4526D239C2217EE79E944|mods\wirelessredstone\wirelessredstone-v1.5.zip
 CD7CBE08E1B6A2A2733736C9588834BF|mods\worldeditcui\worldeditcui-v1.2_mc1.2.4.zip
 1586B6A8723BE6A73D7F2288396B00A1|mods\wrcbe\wrcbe-v1.2.0.zip
 69C74AEA40D883046D943B786D158369|mods\wrcbe\wrcbe-v1.2.1.zip
+CD7C58043DE6AE21D42A09721FA50C04|mods\wrcbe\wrcbe-v1.2.2.1.zip
 08B3031C3731CA6BE9C5FFDE87EE2897|mods\xpbook\xpbook-ssp-1.2.5.zip
 C0A6BEEBD44478A633BD21DEABF61299|mods\xpbook\xpbook-v4.zip
 7F4217197CCEA67D053251411D1EE711|mods\xpbook\xpbook-v5.zip
@@ -462,6 +474,7 @@ AB86B00832D779F0164336876AA8DC92|mods\z-technic-configs\z-technic-configs-v6.0.7
 7B6CB9D2BFDF8329263109149827E99A|mods\z-technic-configs\z-technic-configs-v6.1.1.zip
 74F055CFB8C9307CA9CCA6EB5418F6A8|mods\z-technic-configs\z-technic-configs-v7.0.0.zip
 46F160E465D5D4924B80EA33345D40C5|mods\z-technic-configs\z-technic-configs-v7.0.1.zip
+CAB29C1CCE9A9AF2D70E385F4B07BF69|mods\z-technic-configs\z-technic-configs-v7.1.0.zip
 8C0F792604EF242A35789C6A92DD02A8|mods\z-tekkit-configs\z-tekkit-configs-v2.0.0.zip
 4818E3B1DF69797778A7CDE49244C01C|mods\z-tekkit-configs\z-tekkit-configs-v2.0.zip
 2E16D95B4893F110C914E0F48CBAE569|mods\z-tekkit-configs\z-tekkit-configs-v2.1.1.zip
