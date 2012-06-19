@@ -11,21 +11,34 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    8.1.0:
+    8.4.0:
         libraries: 
-        minecraft: 1.2.3
+        minecraft: 1.2.5
         mods:
-            basemods: voxelmodpack-v8.1.0
-            voxelpacket: 1.0.2_client_obf_mc1.2.3
-            minaptics: 1.2.3r12vbox
-            voxelworld: v8.1.0
-            voxelplayer: v8.1.0
-            voxeltextures: 0.4.0_mc1.2.3
-            reisminimap: v3.0_03
-            macros: 0.8.5_for_1.2.3
-            voxelget: 0.5.5_mc1.2.3
-            worldeditcui: v1.2
-            z-voxelmodpack-configs: v8.1.0
+            basemods: voxelmodpack-v8.4.0
+            voxelpacket: 1.0.1_mc1.2.5
+            voxelplayer: 0.6.1_mc1.2.5
+            voxeltextures: 0.4.3_mc1.2.5
+            voxelget: 0.5.6.2_mc1.2.5
+            macros: 0.8.7_for_1.2.5
+            minaptics: 1.2.4r13vbox
+            reisminimap: v3.0_04-1.2.5
+            z-voxelmodpack-configs: v8.4.0
+            z-voxelmodpack-texturepacks: v8.3.0
+    8.3.0:
+        libraries: 
+        minecraft: 1.2.5
+        mods:
+            basemods: voxelmodpack-v8.3.0
+            voxelpacket: 1.0.1_mc1.2.5
+            voxelplayer: 0.6.1_mc1.2.5
+            voxeltextures: 0.4.2_mc1.2.5
+            voxelget: 0.5.6.2_mc1.2.5
+            macros: 0.8.7_for_1.2.5
+            minaptics: 1.2.4r13vbox
+            reisminimap: v3.0_04-1.2.5
+            z-voxelmodpack-configs: v8.3.0
+            z-voxelmodpack-texturepacks: v8.3.0
     8.2.0:
         libraries: 
         minecraft: 1.2.4
@@ -41,31 +54,18 @@ builds:
             worldeditcui: v1.2_mc1.2.4
             z-voxelmodpack-configs: v8.2.0
             z-voxelmodpack-texturepacks: v8.2.0
-    8.3.0:
+    8.1.0:
         libraries: 
-        minecraft: 1.2.5
+        minecraft: 1.2.3
         mods:
-            basemods: voxelmodpack-v8.3.0
-            voxelpacket: 1.0.1_mc1.2.5
-            voxelplayer: 0.6.1_mc1.2.5
-            voxeltextures: 0.4.2_mc1.2.5
-            voxelget: 0.5.6.2_mc1.2.5
-            macros: 0.8.7_for_1.2.5
-            minaptics: 1.2.4r13vbox
-            reisminimap: v3.0_04-1.2.5
-            z-voxelmodpack-configs: v8.3.0
-            z-voxelmodpack-texturepacks: v8.3.0
-    8.4.0:
-        libraries: 
-        minecraft: 1.2.5
-        mods:
-            basemods: voxelmodpack-v8.4.0
-            voxelpacket: 1.0.1_mc1.2.5
-            voxelplayer: 0.6.1_mc1.2.5
-            voxeltextures: 0.4.3_mc1.2.5
-            voxelget: 0.5.6.2_mc1.2.5
-            macros: 0.8.7_for_1.2.5
-            minaptics: 1.2.4r13vbox
-            reisminimap: v3.0_04-1.2.5
-            z-voxelmodpack-configs: v8.4.0
-            z-voxelmodpack-texturepacks: v8.3.0
+            basemods: voxelmodpack-v8.1.0
+            voxelpacket: 1.0.2_client_obf_mc1.2.3
+            minaptics: 1.2.3r12vbox
+            voxelworld: v8.1.0
+            voxelplayer: v8.1.0
+            voxeltextures: 0.4.0_mc1.2.3
+            reisminimap: v3.0_03
+            macros: 0.8.5_for_1.2.3
+            voxelget: 0.5.5_mc1.2.3
+            worldeditcui: v1.2
+            z-voxelmodpack-configs: v8.1.0
