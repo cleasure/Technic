@@ -1,7 +1,7 @@
-6FBC00C0865B02D994A5D47DF5FD9CFD|voxelmodpack\modpack.yml
-29C49D0B3FD92120708BD1156D454435|vanilla\modpack.yml
-4D933015F34A19B4F147BBDA357C02C2|tekkit\modpack.yml
-0A19B2005DAD42430F31FD6D22849D98|technicssp\modpack.yml
+1F3F61BB425CBC4431CB007ACFEF141A|voxelmodpack\modpack.yml
+057B988A4A130A9FB9644D7026C35991|vanilla\modpack.yml
+F4EA74AFCB1831E3073B276ABABEE55E|tekkit\modpack.yml
+471ED51ABE3EF52680FC416F1FE4A403|technicssp\modpack.yml
 FAE92AD366836FDA4ADAFE1C4D9C774A|Patches\Minecraft\minecraft_b1.7.3-1.0.0.patch
 FA8899420A629D1371C9294A715DDC83|Patches\Minecraft\minecraft_b1.8-b1.7.3.patch
 F640DA15AC0416E5BB4281AE2AF99072|Patches\Minecraft\minecraft_b1.8.1-1.0.0.patch
@@ -72,12 +72,12 @@ F5153110229FBBDA8BEE81EAF20045C7|forums_small.png
 EBDBFC8E1F28C0BCF1B44403328C6932|technic-launcher.jar
 C72F0962D992FA5E787DADB806453533|mods.yml
 9263A7AE7A9C3AF69F51E0033C036FD0|mirrors.yml
-6265503F262C1A415A523EBD259C6B58|minecraft.yml
-5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
+12B70E851A6515D6F67ED7C0C72E1A44|minecraft.yml
+162259B737C03C7846E2D563AE00AF7C|modpacks.yml
 3080201D7E20A69E33EBD059FCC89FAA|libraries.yml
-0103D69C0141F74C133947A2363C15D3|yogbox\modpack.yml
-CD68D5078F12B88200B529D3B1699918|modlibrary.yml
-FC658483012963BF32A57F8B8F9B402C|hackslashmine\modpack.yml
+0D2EBA52D5820C348738BCF4F90F5B29|yogbox\modpack.yml
+02D4E4DF03A94B9E8A64FA91ACD7AA00|modlibrary.yml
+27B0B083A3330A33A9E4B3FAA1931D89|hackslashmine\modpack.yml
 E97BCF908F84EA5BC5A5B51D927F56C2|Libraries\lwjgl\linux_natives.zip
 8FE043F688D2C7759686DF334CEBF8B5|Libraries\lwjgl\lwjgl-2.6.zip
 6BCC36CA2BC79E3A64BC550862E4D0F6|Libraries\lwjgl\lwjgl-2.7.1.zip
@@ -153,6 +153,7 @@ A0CA97DB36B1EB079D91CED8D645E26A|mods\basemods\basemods-vanilla-v1.2.3.zip
 E4F13DC7EEAB8D032EF19D113AB6224D|mods\basemods\basemods-voxelmodpack-v8.1.0.zip
 15985A170961F95203C3B661343BAE4C|mods\basemods\basemods-voxelmodpack-v8.2.0.zip
 120FD7587FDF980B30FBDE08398AB9C9|mods\basemods\basemods-voxelmodpack-v8.3.0.zip
+1F9F143FE4A703829F003EC379BFE418|mods\basemods\basemods-voxelmodpack-v8.4.0.zip
 D0757110CA029B7DD052EDE4B531C7D8|mods\basemods\basemods-yogbox-v1.1.0.zip
 73E68658F4717B42205AE536164B1555|mods\basemods\basemods-yogbox-v1.1.1.zip
 EAAFAB5AA4D4E61C68724C2DD074E647|mods\basemods\basemods-yogbox-v1.1.2.zip
@@ -445,6 +446,7 @@ A616B2A2D7902920F0D3C556AAF08780|mods\voxelplayer\voxelplayer-0.6.1_mc1.2.5.zip
 FAA38A6D1B0C92E672347C7BF86FDD6B|mods\voxeltextures\voxeltextures-0.4.0_mc1.2.3.zip
 DC31EE92EE7A63D125CA332FD3616ABA|mods\voxeltextures\voxeltextures-0.4.1_mc1.2.4.zip
 FB932CCE8730E35779E607B22A543870|mods\voxeltextures\voxeltextures-0.4.2_mc1.2.5.zip
+FB41B028972BC2756EA0A1354C63C99B|mods\voxeltextures\voxeltextures-0.4.3_mc1.2.5.zip
 C7D0BA5840753C2EDA8393FEF810E674|mods\voxelworld\voxelworld-v8.1.0.zip
 D9753F6E811B8DA011C289574BEC26F6|mods\wirelessredstone\wirelessredstone-v1.4.zip
 42261D3153A142AE6F4A56E48D3EF23C|mods\wirelessredstone\wirelessredstone-v1.5-1.2.5.zip
@@ -487,6 +489,7 @@ B2FD528F4E8564E6058811F16361BF37|mods\z-tekkit-configs\z-tekkit-configs-v3.0.3.z
 393D530ECC756D48A5F6D27826D9ED1F|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.1.0.zip
 CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.2.0.zip
 5994012F7E2453FD8092B480B0832831|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.3.0.zip
+6CECD098C58253A2FE6CB12C574B18BC|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.4.0.zip
 9C301B9727913A7CA9D4526800CF4855|mods\z-voxelmodpack-texturepacks\z-voxelmodpack-texturepacks-v8.2.0.zip
 2F94A84004651632934C6C0B0A583F10|mods\z-voxelmodpack-texturepacks\z-voxelmodpack-texturepacks-v8.3.0.zip
 34BBA92645015B23B28D84668E8A0210|mods\z-yogbox-configs\z-yogbox-configs-v1.1.0.zip

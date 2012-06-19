@@ -50,6 +50,7 @@ mods:
             voxelmodpack-v8.1.0:
             voxelmodpack-v8.2.0:
             voxelmodpack-v8.3.0:
+            voxelmodpack-v8.4.0:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
@@ -753,6 +754,7 @@ mods:
             0.4.0_mc1.2.3:
             0.4.1_mc1.2.4:
             0.4.2_mc1.2.5:
+            0.4.3_mc1.2.5:
     voxelworld:
         name: "VoxelWorld"
         installtype: "zip"
@@ -857,6 +859,7 @@ mods:
             v8.1.0:
             v8.2.0:
             v8.3.0:
+            v8.4.0:
     z-voxelmodpack-texturepacks:
         name: "VoxelModPack Texture Packs"
         installtype: "zip"
