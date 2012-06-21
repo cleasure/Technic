@@ -1,6 +1,6 @@
 02D409842EC4D20EB497E4B5529A91D0|voxelmodpack\modpack.yml
 29C49D0B3FD92120708BD1156D454435|vanilla\modpack.yml
-4D933015F34A19B4F147BBDA357C02C2|tekkit\modpack.yml
+9CA31C71E190B79B65814F73FF0DD944|tekkit\modpack.yml
 0A19B2005DAD42430F31FD6D22849D98|technicssp\modpack.yml
 FAE92AD366836FDA4ADAFE1C4D9C774A|Patches\Minecraft\minecraft_b1.7.3-1.0.0.patch
 FA8899420A629D1371C9294A715DDC83|Patches\Minecraft\minecraft_b1.8-b1.7.3.patch
@@ -76,7 +76,7 @@ C72F0962D992FA5E787DADB806453533|mods.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 3080201D7E20A69E33EBD059FCC89FAA|libraries.yml
 0103D69C0141F74C133947A2363C15D3|yogbox\modpack.yml
-A4D577B71CA73898C0C17378C3557B6E|modlibrary.yml
+4067D17820A57148EF4088985F62BB3C|modlibrary.yml
 FC658483012963BF32A57F8B8F9B402C|hackslashmine\modpack.yml
 E97BCF908F84EA5BC5A5B51D927F56C2|Libraries\lwjgl\linux_natives.zip
 8FE043F688D2C7759686DF334CEBF8B5|Libraries\lwjgl\lwjgl-2.6.zip
@@ -140,6 +140,7 @@ E41EE9CA5B3C712B067BFD13104C2CC8|mods\basemods\basemods-tekkit-v3.0.0.zip
 35162BB19BBCAA0D3B5C11AB19BCB560|mods\basemods\basemods-tekkit-v3.0.1.zip
 B7ED852DA4C2A99D8E588726F5C713AD|mods\basemods\basemods-tekkit-v3.0.2.zip
 B7ED852DA4C2A99D8E588726F5C713AD|mods\basemods\basemods-tekkit-v3.0.3.zip
+3F62F439F01B970925A167E36EE8D71D|mods\basemods\basemods-tekkit-v3.1.0.zip
 74246E99B7C29D2D041D6169EC6747E6|mods\basemods\basemods-test.zip
 089A3457C5C153F958A216AC357EFCD8|mods\basemods\basemods-test2.zip
 7EF3498F9329FD527EFB2FBF84BE2CDD|mods\basemods\basemods-v1.2.0-S.zip
@@ -252,6 +253,7 @@ E25CCC8F50966CC791D088F33DB469A8|mods\ee\ee-v6.22.zip
 976157F93ECF31BC82B8D6332ED29915|mods\ee2\ee2-v1.4.6.1.zip
 4F747F2E37E04B76ECCC4BCE3F284AB1|mods\elementalcreepers\elementalcreepers-v1.9.zip
 CB5FDC38FDAB5906616C30D6361F8AC1|mods\elementalcreepers\elementalcreepers-v2.0.zip
+CBD5A77DA0B73D028E7550EEE9DDA050|mods\elementalcreepers\elementalcreepers-v2.3r2_mp.zip
 A217E84DADFF30DD42D223E6264063BE|mods\enderchest\enderchest-v1.0.1.zip
 C4144D0F3A14B17EFDA723E9E858134D|mods\enderchest\enderchest-v1.0.1v2.zip
 1E3E258D67D46D75D85B2C47BF2B7A34|mods\enderchest\enderchest-v1.0.2.zip
@@ -289,11 +291,14 @@ FE6DDD8D63F7B69BFFC259F47BCC790D|mods\ic2-advancedmachines\ic2-advancedmachines-
 AE584D7DBB03CA083CB0A59CE9FC39B6|mods\ic2-advancedmachines\ic2-advancedmachines-v4.1.zip
 5D1FCDD2D5C9B4A55EA10105B059952E|mods\ic2-compactsolars\ic2-compactsolars-v1.2.zip
 A6F36C11FCB50D018E7B65E330E2D667|mods\ic2-compactsolars\ic2-compactsolars-v2.2.0.5.zip
+8610A183AA96A564CD8404351067DEAE|mods\ic2-compactsolars\ic2-compactsolars-v2.3.2.10.zip
 FDC7DA90ED997048AD3DEAE9C038162B|mods\ic2-nuclearcontrol\ic2-nuclearcontrol-v1.1.3.zip
 B8136DA8A35D2D42071C2CE7E76E23A4|mods\ic2-nuclearcontrol\ic2-nuclearcontrol-v1.1.6.zip
 130C700EDA20B4FE9B70C6D15D5D65AA|mods\ic2-nuclearcontrol\ic2-nuclearcontrol-v1.1.8.zip
+2F1DFEC2B95483E075D2AC9D0F7DE083|mods\ic2-nuclearcontrol\ic2-nuclearcontrol-v1.1.9b.zip
 EF7396751B427D84CB741438F251AA8F|mods\ic2-transformers\ic2-transformers-v1.2.zip
 8CD955A3CF7D6D6B07D6404E59A42C53|mods\immibiscore\immibiscore-v48.2.1.zip
+03CCB3917EEDFCF97811E0B64898E052|mods\immibiscore\immibiscore-v49.0.4.zip
 FAB6AD529D5A7AE21276FEDECAA10F4E|mods\ingameinfo\ingameinfo-v1.2.5.d.zip
 5F883813E1C12553CD6525A40D2EDD58|mods\inventorytweaks\inventorytweaks-v1.34b.zip
 305E4EFF9032A0274AE3822EBB7D35C3|mods\inventorytweaks\inventorytweaks-v1.35.zip
@@ -304,6 +309,7 @@ AEC75044459954171C1090AC00A4BC73|mods\inventorytweaks\inventorytweaks-v1.38.zip
 78D7F9D43CE6619DE06DC906D1BAF045|mods\inventorytweaks\inventorytweaks-v1.41b.zip
 CF8EEBD8B6141E9B33C5D8089ABD003B|mods\ironchests\ironchests-v2.5.zip
 F66183DA961EE9CA2AFDC0D1461C9C5F|mods\ironchests\ironchests-v3.3.1.21.zip
+2040DD7FFBA00112B1E535C06A7840C5|mods\ironchests\ironchests-v3.4.2.28.zip
 04FD9390C879511AE843BCCA88B1BD69|mods\lasermod\lasermod-v1.2.zip
 B5946098BFEDE8E7E0B4DA4AB8188B3A|mods\lectern\lectern-ssp-1.2.5.zip
 4F0CDB02BD14C9B56860E10A5EC15F89|mods\macros\macros-0.8.5_for_1.2.3.zip
@@ -393,6 +399,7 @@ C2CE2D17953C0E5587B87605B85247EE|mods\reisminimap\reisminimap-v3.0_01.zip
 56A7BE84B2D9753CFE7642553B1ECF22|mods\reisminimap\reisminimap-v3.0_03.zip
 5C7A508D12CD8B8B5FC31EF541975345|mods\reisminimap\reisminimap-v3.0_04-1.2.5.zip
 1185EDF03815879519C3A3D5615AC38C|mods\reisminimap\reisminimap-v3.0_04.zip
+068609C0190BCC354A79D5A9663C3606|mods\reisminimap\reisminimap-v3.2_03.zip
 5E732D9265DDF0D8576E4CB93CD32D9F|mods\ropeplus\ropeplus-v1.1.zip
 107F2259F1FEDD3C6F7A954C52E4F3CC|mods\ropeplus\ropeplus-v1.1yb.zip
 7D04C4B9AEF81BD47315A07E42740B92|mods\ropeplus\ropeplus-v1.2.3yb.zip
@@ -431,6 +438,7 @@ C8FCB7C1BC94E6779A1CBAF4EC764DD1|mods\treecapitator\treecapitator-v1.1.zip
 D50F50E6617F5CAA32F28F186F225FC5|mods\treecapitator\treecapitator-v1.2.3.b.zip
 5B55966E25F5340524F9DA765BEC13EB|mods\treecapitator\treecapitator-v1.2.5.e.zip
 A2E4A87C6C066216C0B2B44071A305A3|mods\tubestuff\tubestuff-v48.2.1.zip
+9275A781B8F239E29EA1113F307E8C35|mods\tubestuff\tubestuff-v49.0.5.zip
 360B2451274F87B3B17A55CE54E7B609|mods\turretmod\turretmod-v1.3.2.zip
 07436A076F11FD833952148A83A5A103|mods\twilightforest\twilightforest-v1.6r2.zip
 4EC196753BD0EA7E4FF6E6F540D7ACB6|mods\twilightforest\twilightforest-v1.7.1.zip
@@ -486,6 +494,7 @@ C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 6DA4DBAE38D8DB71D6949E8CE6BF1743|mods\z-tekkit-configs\z-tekkit-configs-v3.0.1.zip
 3E4E1FDE2CA035CE78722B042754427C|mods\z-tekkit-configs\z-tekkit-configs-v3.0.2.zip
 B2FD528F4E8564E6058811F16361BF37|mods\z-tekkit-configs\z-tekkit-configs-v3.0.3.zip
+C8A9597957C133C5E3EECF213E8424C9|mods\z-tekkit-configs\z-tekkit-configs-v3.1.0.zip
 393D530ECC756D48A5F6D27826D9ED1F|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.1.0.zip
 CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.2.0.zip
 5994012F7E2453FD8092B480B0832831|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.3.0.zip
