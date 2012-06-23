@@ -391,6 +391,7 @@ mods:
         name: "Immibis Core"
         installtype: "zip"
         versions:
+            v49.0.7:
             v49.0.4:
             v48.2.1:
     ingameinfo:
@@ -726,6 +727,7 @@ mods:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
+            v49.0.7:
             v49.0.5:
             v48.2.1:
     twilightforest:
