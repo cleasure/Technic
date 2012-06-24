@@ -16,7 +16,7 @@ builds:
         mods:
             basemods: technic-v7.1.0
             balkonsweaponmod: v8.6
-            betterdungeons: v0.931
+            #betterdungeons: v0.931
             buildcraft: v3.1.5
             buildcraft-additionalpipes: v3.1.0
             buildcraft-logisticspipes: v0.2.5b
@@ -24,26 +24,26 @@ builds:
             codechickencore: v0.5.3
             crystalwing: v1.2.5.a
             custommobspawner: v1.4.3
-            #ee2: v1.4.6.1
+            #ee2: v1.4.6.5
             enderstorage: v1.1.3
-            ic2: v1.95b
+            ic2: v1.97
             ic2-advancedmachines: v4.1
-            ic2-compactsolars: v2.2.0.5
-            ic2-nuclearcontrol: v1.1.8
-            immibiscore: v48.2.1
+            ic2-compactsolars: v2.3.2.10
+            ic2-nuclearcontrol: v1.1.9b
+            immibiscore: v49.0.7
             inventorytweaks: v1.41b
-            ironchests: v3.3.1.21
+            ironchests: v3.4.2.28
             matmos: v12
             mocreatures: v3.6.2
             nei: v1.2.2
             netherores: v1.2.1
             rc: v5.3.2
             redpower: v2.0.5b2
-            reisminimap: v3.0_04-1.2.5
+            reisminimap: v3.2_03
             somnia: v24
             thaumcraft: v2.1.6c
             treecapitator: v1.2.5.e
-            tubestuff: v48.2.1
+            tubestuff: v49.0.7
             wrcbe: v1.2.2.1
             z-technic-configs: v7.1.0
 
