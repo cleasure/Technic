@@ -40,7 +40,7 @@ builds:
             tubestuff: v49.0.7
             wrcbe: v1.2.2.1
             z-tekkit-configs: v3.1.0
-    3.0.4:
+    3.0.5:
         libraries:
         minecraft: 1.2.5
         mods:
