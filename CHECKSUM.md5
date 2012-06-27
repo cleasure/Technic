@@ -1,6 +1,6 @@
 02D409842EC4D20EB497E4B5529A91D0|voxelmodpack\modpack.yml
 29C49D0B3FD92120708BD1156D454435|vanilla\modpack.yml
-9DF515A5BF324FD31C18FD92259D0C9C|tekkit\modpack.yml
+48911927CFFFBB3D9CCA0F78A0AB1A4F|tekkit\modpack.yml
 45D306F6D5CFB47C2279C5A138F5BE5F|technicssp\modpack.yml
 FAE92AD366836FDA4ADAFE1C4D9C774A|Patches\Minecraft\minecraft_b1.7.3-1.0.0.patch
 FA8899420A629D1371C9294A715DDC83|Patches\Minecraft\minecraft_b1.8-b1.7.3.patch
@@ -76,7 +76,7 @@ C72F0962D992FA5E787DADB806453533|mods.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 3080201D7E20A69E33EBD059FCC89FAA|libraries.yml
 0103D69C0141F74C133947A2363C15D3|yogbox\modpack.yml
-9FC0876C23EE2463992C6A595417981E|modlibrary.yml
+B8E19F2F6D1A963DFA1B5B2AF37EA52B|modlibrary.yml
 FC658483012963BF32A57F8B8F9B402C|hackslashmine\modpack.yml
 E97BCF908F84EA5BC5A5B51D927F56C2|Libraries\lwjgl\linux_natives.zip
 8FE043F688D2C7759686DF334CEBF8B5|Libraries\lwjgl\lwjgl-2.6.zip
@@ -303,6 +303,7 @@ EF7396751B427D84CB741438F251AA8F|mods\ic2-transformers\ic2-transformers-v1.2.zip
 8CD955A3CF7D6D6B07D6404E59A42C53|mods\immibiscore\immibiscore-v48.2.1.zip
 03CCB3917EEDFCF97811E0B64898E052|mods\immibiscore\immibiscore-v49.0.4.zip
 E2505AB2684B9B6BDF7E05B49A5D1183|mods\immibiscore\immibiscore-v49.0.7.zip
+66FCF6933A9ECE2987C26EA7DEDF2C14|mods\immibiscore\immibiscore-v49.1.0.zip
 FAB6AD529D5A7AE21276FEDECAA10F4E|mods\ingameinfo\ingameinfo-v1.2.5.d.zip
 5F883813E1C12553CD6525A40D2EDD58|mods\inventorytweaks\inventorytweaks-v1.34b.zip
 305E4EFF9032A0274AE3822EBB7D35C3|mods\inventorytweaks\inventorytweaks-v1.35.zip
@@ -324,6 +325,7 @@ B5946098BFEDE8E7E0B4DA4AB8188B3A|mods\lectern\lectern-ssp-1.2.5.zip
 6812935262987C3F5A52A1FBC87EB5D1|mods\matmos\matmos-v11.zip
 831DF3C62C92B27BBA704D439FE247FC|mods\matmos\matmos-v12.zip
 55F89448171AB6A7637076944747D8A8|mods\matmos\matmos-v8.zip
+91F19713492A5CC3F28F54058AFFDF6D|mods\mffs\mffs-v3.zip
 8B3586847EFF0CBA79438CFA4D82ED28|mods\mfr\mfr-v1.4.0.zip
 4D4605494C474FC36DDFBFD1FD3EEE44|mods\mfr\mfr-v1.4.0p.zip
 34D815F293464549DC67CC1DAD629D92|mods\mfr\mfr-v1.4.0p2.zip
@@ -444,6 +446,7 @@ D50F50E6617F5CAA32F28F186F225FC5|mods\treecapitator\treecapitator-v1.2.3.b.zip
 A2E4A87C6C066216C0B2B44071A305A3|mods\tubestuff\tubestuff-v48.2.1.zip
 9275A781B8F239E29EA1113F307E8C35|mods\tubestuff\tubestuff-v49.0.5.zip
 DF678D00F77A30A763E30E910974F954|mods\tubestuff\tubestuff-v49.0.7.zip
+52BF84DF04BCF6EBA4F9D780DA673994|mods\tubestuff\tubestuff-v49.1.0.zip
 360B2451274F87B3B17A55CE54E7B609|mods\turretmod\turretmod-v1.3.2.zip
 07436A076F11FD833952148A83A5A103|mods\twilightforest\twilightforest-v1.6r2.zip
 4EC196753BD0EA7E4FF6E6F540D7ACB6|mods\twilightforest\twilightforest-v1.7.1.zip
@@ -499,7 +502,7 @@ C3DCE9BDF63AAFC9A33DBA54FA8E192B|mods\z-tekkit-configs\z-tekkit-configs-v2.1.zip
 6DA4DBAE38D8DB71D6949E8CE6BF1743|mods\z-tekkit-configs\z-tekkit-configs-v3.0.1.zip
 3E4E1FDE2CA035CE78722B042754427C|mods\z-tekkit-configs\z-tekkit-configs-v3.0.2.zip
 B2FD528F4E8564E6058811F16361BF37|mods\z-tekkit-configs\z-tekkit-configs-v3.0.3.zip
-C8A9597957C133C5E3EECF213E8424C9|mods\z-tekkit-configs\z-tekkit-configs-v3.1.0.zip
+DDB074EC15E6D02EDFF05D25F1291634|mods\z-tekkit-configs\z-tekkit-configs-v3.1.0.zip
 393D530ECC756D48A5F6D27826D9ED1F|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.1.0.zip
 CE839764023F4C9187A68F81F660BE25|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.2.0.zip
 5994012F7E2453FD8092B480B0832831|mods\z-voxelmodpack-configs\z-voxelmodpack-configs-v8.3.0.zip
