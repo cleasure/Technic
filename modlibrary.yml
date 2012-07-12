@@ -268,6 +268,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v1.4.6.6:
             v1.4.6.5:
             v1.4.6.1:
             v1.4.5.1:
