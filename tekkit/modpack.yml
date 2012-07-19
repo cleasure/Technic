@@ -22,25 +22,25 @@ builds:
             computercraft: v1.33
             craftingtableiii: v1.8
             chargingbench: v1.95b
-            ee2: v1.4.6.6
+            ee2: v1.4.6.5
             enderstorage: v1.1.3
             ic2: v1.97
             ic2-advancedmachines: v4.0
             ic2-compactsolars: v2.3.2.10
-            ic2-nuclearcontrol: v1.1.9b
-            immibiscore: v49.1.0
+            ic2-nuclearcontrol: v1.1.10b
+            immibiscore: v49.1.1
             inventorytweaks: v1.41b
-            ironchests: v3.4.2.28
+            ironchests: v3.8.0.40
             matmos: v12
-            mffs: v3
+            mffs: v5
             nei: v1.2.2
             netherores: v1.2.1
             powerconverters: v1.3.4
-            rc: v5.2.4
+            rc: v5.3.3
             redpower: v2.0.5b2
             reisminimap: v3.2_03
-            tubestuff: v49.1.0
-            wrcbe: v1.2.2.1
+            tubestuff: v49.1.1
+            wrcbe: v1.2.2.3
             z-tekkit-configs: v3.1.0
     3.0.5:
         libraries:

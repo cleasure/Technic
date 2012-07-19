@@ -382,6 +382,7 @@ mods:
         name: "IC2 Nuuclear Control"
         installtype: "zip"
         versions:
+            v1.1.10b:
             v1.1.9b:
             v1.1.8:
             v1.1.6:
@@ -395,6 +396,7 @@ mods:
         name: "Immibis Core"
         installtype: "zip"
         versions:
+            v49.1.1:
             v49.1.0:
             v49.0.7:
             v49.0.4:
@@ -427,6 +429,7 @@ mods:
         name: "Iron Chests"
         installtype: "zip"
         versions:
+            v3.8.0.40:
             v3.4.2.28:
             v3.3.1.21:
             v2.5:
@@ -491,6 +494,7 @@ mods:
         name: "Modular Force Field System"
         installtype: "zip"
         versions:
+            v5:
             v3:
     mfr:
         name: "MineFactory Reloaded"
@@ -596,6 +600,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v5.3.3:
             v5.3.2:
             v5.2.4:
             v5.2.0:
@@ -737,6 +742,7 @@ mods:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
+            v49.1.1:
             v49.1.0:
             v49.0.7:
             v49.0.5:
@@ -815,6 +821,7 @@ mods:
         name: "Wireless Redstone Chicken Bones Edition"
         installtype: "zip"
         versions:
+            v1.2.2.3:
             v1.2.2.1:
             v1.2.1:
             v1.2.0:
