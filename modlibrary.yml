@@ -23,6 +23,7 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v7.2.0:
             technic-v7.1.0:
             technic-v7.0.1:
             technic-v7.0.0:
@@ -246,6 +247,7 @@ mods:
         name: "Custom Mob Spawner"
         installtype: "zip"
         versions:
+            v1.5.1:
             v1.4.3:
             v1.4.1:
             v1.4:
@@ -548,6 +550,7 @@ mods:
         installtype: "zip"
         name: "Mo Creatures"
         versions:
+            v3.7.1:
             v3.6.2:
             v3.3.0:
             v3.2.2:
@@ -564,6 +567,21 @@ mods:
             v1.2.2:
             v1.2.0:
             v1.2.1:
+    nei-rc:
+        name: "NEI Railcraft Plugin"
+        installtype: "zip"
+        versions:
+            v1.2.2.2:
+    nei-redpower:
+        name: "NEI RedPower Plugin"
+        installtype: "zip"
+        versions:
+            v1.2.2.3:
+    nei-thaumcraft:
+        name: "NEI Thaumcraft Plugin"
+        installtype: "zip"
+        versions:
+            v1.0.6.15:
     netherores:
         name: "Nether Ores"
         description: "This is a fairly basic mod. It makes the eight 'ores' - coal, diamond, gold, iron, lapis, redstone, sopper and tin - spawn in the nether so that you have a reason to go there."
@@ -601,6 +619,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v5.4.7:
             v5.3.3:
             v5.3.2:
             v5.2.4:
@@ -707,6 +726,7 @@ mods:
         name: "Thaumcraft"
         installtype: "zip"
         versions:
+            v2.1.6d:
             v2.1.6c:
             v2.1.3b:
             v2.1.1:
@@ -855,6 +875,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v7.2.0:
             v7.1.0:
             v7.0.1:
             v7.0.0:
