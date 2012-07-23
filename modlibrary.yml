@@ -23,6 +23,7 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v7.2.1:
             technic-v7.2.0:
             technic-v7.1.0:
             technic-v7.0.1:
@@ -747,6 +748,7 @@ mods:
         name: "Thermal Expansion"
         installtype: "zip"
         versions:
+            v1.0.3:
             v1.0.4:
     tok:
         name: "Tales of Kingdoms"
