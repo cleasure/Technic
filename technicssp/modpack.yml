@@ -1,7 +1,7 @@
 launcher: 
 current: 
 recommended: 6.0.7
-latest: 7.2.0
+latest: 7.2.1
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,15 +11,15 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    7.2.0:
+    7.2.1:
         minecraft: 1.2.5
         mods:
-            basemods: technic-v7.2.0
+            basemods: technic-v7.2.1
             balkonsweaponmod: v8.6
             buildcraft: v3.1.5
             buildcraft-additionalpipes: v3.1.0
             buildcraft-logisticspipes: v0.2.5b
-            codechickencore: v0.5.3
+            codechickencore: v0.5.5
             crystalwing: v1.2.5.a
             custommobspawner: v1.5.1
             ee2: v1.4.6.6
@@ -32,7 +32,7 @@ builds:
             inventorytweaks: v1.41b
             ironchests: v3.8.0.40
             matmos: v12
-            mffs: v5
+            mffs: v6
             mocreatures: v3.7.1
             nei-rc: v1.2.2.2
             nei-redpower: v1.2.2.3
@@ -40,8 +40,9 @@ builds:
             netherores: v1.2.1
             rc: v5.4.7
             redpower: v2.0.5b2
-            reisminimap: v3.2_03
+            reisminimap: v3.2_04
             thaumcraft: v2.1.6d
+            thermalexpansion: v1.0.3
             treecapitator: v1.2.5.e
             tubestuff: v49.1.1
             wrcbe: v1.2.2.3
