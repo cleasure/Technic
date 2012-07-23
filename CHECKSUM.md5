@@ -45,7 +45,7 @@ A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.1\gui\gui.png
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.2.5\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.2.5\gui\gui.png
-C6DC58EDA18909AE2C92A2E6C1D43872|modlibrary.yml
+4F44B5677BCDF0A3249846C2281B0E21|modlibrary.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 EF236C5E65D3E67278333808C2FDD089|mods\adventureitems\adventureitems-v1.2.3.zip
@@ -82,6 +82,7 @@ B4341BB67394D88F53FF196FE3A70CC9|mods\basemods\basemods-technic-v6.0.7.zip
 5A01A288A0BEBF6329D0D7BC521638CD|mods\basemods\basemods-technic-v7.0.1.zip
 6F567DBEDA680F23EB6E6801D899C93C|mods\basemods\basemods-technic-v7.1.0.zip
 42C1A4A39F6A9EFACABB01FDD5414366|mods\basemods\basemods-technic-v7.2.0.zip
+DEFA44E975A3B7A190DAD2B381E24959|mods\basemods\basemods-technic-v7.2.1.zip
 8D7AC30CA4D6A18C37C2288A98125BAC|mods\basemods\basemods-tekkit-v2.0-optifree.zip
 45A3154BCAB5B3FF975C35EF35BAAF72|mods\basemods\basemods-tekkit-v2.0.zip
 35E2C2B1ABFFD1E1A6B8D42E4C2305A3|mods\basemods\basemods-tekkit-v3.0.0-smooth.zip
@@ -170,6 +171,7 @@ F9A9709F2583CD80FFF4FD04EB106A7D|mods\codechickencore\codechickencore-v0.4.2.zip
 5C7AA7415BF7B70515DA05E0B2F1D432|mods\codechickencore\codechickencore-v0.5.0.zip
 BDDAE5F62CC1D50264826EF17FBD9D58|mods\codechickencore\codechickencore-v0.5.2.zip
 275A201640EA2BBCA2F58F02EA395E44|mods\codechickencore\codechickencore-v0.5.3.zip
+8BB7EA9E3BABFC5845906001CB85BA02|mods\codechickencore\codechickencore-v0.5.5.zip
 5EEFE5BC665FB7D3D91199CF3AC86F23|mods\computercraft\computercraft-v1.2.zip
 3D99F30534CE8742CAAC292619D383AC|mods\computercraft\computercraft-v1.21.zip
 8C9703BFC28461C7C29F3DF7059FA750|mods\computercraft\computercraft-v1.3.zip
@@ -282,6 +284,7 @@ B5946098BFEDE8E7E0B4DA4AB8188B3A|mods\lectern\lectern-ssp-1.2.5.zip
 55F89448171AB6A7637076944747D8A8|mods\matmos\matmos-v8.zip
 91F19713492A5CC3F28F54058AFFDF6D|mods\mffs\mffs-v3.zip
 4D125FC1C732C08726F187400DE45865|mods\mffs\mffs-v5.zip
+7023644027C59DBD1724A15D7B8C78F4|mods\mffs\mffs-v6.zip
 8B3586847EFF0CBA79438CFA4D82ED28|mods\mfr\mfr-v1.4.0.zip
 4D4605494C474FC36DDFBFD1FD3EEE44|mods\mfr\mfr-v1.4.0p.zip
 34D815F293464549DC67CC1DAD629D92|mods\mfr\mfr-v1.4.0p2.zip
@@ -368,6 +371,7 @@ C2CE2D17953C0E5587B87605B85247EE|mods\reisminimap\reisminimap-v3.0_01.zip
 5C7A508D12CD8B8B5FC31EF541975345|mods\reisminimap\reisminimap-v3.0_04-1.2.5.zip
 1185EDF03815879519C3A3D5615AC38C|mods\reisminimap\reisminimap-v3.0_04.zip
 068609C0190BCC354A79D5A9663C3606|mods\reisminimap\reisminimap-v3.2_03.zip
+B530AF4B7DA76FE4B94957D86D34EBFA|mods\reisminimap\reisminimap-v3.2_04.zip
 5E732D9265DDF0D8576E4CB93CD32D9F|mods\ropeplus\ropeplus-v1.1.zip
 107F2259F1FEDD3C6F7A954C52E4F3CC|mods\ropeplus\ropeplus-v1.1yb.zip
 7D04C4B9AEF81BD47315A07E42740B92|mods\ropeplus\ropeplus-v1.2.3yb.zip
@@ -397,6 +401,7 @@ FC1296CFABF455ED3365F2C2C8C1F8EB|mods\thaumcraft\thaumcraft-v2.1.0.zip
 051E01A2BA31C8C978C7A317259ABDDF|mods\thaumcraft\thaumcraft-v2.1.3b.zip
 BA85B9D841CCED6196F4AF1DF84B9E21|mods\thaumcraft\thaumcraft-v2.1.6c.zip
 57E41B3EDB6025959AB3D5D760BC41DD|mods\thaumcraft\thaumcraft-v2.1.6d.zip
+76CDB2BAD9582D23C1F6F4D868218D6C|mods\thermalexpansion\thermalexpansion-v1.0.4.zip
 EF5DF8BBAE85E6084E23CB9527FA646F|mods\tok\tok-v1.3.0.2.zip
 DD7A9BA0B782D145909E099DB54C7EB3|mods\tok\tok-v1.3.0.3.zip
 C91E193FF1F48BD199DAFE19397084E8|mods\tomes\tomes-ssp-1.2.5.zip
