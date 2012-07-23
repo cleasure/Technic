@@ -1,7 +1,7 @@
 launcher: 
 current: 
 recommended: 6.0.7
-latest: 7.2.1
+latest: 7.2.2
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,7 +11,7 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
-    7.2.1:
+    7.2.2:
         minecraft: 1.2.5
         mods:
             basemods: technic-v7.2.1
@@ -19,6 +19,7 @@ builds:
             buildcraft: v3.1.5
             buildcraft-additionalpipes: v3.1.0
             buildcraft-logisticspipes: v0.2.5b
+            craftingtableiii: v1.8
             codechickencore: v0.5.5
             crystalwing: v1.2.5.a
             custommobspawner: v1.5.1
@@ -36,7 +37,6 @@ builds:
             mocreatures: v3.7.1
             nei-rc: v1.2.2.2
             nei-redpower: v1.2.2.3
-            nei-thaumcraft: v1.0.6.15
             netherores: v1.2.1
             rc: v5.4.7
             redpower: v2.0.5b2
