@@ -740,6 +740,11 @@ mods:
             v1.2.4bc2:
             v1.2.3:
             v1.2.1:
+    thermalexpansion:
+        name: "Thermal Expansion"
+        installtype: "zip"
+        versions:
+            v1.0.4:
     tok:
         name: "Tales of Kingdoms"
         installtype: "zip"
