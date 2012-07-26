@@ -601,6 +601,11 @@ mods:
                 dependencies:
                     baseModloader: 1.0.0
                     baseforge: 1.2.3
+    omnitools:
+        name: "CoFH OmniTools"
+        installtype: "zip"
+        versions:
+            v0.1
     pfaeff:
         name: "Pfaeff's Mods"
         installtype: "zip"
