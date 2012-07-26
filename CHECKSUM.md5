@@ -45,7 +45,7 @@ A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.1\gui\gui.png
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.2.5\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.2.5\gui\gui.png
-880476A0DF2D600819AD8EFE0F801783|modlibrary.yml
+69C919BBCFA3543F9835392C25EF3F95|modlibrary.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 EF236C5E65D3E67278333808C2FDD089|mods\adventureitems\adventureitems-v1.2.3.zip
@@ -83,6 +83,7 @@ B4341BB67394D88F53FF196FE3A70CC9|mods\basemods\basemods-technic-v6.0.7.zip
 6F567DBEDA680F23EB6E6801D899C93C|mods\basemods\basemods-technic-v7.1.0.zip
 42C1A4A39F6A9EFACABB01FDD5414366|mods\basemods\basemods-technic-v7.2.0.zip
 AC672680F1B2C211FFED591A626AB49A|mods\basemods\basemods-technic-v7.2.1.zip
+85DD8E0B59DFB782769486359D36AF0F|mods\basemods\basemods-technic-v7.2.6.zip
 8D7AC30CA4D6A18C37C2288A98125BAC|mods\basemods\basemods-tekkit-v2.0-optifree.zip
 45A3154BCAB5B3FF975C35EF35BAAF72|mods\basemods\basemods-tekkit-v2.0.zip
 35E2C2B1ABFFD1E1A6B8D42E4C2305A3|mods\basemods\basemods-tekkit-v3.0.0-smooth.zip
@@ -207,6 +208,7 @@ E25CCC8F50966CC791D088F33DB469A8|mods\ee\ee-v6.22.zip
 976157F93ECF31BC82B8D6332ED29915|mods\ee2\ee2-v1.4.6.1.zip
 62B98C74FAE6CE1E5E9C755C5273464C|mods\ee2\ee2-v1.4.6.5.zip
 CF2ECB17B44F7B06E1CC437A36C381BF|mods\ee2\ee2-v1.4.6.6.zip
+75007255991D25C1BFBF2993A886CE01|mods\ee2\ee2-v1.4.6.7.zip
 4F747F2E37E04B76ECCC4BCE3F284AB1|mods\elementalcreepers\elementalcreepers-v1.9.zip
 CB5FDC38FDAB5906616C30D6361F8AC1|mods\elementalcreepers\elementalcreepers-v2.0.zip
 CBD5A77DA0B73D028E7550EEE9DDA050|mods\elementalcreepers\elementalcreepers-v2.3r2_mp.zip
@@ -335,6 +337,7 @@ DF58E38585A745E7C8424B9226262612|mods\nei-thaumcraft\nei-thaumcraft-v1.0.6.15.zi
 2F4535A052067C56B7BC2AEA34A37C4A|mods\netherores\netherores-v1.1.0.zip
 6415D0A259F49FBEB97D134EA1297E22|mods\netherores\netherores-v1.1.2.zip
 A238C234A5253199339D8D09F59F307B|mods\netherores\netherores-v1.2.1.zip
+8E18E66006B595F4D5F6B9D794145154|mods\omnitools\omnitools-v0.1.zip
 1C6B82C61FD4B8C69B4CEE9FD4EA3C06|mods\pfaeff\pfaeff-v1.1.zip
 97F2247F4E9EDFB70D1457CE91AB25ED|mods\powerconverters\powerconverters-v1.3.0p2.zip
 2C1282E0E6A1505EECC070F8BFF1F904|mods\powerconverters\powerconverters-v1.3.1_01.zip
@@ -466,6 +469,7 @@ AB86B00832D779F0164336876AA8DC92|mods\z-technic-configs\z-technic-configs-v6.0.7
 46F160E465D5D4924B80EA33345D40C5|mods\z-technic-configs\z-technic-configs-v7.0.1.zip
 CAB29C1CCE9A9AF2D70E385F4B07BF69|mods\z-technic-configs\z-technic-configs-v7.1.0.zip
 8CD68446E750EBF5DFA26A98EE09101C|mods\z-technic-configs\z-technic-configs-v7.2.0.zip
+4F3D77EE086053F369A6C03B9AB8BF81|mods\z-technic-configs\z-technic-configs-v7.2.6.zip
 8C0F792604EF242A35789C6A92DD02A8|mods\z-tekkit-configs\z-tekkit-configs-v2.0.0.zip
 4818E3B1DF69797778A7CDE49244C01C|mods\z-tekkit-configs\z-tekkit-configs-v2.0.zip
 2E16D95B4893F110C914E0F48CBAE569|mods\z-tekkit-configs\z-tekkit-configs-v2.1.1.zip
@@ -535,7 +539,7 @@ AB01849A4C1C550804E718C2341C0BCC|spotlight\resources\icon.icns
 1DB1857730E6E58158ED42DBD5273C0A|spotlight\resources\icon.png
 39DB7043BA0C9C6E225B5FE20B27EEA7|spotlight\resources\logo.png
 EBDBFC8E1F28C0BCF1B44403328C6932|technic-launcher.jar
-2242D1F35D98D9684494B3CDA70F8966|technicssp\modpack.yml
+47894B6EBF05B939A789243BDD28DA48|technicssp\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|technicssp\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|technicssp\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|technicssp\resources\icon.ico
