@@ -398,6 +398,7 @@ mods:
         name: "IC2 Transformers"
         installtype: "zip"
         versions:
+            v1.3:
             v1.2:
     immibiscore:
         name: "Immibis Core"
