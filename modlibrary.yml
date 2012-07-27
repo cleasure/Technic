@@ -734,6 +734,11 @@ mods:
         installtype: "zip"
         versions:
             v1.2.5.a:
+    stevescarts:
+        name: "Steve's Carts"
+        installtype: "zip"
+        versions:
+            v1.5.0:
     thaumcraft:
         name: "Thaumcraft"
         installtype: "zip"
