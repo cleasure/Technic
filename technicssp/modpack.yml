@@ -28,6 +28,7 @@ builds:
             ic2-advancedmachines: v4.1
             ic2-compactsolars: v2.3.2.10
             ic2-nuclearcontrol: v1.1.10b
+            ic2-transformers: v1.3
             immibiscore: v49.1.1
             inventorytweaks: v1.41b
             ironchests: v3.8.0.40
@@ -41,6 +42,7 @@ builds:
             rc: v5.4.7
             redpower: v2.0.5b2
             reisminimap: v3.2_04
+            stevescarts: v1.5.0
             thaumcraft: v2.1.6d
             thermalexpansion: v1.0.4.1
             treecapitator: v1.2.5.e
