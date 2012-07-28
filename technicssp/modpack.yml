@@ -19,6 +19,7 @@ builds:
             buildcraft: v3.1.5
             buildcraft-additionalpipes: v3.1.0
             buildcraft-logisticspipes: v0.2.5b
+            ccsensors: v017pr2
             codechickencore: v0.5.5
             computercraft: v1.4
             crystalwing: v1.2.5.a

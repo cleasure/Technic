@@ -172,6 +172,11 @@ mods:
         installtype: "zip"
         versions:
             v2.3.0:
+    ccsensors:
+        name: "ccSensors"
+        installtype: "zip"
+        versions:
+            v017pr2
     chargingbench:
         name: "IC2 Charging Bench"
         description: "A bench with multiple charging slots so you can charge all of your items at once.  Apply redstone power to the bench to reverse the way it functions."
