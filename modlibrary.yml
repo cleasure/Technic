@@ -508,6 +508,7 @@ mods:
         name: "Modular Force Field System"
         installtype: "zip"
         versions:
+            v7:
             v6:
             v5:
             v3:
