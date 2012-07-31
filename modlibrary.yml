@@ -945,6 +945,12 @@ mods:
             v2.1:
             v2.0:
             v2.0.0:
+    z-tekkit-keybinds:
+        name: "Tekkit Keybinds"
+        description: "Separate collection for keybinds"
+        installtype: "zip"
+        versions:
+            v3.1.2:
     z-voxelmodpack-configs:
         name: "VoxelModPack Configs"
         installtype: "zip"
