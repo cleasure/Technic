@@ -38,6 +38,7 @@ mods:
             technic-v6.0.2:
             technic-v6.0.1:
             technic-v6.0.0:
+            tekkit-v3.1.2:
             tekkit-v3.1.1:
             tekkit-v3.1.0:
             tekkit-v3.0.5:
@@ -932,6 +933,7 @@ mods:
         description: "A collection of configs for all Tekkit mods"
         installtype: "zip"
         versions:
+            v3.1.2:
             v3.1.1:
             v3.1.0:
             v3.0.3:
