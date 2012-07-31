@@ -260,6 +260,11 @@ mods:
             v1.4.3:
             v1.4.1:
             v1.4:
+    dimanchor:
+        name: "Dimensional Anchors"
+        installtype: "zip"
+        versions:
+            v3.2:
     doorfix:
         name: "Door Fix"
         installtype: "zip"
@@ -794,7 +799,7 @@ mods:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
-            v49.1.1:
+            v49.1.2:
             v49.1.1:
             v49.1.0:
             v49.0.7:
