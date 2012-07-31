@@ -45,7 +45,7 @@ A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.1\gui\gui.png
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.2.5\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.2.5\gui\gui.png
-2E8541AF2D4DF4848071F8A4F2C45A76|modlibrary.yml
+1A68221B0D6ABA745D3EA3F07224CDEB|modlibrary.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 EF236C5E65D3E67278333808C2FDD089|mods\adventureitems\adventureitems-v1.2.3.zip
@@ -161,6 +161,7 @@ B6B5234679D04979006F7B7CA35FD1F3|mods\buildcraft-objects\buildcraft-objects-v63.
 38C0960293D6803A10755531EC07E431|mods\buildcraft-objects\buildcraft-objects-v84.zip
 52984AE063E7E082FD6BD2633E24EB4F|mods\buildcraft-objects\buildcraft-objects-v85.zip
 FA7D371EE9542AA47544DA92395982C8|mods\caruins\CARuins-v2.3.0.zip
+683CF390ED87C837BA029CDFC42DA88B|mods\ccsensors\ccsensors-v017pr1.zip
 1CF59BDCD742E4014497C102259E6923|mods\ccsensors\ccsensors-v017pr2.zip
 CA36A7C2A9C3DC0EE6CE76C3A3ACAD75|mods\chargingbench\chargingbench-v1.43.zip
 F0D3CD771242CF5C49BE73995850DC3C|mods\chargingbench\chargingbench-v1.64-1.zip
@@ -196,6 +197,7 @@ F771872143AF47F2D65FA406CB2D5002|mods\crystalwing\crystalwing-v1.0.0.zip
 D0788222527518F6F36663C176981376|mods\custommobspawner\custommobspawner-v1.4.3.zip
 7072B3A17A37D4C00D73EA50AFD6E054|mods\custommobspawner\custommobspawner-v1.4.zip
 FF87707D758732DD3222B11FDD904208|mods\custommobspawner\custommobspawner-v1.5.1.zip
+B7CC16C5CAE4D1D27952419F3D700AF0|mods\dimanchor\dimanchor-v3.2.zip
 0454F37DDE81DCCB371121D03B80845B|mods\doorfix\doorfix-v2.1.zip
 C0AB2C74369F32C74C0ACB3AD3F87BC8|mods\ee\ee-v5.7.3.zip
 80F47CF80AF74AF9EBD640443F6AB98E|mods\ee\ee-v6.18.zip
