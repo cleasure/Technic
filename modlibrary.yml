@@ -418,6 +418,7 @@ mods:
         name: "Immibis Core"
         installtype: "zip"
         versions:
+            v49.2.0:
             v49.1.1:
             v49.1.0:
             v49.0.7:
@@ -776,6 +777,7 @@ mods:
         name: "Thermal Expansion"
         installtype: "zip"
         versions:
+            v1.0.4.2:
             v1.0.4.1:
             v1.0.4:
             v1.0.3:
@@ -802,6 +804,7 @@ mods:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
+            v49.2.0:
             v49.1.2:
             v49.1.1:
             v49.1.0:
