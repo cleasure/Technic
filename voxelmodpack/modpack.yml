@@ -17,6 +17,7 @@ builds:
         mods:
             basemods: voxelmodpack-v9.0.0
             voxelpacket: 1.2_mc1.3.2
+            voxelmenu: 1.3.2
             voxelplayer: 0.7.1_mc1.3.2
             voxeltextures: 0.6.5_mc1.3.2
             voxelget: 0.6.1_mc1.3.2
