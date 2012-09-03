@@ -56,10 +56,11 @@ mods:
             v1.2.0:
             v5.0.5:
             tekkit-v2.0.0:
-            voxelmodpack-v8.1.0:
-            voxelmodpack-v8.2.0:
-            voxelmodpack-v8.3.0:
+            voxelmodpack-v9.0.0:
             voxelmodpack-v8.4.0:
+            voxelmodpack-v8.3.0:
+            voxelmodpack-v8.2.0:
+            voxelmodpack-v8.1.0:
     adventureitems:
         name: "Adventure Items"
         installtype: "zip"
@@ -466,9 +467,10 @@ mods:
         name: "Macro/Keybind Mod"
         installtype: "zip"
         versions:
-            0.8.5_for_1.2.3:
-            0.8.6_for_1.2.4:
+            0.9.2_for_1.3.2:
             0.8.7_for_1.2.5:
+            0.8.6_for_1.2.4:
+            0.8.5_for_1.2.3:
     matmos:
         name: "MAtmos"
         description: ""
@@ -822,31 +824,35 @@ mods:
         name: "VoxelGET"
         installtype: "zip"
         versions:
-            0.5.5_mc1.2.3:
-            0.5.6_mc1.2.4:
+            0.6.1_mc1.3.2:
             0.5.6.2_mc1.2.5:
+            0.5.6_mc1.2.4:
+            0.5.5_mc1.2.3:
     voxelpacket:
         name: "VoxelPacket"
         installtype: "zip"
         versions:
-            1.0.2_client_obf_mc1.2.3:
-            1.0.1_mc1.2.4:
+            1.2_mc1.3.2:
             1.0.1_mc1.2.5:
+            1.0.1_mc1.2.4:
+            1.0.2_client_obf_mc1.2.3:
     voxelplayer:
         name: "VoxelPlayer"
         installtype: "zip"
         versions:
-            v8.1.0:
-            0.6.1_mc1.2.4:
+            0.7.1_mc1.3.2:
             0.6.1_mc1.2.5:
+            0.6.1_mc1.2.4:
+            v8.1.0:
     voxeltextures:
         name: "VoxelTextures"
         installtype: "zip"
         versions:
-            0.4.0_mc1.2.3:
-            0.4.1_mc1.2.4:
-            0.4.2_mc1.2.5:
+            0.6.5_mc1.3.2:
             0.4.3_mc1.2.5:
+            0.4.2_mc1.2.5:
+            0.4.1_mc1.2.4:
+            0.4.0_mc1.2.3:
     voxelworld:
         name: "VoxelWorld"
         installtype: "zip"
@@ -961,16 +967,17 @@ mods:
         name: "VoxelModPack Configs"
         installtype: "zip"
         versions:
-            v8.1.0:
-            v8.2.0:
-            v8.3.0:
+            v9.0.0:
             v8.4.0:
+            v8.3.0:
+            v8.2.0:
+            v8.1.0:
     z-voxelmodpack-texturepacks:
         name: "VoxelModPack Texture Packs"
         installtype: "zip"
         versions:
-            v8.2.0:
             v8.3.0:
+            v8.2.0:
     z-yogbox-configs:
         name: "Yogbox Configs"
         installtype: "zip"
