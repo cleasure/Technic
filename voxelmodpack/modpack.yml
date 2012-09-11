@@ -1,7 +1,7 @@
 launcher: 
 current: 
 recommended: 9.0.0
-latest: 9.0.0
+latest: 9.1.2
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,6 +11,21 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    9.1.2:
+        libraries: 
+        minecraft: 1.3.2
+        mods:
+            basemods: voxelmodpack-v9.1.2
+            macros: 0.9.3.r2_for_1.3.2
+            voxelflight: 1.4.2_mc1.3.2
+            voxelget: 0.6.1_mc1.3.2(1)
+            voxelmenu: 1.3.2(1)
+            voxelpacket: 1.2_mc1.3.2(1)
+            voxelplayer: 0.7.2_mc1.3.2
+            voxelsnipergui: 1.7
+            voxeltextures: 0.6.8_mc1.3.2
+            worldeditcui: 1.3.2a_mc1.3.2_voxelmodpack_patched
+            z-voxelmodpack-configs: v9.1.2
     9.0.0:
         libraries: 
         minecraft: 1.3.2
