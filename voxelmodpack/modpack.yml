@@ -22,7 +22,7 @@ builds:
             voxelmenu: 1.3.2_1
             voxelpacket: 1.2_mc1.3.2_1
             voxelplayer: 0.7.2_mc1.3.2
-            voxelsnipergui: 1.7
+            voxelsnipergui: v1.7
             voxeltextures: 0.6.8_mc1.3.2
             worldeditcui: 1.3.2a_mc1.3.2_voxelmodpack_patched
             z-voxelmodpack-configs: v9.1.2

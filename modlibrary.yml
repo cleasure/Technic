@@ -864,7 +864,7 @@ mods:
         name: "VoxelSniperGUI"
         installtype: "zip"
         versions:
-            1.7:
+            v1.7:
     voxeltextures:
         name: "VoxelTextures"
         installtype: "zip"

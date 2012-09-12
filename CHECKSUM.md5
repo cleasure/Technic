@@ -6,9 +6,6 @@ C7A795F9B8AA774C12B329D51B6307FC|Libraries\lwjgl\natives\lwjgl.dll
 13E15D61AB3D6B0C7EC602749A3BAC14|Libraries\lwjgl\natives\lwjgl64.dll
 258C3AD28EFBDA28363729AB6C9CA727|Libraries\lwjgl\natives\OpenAL32.dll
 29610CFE77635B636A191746B51B71A3|Libraries\lwjgl\natives\OpenAL64.dll
-4C935A3752B69C460F9CC6601743B8E2|mods\voxelget\voxelget-0.6.1_mc1.3.2(1).zip
-8A5A7C4E9955751F629F99E81C9BAFD6|mods\voxelmenu\voxelmenu-1.3.2(1).zip
-4389272B77FA8DE9F0A2153B8CA66438|mods\voxelpacket\voxelpacket-1.2_mc1.3.2(1).zip
 F5153110229FBBDA8BEE81EAF20045C7|forums_small.png
 FC658483012963BF32A57F8B8F9B402C|hackslashmine\modpack.yml
 6AC510B04AF406F19C3AD8EA40C16090|hackslashmine\resources\favicon.png
@@ -46,7 +43,7 @@ A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.1\gui\gui.png
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.2.5\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.2.5\gui\gui.png
-E45A78580A27C2F60D698744CC08D0D2|modlibrary.yml
+74AF86942F1E7D19C4C26910A082329F|modlibrary.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 EF236C5E65D3E67278333808C2FDD089|mods\adventureitems\adventureitems-v1.2.3.zip
@@ -463,7 +460,7 @@ A616B2A2D7902920F0D3C556AAF08780|mods\voxelplayer\voxelplayer-0.6.1_mc1.2.5.zip
 746975DC2D592C76EA6DB79BEA71B3C5|mods\voxelplayer\voxelplayer-0.7.1_mc1.3.2.zip
 A255BBC2303AC42B4134255B75186B99|mods\voxelplayer\voxelplayer-0.7.2_mc1.3.2.zip
 11F603CA1F38A385CE020746711C2C6D|mods\voxelplayer\voxelplayer-v8.1.0.zip
-96510FF09F6703DF4933158E8D2D8CAE|mods\voxelsnipergui\voxelsnipergui-1.7.zip
+96510FF09F6703DF4933158E8D2D8CAE|mods\voxelsnipergui\voxelsnipergui-v1.7.zip
 FAA38A6D1B0C92E672347C7BF86FDD6B|mods\voxeltextures\voxeltextures-0.4.0_mc1.2.3.zip
 DC31EE92EE7A63D125CA332FD3616ABA|mods\voxeltextures\voxeltextures-0.4.1_mc1.2.4.zip
 FB932CCE8730E35779E607B22A543870|mods\voxeltextures\voxeltextures-0.4.2_mc1.2.5.zip
@@ -601,7 +598,7 @@ AB01849A4C1C550804E718C2341C0BCC|vanilla\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|vanilla\resources\icon.ico
 1DB1857730E6E58158ED42DBD5273C0A|vanilla\resources\icon.png
 2030AA9A0EA63A0E38F1C565C1F5C18F|vanilla\resources\logo.png
-15849C9DD846B5C5D08D7051CB100DBF|voxelmodpack\modpack.yml
+D15DB0FE8613BBA2798803BECC7D2F49|voxelmodpack\modpack.yml
 9FE8DD03B266ED68AF92F9A907F04B93|voxelmodpack\resources\favicon.png
 5124DC5897191DE40DDA3653CD17EB56|voxelmodpack\resources\icon.icns
 39DAB19F3E77502D3722214ABFD0B4EA|voxelmodpack\resources\icon.ico
