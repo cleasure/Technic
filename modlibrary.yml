@@ -25,6 +25,7 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v7.3.0:
             technic-v7.2.6:
             technic-v7.2.1:
             technic-v7.2.0:
@@ -115,6 +116,7 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.1.8:
             v3.1.5:
             v3.1.4:
             v3.1.4pre:
@@ -152,6 +154,7 @@ mods:
     buildcraft-logisticspipes:
         installtype: "zip"
         versions:
+            v0.6.0.pre1:
             v0.2.5b:
             v0.2.4a:
             v0.2.2a:
@@ -203,6 +206,7 @@ mods:
         description: "Required by Chicken Bones' Mods"
         installtype: "zip"
         versions:
+            v0.6.6.1:
             v0.5.5:
             v0.5.3:
             v0.5.2:
@@ -216,6 +220,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
         versions:
+            v1.46:
             v1.4:
             v1.33:
             v1.31:
@@ -262,6 +267,7 @@ mods:
         name: "Custom Mob Spawner"
         installtype: "zip"
         versions:
+            v1.7:
             v1.5.1:
             v1.4.3:
             v1.4.1:
@@ -302,6 +308,12 @@ mods:
             v1.38.1:
             v1.38:
             v1.1:
+    ee3:
+        name: "Equivalent Exchange 3"
+        description: ""
+        installtype: "zip"
+        versions:
+            vpre1:
     elementalcreepers:
         name: "Elemental Creepers"
         installtype: "zip"
@@ -324,6 +336,7 @@ mods:
         name: "EnderStorage"
         installtype: "zip"
         versions:
+            v1.2.1:
             v1.1.3:
             v1.1.1:
             v1.1.0:
@@ -364,6 +377,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
+            v1.108.71:
             v1.97:
             v1.95b:
             v1.95:
@@ -389,16 +403,30 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
         versions:
+            v4.4:
             v4.1:
             v4.0:
             v3.6e:
             v3.1:
             v3.2_beta2:
+    ic2-advancedpowermanagement:
+        name: "IC2 Advanced Power Management"
+        description: ""
+        installtype: "zip"
+        versions:
+            v1.1.30:
+    ic2-advancedrepulsionsystems:
+        name: "IC2 Advanced Repulsion Systems"
+        description: ""
+        installtype: "zip"
+        versions:
+            v50.2.1:
     ic2-compactsolars:
         name: "IC2 Compact Solars"
         description: ""
         installtype: "zip"
         versions:
+            v3.1.1.16:
             v2.3.2.10:
             v2.2.0.5:
             v1.2:
@@ -406,6 +434,7 @@ mods:
         name: "IC2 Nuuclear Control"
         installtype: "zip"
         versions:
+            v1.4.1:
             v1.1.10b:
             v1.1.9b:
             v1.1.8:
@@ -415,12 +444,14 @@ mods:
         name: "IC2 Transformers"
         installtype: "zip"
         versions:
+            v1.6:
             v1.3:
             v1.2:
     immibiscore:
         name: "Immibis Core"
         installtype: "zip"
         versions:
+            v50.2.1:
             v49.2.0:
             v49.1.1:
             v49.1.0:
@@ -440,6 +471,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/323444-100spsmp-inventory-tweaks-135-dec-24/"
         optional: true
         versions:
+            v1.44:
             v1.41b:
             v1.40b:
             v1.38:
@@ -455,6 +487,7 @@ mods:
         name: "Iron Chests"
         installtype: "zip"
         versions:
+            v4.2.2.138:
             v3.8.0.40:
             v3.4.2.28:
             v3.3.1.21:
@@ -577,6 +610,7 @@ mods:
         installtype: "zip"
         name: "Mo Creatures"
         versions:
+            v4.1.0:
             v3.7.1:
             v3.6.2:
             v3.3.0:
@@ -587,17 +621,34 @@ mods:
         name: "More Fuel"
         versions:
             v1.7:
+    mystcraft:
+        name: "Mystcraft"
+        installtype: "zip"
+        versions:
+            v0.9.4.00:
     nei:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
+            v1.4.1.1:
             v1.2.2:
             v1.2.0:
             v1.2.1:
+    nei-buildcraft:
+        name: "NEI Buildcraft Plugin"
+        installtype: "zip"
+        versions:
+            v1.2.0.8:
+    nei-ic2:
+        name: "NEI IC2 Plugin"
+        installtype: "zip"
+        versions:
+            burn-v1.0:
     nei-rc:
         name: "NEI Railcraft Plugin"
         installtype: "zip"
         versions:
+            v1.5.0.10:
             v1.2.2.2:
     nei-redpower:
         name: "NEI RedPower Plugin"
@@ -616,6 +667,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/#no"
         versions:
+            v1.4.2:
             v1.2.1:
             v1.1.2:
                 dependencies:
@@ -651,6 +703,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v6.7.0.0:
             v5.4.7:
             v5.3.3:
             v5.3.2:
@@ -759,6 +812,7 @@ mods:
         name: "Steve's Carts"
         installtype: "zip"
         versions:
+            v2.0.0.a14:
             v1.5.0:
     thaumcraft:
         name: "Thaumcraft"
@@ -782,6 +836,7 @@ mods:
         name: "Thermal Expansion"
         installtype: "zip"
         versions:
+            v2.0.0:
             v1.0.4.2:
             v1.0.4.1:
             v1.0.4:
@@ -809,6 +864,7 @@ mods:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
+            v50.1.0:
             v49.2.0:
             v49.1.2:
             v49.1.1:
@@ -948,6 +1004,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v7.3.0:
             v7.2.7:
             v7.2.6:
             v7.2.0:
