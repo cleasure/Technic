@@ -267,6 +267,7 @@ mods:
         name: "Custom Mob Spawner"
         installtype: "zip"
         versions:
+            v1.7.1:
             v1.7:
             v1.5.1:
             v1.4.3:
@@ -421,6 +422,7 @@ mods:
         description: ""
         installtype: "zip"
         versions:
+            v50.2.2:
             v50.2.1:
     ic2-compactsolars:
         name: "IC2 Compact Solars"
@@ -452,6 +454,7 @@ mods:
         name: "Immibis Core"
         installtype: "zip"
         versions:
+            v50.2.3:
             v50.2.1:
             v49.2.0:
             v49.1.1:
@@ -611,6 +614,7 @@ mods:
         installtype: "zip"
         name: "Mo Creatures"
         versions:
+            v4.1.2:
             v4.1.0:
             v3.7.1:
             v3.6.2:
@@ -814,6 +818,7 @@ mods:
         name: "Steve's Carts"
         installtype: "zip"
         versions:
+            v2.0.0.a20:
             v2.0.0.a19:
             v2.0.0.a14:
             v1.5.0:
@@ -839,6 +844,7 @@ mods:
         name: "Thermal Expansion"
         installtype: "zip"
         versions:
+            v2.0.3:
             v2.0.2:
             v2.0.1:
             v2.0.0:
@@ -869,6 +875,7 @@ mods:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
+            v50.1.2:
             v50.1.0:
             v49.2.0:
             v49.1.2:
