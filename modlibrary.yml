@@ -154,6 +154,7 @@ mods:
     buildcraft-logisticspipes:
         installtype: "zip"
         versions:
+            v0.6.0.pre2:
             v0.6.0.pre1:
             v0.2.5b:
             v0.2.4a:
@@ -844,6 +845,7 @@ mods:
         name: "Thermal Expansion"
         installtype: "zip"
         versions:
+            v2.0.4:
             v2.0.3:
             v2.0.2:
             v2.0.1:
