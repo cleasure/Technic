@@ -110,7 +110,6 @@ builds:
             thermalexpansion: v2.0.2
             tubestuff: v50.1.0
             z-technic-configs: v7.3.0
-builds:
     7.3.0:
         minecraft: 1.4.2
         mods:
