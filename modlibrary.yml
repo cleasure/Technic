@@ -869,6 +869,7 @@ mods:
         name: "Treecapitator"
         installtype: "zip"
         versions:
+            v1.4.2.r03:
             v1.2.5.e:
             v1.1:
             v1.0.0:
