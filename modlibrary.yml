@@ -636,6 +636,7 @@ mods:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
+            v1.4.2:
             v1.4.1.2:
             v1.4.1.1:
             v1.2.2:
