@@ -643,6 +643,7 @@ mods:
             v1.4.2:
             v1.4.1.2:
             v1.4.1.1:
+            v1.2.2.2:
             v1.2.2:
             v1.2.0:
             v1.2.1:
@@ -661,6 +662,7 @@ mods:
         installtype: "zip"
         versions:
             v1.5.0.10:
+            v1.2.2.3:
             v1.2.2.2:
     nei-redpower:
         name: "NEI RedPower Plugin"
