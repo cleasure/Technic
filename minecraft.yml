@@ -1,6 +1,6 @@
 current: '1.1'
 recommended: '1.1'
-latest: 1.4.4
+latest: 1.4.5
 versions:
     1.4.5:
         jinput: a7835a73a130656aba23e34147a55367
