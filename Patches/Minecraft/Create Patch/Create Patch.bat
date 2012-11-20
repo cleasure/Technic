@@ -9,7 +9,7 @@ if "%newversion%"=="" goto new
 set /P oldversion=What is the desired version of Minecraft: %=%
 if "%oldversion%"=="" goto old
 
-java -classpath diff.jar ie.wombat.jbdiff.JBDiff minecraft_%newversion%.jar minecraft_%oldversion%.jar Minecraft_%newversion%-%oldversion%.patch
+java -classpath diff.jar ie.wombat.jbdiff.JBDiff minecraft_%newversion%.jar minecraft_%oldversion%.jar minecraft_%newversion%-%oldversion%.patch
 echo Done
 pause
 Exit
