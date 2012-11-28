@@ -35,7 +35,7 @@ builds:
             matmos: v20
             mocreatures: v4.2.1
             nei: v1.4.2.7
-            nei-plugins: v1.0.3.5
+            nei-plugins: v1.0.2.2
             rc: v6.8.0.0
             reisminimap: v3.2_05
             stevescarts: v2.0.0.a30
