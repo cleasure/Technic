@@ -26,6 +26,7 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v7.3.5:
             technic-v7.3.0:
             technic-v7.2.6:
             technic-v7.2.1:
@@ -88,6 +89,7 @@ mods:
     balkonsweaponmod:
         installtype: "zip"
         versions:
+            v1.10:
             v8.6:
             v8.5:
             v8.4:
@@ -118,6 +120,7 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.2.0:
             v3.1.8:
             v3.1.5:
             v3.1.4:
@@ -209,6 +212,7 @@ mods:
         description: "Required by Chicken Bones' Mods"
         installtype: "zip"
         versions:
+            v0.6.10:
             v0.6.6.1:
             v0.5.5:
             v0.5.3:
@@ -223,6 +227,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
         versions:
+            v1.47:
             v1.46:
             v1.41:
             v1.4:
@@ -271,6 +276,7 @@ mods:
         name: "Custom Mob Spawner"
         installtype: "zip"
         versions:
+            v1.9.0:
             v1.7.1:
             v1.7:
             v1.5.1:
@@ -281,6 +287,7 @@ mods:
         name: "Dimensional Anchors"
         installtype: "zip"
         versions:
+            v51.0.2:
             v3.2:
     doorfix:
         name: "Door Fix"
@@ -318,6 +325,7 @@ mods:
         description: ""
         installtype: "zip"
         versions:
+            vpre1d:
             vpre1:
     elementalcreepers:
         name: "Elemental Creepers"
@@ -341,6 +349,7 @@ mods:
         name: "EnderStorage"
         installtype: "zip"
         versions:
+            v1.2.1.6:
             v1.2.1.3:
             v1.2.1:
             v1.1.3:
@@ -410,6 +419,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
         versions:
+            v4.5:
             v4.4:
             v4.1:
             v4.0:
@@ -421,12 +431,14 @@ mods:
         description: ""
         installtype: "zip"
         versions:
+            v1.1.40:
             v1.1.30:
     ic2-advancedrepulsionsystems:
         name: "IC2 Advanced Repulsion Systems"
         description: ""
         installtype: "zip"
         versions:
+            v51.0.1:
             v50.2.2:
             v50.2.1:
     ic2-compactsolars:
@@ -434,6 +446,7 @@ mods:
         description: ""
         installtype: "zip"
         versions:
+            v3.1.2.17:
             v3.1.1.16:
             v2.3.2.10:
             v2.2.0.5:
@@ -442,6 +455,7 @@ mods:
         name: "IC2 Nuuclear Control"
         installtype: "zip"
         versions:
+            v1.4.3:
             v1.4.1:
             v1.1.10b:
             v1.1.9b:
@@ -452,6 +466,7 @@ mods:
         name: "IC2 Transformers"
         installtype: "zip"
         versions:
+            v1.7:
             v1.6:
             v1.3:
             v1.2:
@@ -459,6 +474,7 @@ mods:
         name: "Immibis Core"
         installtype: "zip"
         versions:
+            v51.0.2:
             v50.2.3:
             v50.2.1:
             v49.2.0:
@@ -480,6 +496,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/323444-100spsmp-inventory-tweaks-135-dec-24/"
         optional: true
         versions:
+            v1.45:
             v1.44:
             v1.41b:
             v1.40b:
@@ -496,6 +513,7 @@ mods:
         name: "Iron Chests"
         installtype: "zip"
         versions:
+            v4.4.0.186:
             v4.2.2.138:
             v3.8.0.40:
             v3.4.2.28:
@@ -521,6 +539,7 @@ mods:
         installtype: "zip"
         modtype: "audio"
         versions:
+            v20:
             v12:
             v11:
             r10:
@@ -619,6 +638,7 @@ mods:
         installtype: "zip"
         name: "Mo Creatures"
         versions:
+            v4.2.1:
             v4.1.2:
             v4.1.0:
             v3.7.1:
@@ -640,6 +660,7 @@ mods:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
+            v1.4.2.7:
             v1.4.2:
             v1.4.1.2:
             v1.4.1.1:
@@ -647,6 +668,11 @@ mods:
             v1.2.2:
             v1.2.0:
             v1.2.1:
+    nei-plugins:
+        name: "Not Enough Items"
+        installtype: "zip"
+        versions:
+            v1.0.3.5:
     nei-buildcraft:
         name: "NEI Buildcraft Plugin"
         installtype: "zip"
@@ -827,6 +853,7 @@ mods:
         name: "Steve's Carts"
         installtype: "zip"
         versions:
+            v2.0.0.a30:
             v2.0.0.a20:
             v2.0.0.a19:
             v2.0.0.a14:
@@ -853,6 +880,7 @@ mods:
         name: "Thermal Expansion"
         installtype: "zip"
         versions:
+            v2.0.9:
             v2.0.4:
             v2.0.3:
             v2.0.2:
@@ -877,6 +905,7 @@ mods:
         name: "Treecapitator"
         installtype: "zip"
         versions:
+            v1.4.5.r02:
             v1.4.2.r03:
             v1.2.5.e:
             v1.1:
@@ -886,6 +915,7 @@ mods:
         name: "Tube Stuff"
         installtype: "zip"
         versions:
+            v51.0.3:
             v50.1.2:
             v50.1.0:
             v49.2.0:
@@ -994,10 +1024,16 @@ mods:
         name: "Wireless Redstone Chicken Bones Edition"
         installtype: "zip"
         versions:
+            v1.3.1.1:
             v1.2.2.3:
             v1.2.2.1:
             v1.2.1:
             v1.2.0:
+    wrcbe-addons:
+        name: "WRCBE Addons"
+        installtype: "zip"
+        versions:
+            v1.3.1.2:
     xpbook:
         name: "XP Book"
         installtype: "zip"
@@ -1027,6 +1063,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v7.3.5:
             v7.3.0:
             v7.2.7:
             v7.2.6:

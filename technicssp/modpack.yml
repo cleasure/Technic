@@ -11,6 +11,40 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    7.3.5:
+        minecraft: 1.4.5
+        mods:
+            basemods: technic-v7.3.5
+            balkonsweaponmod: v1.10
+            buildcraft: v3.2.0
+            codechickencore: v0.6.10
+            computercraft: v1.47
+            custommobspawner: v1.9.0
+            ee3: vpre1d
+            enderstorage: v1.2.1.6
+            ic2-advancedmachines: v4.5
+            ic2-advancedpowermanagement: v1.1.40
+            ic2-advancedrepulsionsystems: v51.0.1
+            ic2-compactsolars: v3.1.2.17
+            ic2-nuclearcontrol: v1.4.3
+            ic2-transformers: v1.7
+            ic2: v1.109.113
+            immibiscore: v51.0.2
+            inventorytweaks: v1.45
+            ironchests: v4.4.0.186
+            matmos: v20
+            mocreatures: v4.2.1
+            nei: v1.4.1.2
+            nei-plugins: v1.4.2.7
+            rc: v6.8.0.0
+            reisminimap: v3.2_05
+            stevescarts: v2.0.0.a30
+            thermalexpansion: v2.0.9
+            treecapitator: v1.4.5.r02
+            tubestuff: v51.0.3
+            wrcbe: v1.3.1.1
+            wrcbe-addons: v1.3.1.2
+            z-technic-configs: v7.3.5
     7.3.4:
         minecraft: 1.4.2
         mods:
