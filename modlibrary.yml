@@ -392,6 +392,7 @@ mods:
         modtype: "content"
         link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
         versions:
+            v1.109.113:
             v1.108.71:
             v1.103:
             v1.97:
