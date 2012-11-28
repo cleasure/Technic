@@ -784,7 +784,7 @@ builds:
     b3:
         minecraft: 1.4.5
         mods:
-            basemods: volts-v0.0.1
+            basemods: voltz-v0.0.1
             codechickencore: v0.6.10
             inventorytweaks: v1.45
             mystcraft: v0.9.4.05
