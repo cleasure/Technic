@@ -782,7 +782,6 @@ builds:
         mods:
             basemods: hackslashmine-v0.1
     b3:
-        libraries:
         minecraft: 1.4.5
         mods:
             basemods: volts-v0.0.1
