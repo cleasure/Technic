@@ -989,16 +989,19 @@ mods:
         name: "UE Mekanism"
         installtype: "zip"
         versions:
+            v5.0.0.pre6.b2:
             v5.0.0.pre5.b2:
     ue-mekanismgenerators:
         name: "UE Mekanism Generators"
         installtype: "zip"
         versions:
+            v5.0.0.pre6.b2:
             v5.0.0.pre5.b2:
     ue-mekanismtools:
         name: "UE Mekanism Tools"
         installtype: "zip"
         versions:
+            v5.0.0.pre6.b2:
             v5.0.0.pre5.b2:
     ue-mffs:
         name: "UE MFFS"
