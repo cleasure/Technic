@@ -43,7 +43,7 @@ A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.1\gui\gui.png
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.2.5\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.2.5\gui\gui.png
-BC306DF77657BD56DE32C7C274F5004E|modlibrary.yml
+2F47C5F1720EDCC220179A4A727BAA05|modlibrary.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 EF236C5E65D3E67278333808C2FDD089|mods\adventureitems\adventureitems-v1.2.3.zip
@@ -150,6 +150,7 @@ BBE5B6745CA311FC2EE058CE908E485B|mods\buildcraft\buildcraft-v2.2.14.zip
 03D0A12762A9F76FCECB9C19FA776091|mods\buildcraft\buildcraft-v3.1.5.zip
 F8D3F43F823F9B61A85DDE9EAC8D443B|mods\buildcraft\buildcraft-v3.1.8.zip
 24E0B77FC1522A4B364FA5157B61C6F0|mods\buildcraft\buildcraft-v3.2.0.zip
+60CFFA10C45A3C8E743818A6195E320A|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v2.1.3.u28.b2.zip
 8170BA30E2102EBDE0CA054FF4519EDA|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v2.1.3.zip
 A90010C150320622095C6B13420834B1|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v3.0.1.zip
 FC9311570042DD1DF556957C041B56E9|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v3.0.10.zip
@@ -169,6 +170,7 @@ DF4F516F944514EACA5E0C7749056DEA|mods\buildcraft-logisticspipes\buildcraft-logis
 2D0AE8B10F90C5E37B283096CB86EEB9|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.2.5b.zip
 64ABBBA9369AA7A6084074E2B08CF768|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.6.0.pre1.zip
 6B4A9E209AEF8BDDB6E25391F6A31FFE|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.6.0.pre2.zip
+9A73207D65717647132188CA7F622ED6|mods\buildcraft-logisticspipes\buildcraft-logisticspipes-v0.7.0.pre2.zip
 991C76B33E56E9C9A9C071B03FED4861|mods\buildcraft-objects\buildcraft-objects-v100.zip
 173C7E6998B2FFD97F56535AB84CEC5B|mods\buildcraft-objects\buildcraft-objects-v56.zip
 B6B5234679D04979006F7B7CA35FD1F3|mods\buildcraft-objects\buildcraft-objects-v63.zip
@@ -693,7 +695,7 @@ AB01849A4C1C550804E718C2341C0BCC|spotlight\resources\icon.icns
 1DB1857730E6E58158ED42DBD5273C0A|spotlight\resources\icon.png
 39DB7043BA0C9C6E225B5FE20B27EEA7|spotlight\resources\logo.png
 DD28CE5BD192CF0044086E7A32893852|technic-launcher.jar
-B8F338FDEDFB8DF0C8EB52815E0CE4A2|technicssp\modpack.yml
+55ADB4B78A5FAAAEB2E3214035830AE9|technicssp\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|technicssp\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|technicssp\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|technicssp\resources\icon.ico
