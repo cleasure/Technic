@@ -6,6 +6,8 @@ C7A795F9B8AA774C12B329D51B6307FC|Libraries\lwjgl\natives\lwjgl.dll
 13E15D61AB3D6B0C7EC602749A3BAC14|Libraries\lwjgl\natives\lwjgl64.dll
 258C3AD28EFBDA28363729AB6C9CA727|Libraries\lwjgl\natives\OpenAL32.dll
 29610CFE77635B636A191746B51B71A3|Libraries\lwjgl\natives\OpenAL64.dll
+EDE922DADC558554CB16417AFB5AC106|mods\ue-assemblyline\assemblyline-v0.1.3.13.zip
+017A66EBB8E20B9EFEB14A8116469A5A|mods\ue-atomicscience\atomicscience-v0.2.6.93.zip
 F5153110229FBBDA8BEE81EAF20045C7|forums_small.png
 FC658483012963BF32A57F8B8F9B402C|hackslashmine\modpack.yml
 6AC510B04AF406F19C3AD8EA40C16090|hackslashmine\resources\favicon.png
@@ -531,8 +533,8 @@ C0CEC1B9E0918A5EF911315089B09E93|mods\tubestuff\tubestuff-v50.1.0.zip
 360B2451274F87B3B17A55CE54E7B609|mods\turretmod\turretmod-v1.3.2.zip
 07436A076F11FD833952148A83A5A103|mods\twilightforest\twilightforest-v1.6r2.zip
 4EC196753BD0EA7E4FF6E6F540D7ACB6|mods\twilightforest\twilightforest-v1.7.1.zip
-EDE922DADC558554CB16417AFB5AC106|mods\ue-assemblyline\assemblyline-v0.1.3.13.zip
-017A66EBB8E20B9EFEB14A8116469A5A|mods\ue-atomicscience\atomicscience-v0.2.6.93.zip
+EDE922DADC558554CB16417AFB5AC106|mods\ue-assemblyline\ue-assemblyline-v0.1.3.13.zip
+017A66EBB8E20B9EFEB14A8116469A5A|mods\ue-atomicscience\ue-atomicscience-v0.2.6.93.zip
 F4F2739209EAFF4E77894A8DF3EF86EC|mods\ue-basiccomponents\ue-basiccomponents-v1.1.3.278.zip
 860A0C4EFE402C134626AEBB3A35CC4C|mods\ue-electricexpansion\ue-electricexpansion-v0.4.0.zip
 7133AA63D699D6BA0201AFE673E70B28|mods\ue-icbm\ue-icbm-v0.6.3.70.zip
