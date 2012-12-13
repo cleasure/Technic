@@ -19,7 +19,7 @@ builds:
             buildcraft: v3.2.2
             buildcraft-additionalpipes: v2.1.3.u28.b2
             buildcraft-logisticspipes: v0.7.0.pre2
-            codechickencore: v0.6.10
+            codechickencore: v0.6.14
             computercraft: v1.47
             ee3: vpre1d
             enderstorage: v1.2.1.6
@@ -37,14 +37,12 @@ builds:
             mystcraft: v0.9.4.05
             nei: v1.4.3.3
             nei-plugins: v1.0.3.6
-            rc: v6.9.0.0
+            rc: v6.10.0.0
             reisminimap: v3.2_05
             stevescarts: v2.0.0.a30
             thermalexpansion: v2.1.3
-            treecapitator: v1.4.5.r02
+            treecapitator: v1.4.5.r03
             tubestuff: v51.0.3
-            wrcbe: v1.3.1.1
-            wrcbe-addons: v1.3.1.2
             z-technic-configs: v7.3.5
     7.3.6:
         minecraft: 1.4.5

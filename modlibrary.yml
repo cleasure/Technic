@@ -755,6 +755,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v6.10.0.0:
             v6.9.0.0:
             v6.8.0.0:
             v6.7.0.0:
@@ -921,6 +922,7 @@ mods:
         name: "Treecapitator"
         installtype: "zip"
         versions:
+            v1.4.5.r03:
             v1.4.5.r02:
             v1.4.2.r03:
             v1.2.5.e:
