@@ -27,6 +27,7 @@ mods:
             yogbox-v1.1.0:
             vanilla-v1.1:
             technic-no-optifine:
+            technic-v7.3.7:
             technic-v7.3.5:
             technic-v7.3.0:
             technic-v7.2.6:
@@ -122,6 +123,7 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.2.2:
             v3.2.0:
             v3.1.8:
             v3.1.5:
@@ -216,6 +218,7 @@ mods:
         description: "Required by Chicken Bones' Mods"
         installtype: "zip"
         versions:
+            v0.6.14:
             v0.6.10:
             v0.6.6.1:
             v0.5.5:
@@ -666,6 +669,7 @@ mods:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
+            v1.4.3.3:
             v1.4.2.7:
             v1.4.2:
             v1.4.1.2:
@@ -678,6 +682,7 @@ mods:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
+            v1.0.3.6:
             v1.0.3.5:
             v1.0.2.2:
     nei-buildcraft:
@@ -890,6 +895,7 @@ mods:
         name: "Thermal Expansion"
         installtype: "zip"
         versions:
+            v2.1.3:
             v2.0.9:
             v2.0.4:
             v2.0.3:
