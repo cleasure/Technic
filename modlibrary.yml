@@ -370,6 +370,11 @@ mods:
             v1.1.3:
             v1.1.1:
             v1.1.0:
+    factorization:
+        name: "Factorization"
+        installtype: "zip"
+        versions:
+            v0.7.7:
     floatingruins:
         name: "Floating Ruins"
         installtype: "zip"
@@ -1150,6 +1155,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v7.4.1:
             v7.4.0:
             v7.3.5:
             v7.3.0:
