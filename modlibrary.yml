@@ -1182,6 +1182,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v7.5.0:
             v7.4.1:
             v7.4.0:
             v7.3.5:

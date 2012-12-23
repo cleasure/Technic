@@ -43,7 +43,7 @@ A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.1\gui\gui.png
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.2.5\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.2.5\gui\gui.png
-4B008C3263B5A8E03B311749931CC865|modlibrary.yml
+A65D13B23508685C041B2E40B390FB46|modlibrary.yml
 5267919042AE84EC813C45C66E9D1E1A|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 EF236C5E65D3E67278333808C2FDD089|mods\adventureitems\adventureitems-v1.2.3.zip
@@ -86,6 +86,7 @@ FCFF73E7A72D9FB943A3CE248A99D3B8|mods\basemods\basemods-technic-v7.2.6.zip
 DE7998D8659676F55F58B051DB743FD0|mods\basemods\basemods-technic-v7.3.0.zip
 DFE5DFB6118812D6299041E7441EDD11|mods\basemods\basemods-technic-v7.3.5.zip
 346324B1C4C098CFA5526C8B2EF8CF1F|mods\basemods\basemods-technic-v7.3.7.zip
+115B507A21E4F06B43041C0BD187D8C0|mods\basemods\basemods-technic-v7.5.0.zip
 8D7AC30CA4D6A18C37C2288A98125BAC|mods\basemods\basemods-tekkit-v2.0-optifree.zip
 45A3154BCAB5B3FF975C35EF35BAAF72|mods\basemods\basemods-tekkit-v2.0.zip
 35E2C2B1ABFFD1E1A6B8D42E4C2305A3|mods\basemods\basemods-tekkit-v3.0.0-smooth.zip
@@ -659,6 +660,7 @@ B59411C3BD0BF9060701080CCF64D684|mods\z-technic-configs\z-technic-configs-v7.3.0
 3AA268BDF4E335F762E5E0C43ADC62B2|mods\z-technic-configs\z-technic-configs-v7.3.5.zip
 999D78FB622760A2695ABA795B73D34C|mods\z-technic-configs\z-technic-configs-v7.4.0.zip
 4A90464EDC3B4EA08165F7EF0B7A4598|mods\z-technic-configs\z-technic-configs-v7.4.1.zip
+473C943D8D369C66ABF11AE7A6A1E2D8|mods\z-technic-configs\z-technic-configs-v7.5.0.zip
 8C0F792604EF242A35789C6A92DD02A8|mods\z-tekkit-configs\z-tekkit-configs-v2.0.0.zip
 4818E3B1DF69797778A7CDE49244C01C|mods\z-tekkit-configs\z-tekkit-configs-v2.0.zip
 2E16D95B4893F110C914E0F48CBAE569|mods\z-tekkit-configs\z-tekkit-configs-v2.1.1.zip
@@ -753,7 +755,7 @@ AB01849A4C1C550804E718C2341C0BCC|spotlight\resources\icon.icns
 1DB1857730E6E58158ED42DBD5273C0A|spotlight\resources\icon.png
 39DB7043BA0C9C6E225B5FE20B27EEA7|spotlight\resources\logo.png
 C93111142ED92CB757067D3BDA99C26F|technic-launcher.jar
-F458DEE7C09687B8C81DD062144E935E|technicssp\modpack.yml
+D898EDEDD810CEBBCD110BDD08FD6F4A|technicssp\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|technicssp\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|technicssp\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|technicssp\resources\icon.ico
