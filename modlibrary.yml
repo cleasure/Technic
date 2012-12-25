@@ -93,6 +93,7 @@ mods:
     balkonsweaponmod:
         installtype: "zip"
         versions:
+            v1.10-1.4.6:
             v1.10:
             v8.6:
             v8.5:
@@ -220,11 +221,17 @@ mods:
             v1.43:
                 dependencies:
                     ic2: v1.43
+    chickenchunks:
+        name: "ChickenChunks"
+        installtype: "zip"
+        versions:
+            v1.2.1.0:
     codechickencore:
         name: "CodeChickenCore"
         description: "Required by Chicken Bones' Mods"
         installtype: "zip"
         versions:
+            v0.7.0.1:
             v0.7.0.0:
             v0.6.16:
             v0.6.15:
@@ -343,6 +350,7 @@ mods:
         description: ""
         installtype: "zip"
         versions:
+            vpre1e:
             vpre1d:
             vpre1:
     elementalcreepers:
@@ -463,6 +471,7 @@ mods:
         description: ""
         installtype: "zip"
         versions:
+            v1.1.55:
             v1.1.40:
             v1.1.30:
     ic2-advancedrepulsionsystems:
@@ -479,6 +488,7 @@ mods:
         description: ""
         installtype: "zip"
         versions:
+            v3.2.0.21:
             v3.1.2.18:
             v3.1.2.17:
             v3.1.1.16:
@@ -533,6 +543,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/323444-100spsmp-inventory-tweaks-135-dec-24/"
         optional: true
         versions:
+            v1.46:
             v1.45:
             v1.44:
             v1.41b:
@@ -693,6 +704,7 @@ mods:
         name: "Mystcraft"
         installtype: "zip"
         versions:
+            v0.9.5.00:
             v0.9.4.05:
             v0.9.4.00:
     nei:
@@ -714,6 +726,7 @@ mods:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
+            v1.0.4.1:
             v1.0.3.6:
             v1.0.3.5:
             v1.0.2.2:
@@ -738,6 +751,7 @@ mods:
         name: "NEI RedPower Plugin"
         installtype: "zip"
         versions:
+            v1.4.3:
             v1.2.2.3:
     nei-thaumcraft:
         name: "NEI Thaumcraft Plugin"
@@ -775,6 +789,7 @@ mods:
         name: "CoFH OmniWrench"
         installtype: "zip"
         versions:
+            v2.2.5:
             v2.2.3:
     pfaeff:
         name: "Pfaeff's Mods"
@@ -972,6 +987,7 @@ mods:
         name: "Treecapitator"
         installtype: "zip"
         versions:
+            v1.4.6.r01:
             v1.4.5.r03:
             v1.4.5.r02:
             v1.4.2.r03:
@@ -1143,6 +1159,7 @@ mods:
         name: "Wireless Redstone Chicken Bones Edition"
         installtype: "zip"
         versions:
+            v1.3.2:
             v1.3.1.1:
             v1.2.2.3:
             v1.2.2.1:
@@ -1152,7 +1169,13 @@ mods:
         name: "WRCBE Addons"
         installtype: "zip"
         versions:
+            v1.3.2:
             v1.3.1.2:
+    wrcbe-redpower:
+        name: "WRCBE RedPower Addon"
+        installtype: "zip"
+        versions:
+            v1.3.2:
     xpbook:
         name: "XP Book"
         installtype: "zip"
@@ -1182,6 +1205,7 @@ mods:
         description: "A collection of configs for all Technic mods"
         installtype: "zip"
         versions:
+            v7.5.1:
             v7.5.0:
             v7.4.1:
             v7.4.0:
