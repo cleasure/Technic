@@ -57,6 +57,7 @@ mods:
             tekkit-v3.0.0-smooth:
             tekkit-v3.0.0:
             tekkit-v2.0:
+            voltz-v1.0.0:
             voltz-v0.0.1:
             v1.3.0:
             v1.2.1y:
@@ -812,6 +813,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         versions:
+            v6.12.1.0:
             v6.12.0.0:
             v6.10.0.0:
             v6.9.0.0:
@@ -1039,31 +1041,43 @@ mods:
         name: "UE Assembly Line"
         installtype: "zip"
         versions:
+            v0.1.8.30:
             v0.1.3.13:
     ue-atomicscience:
         name: "UE Atomic Science"
         installtype: "zip"
         versions:
+            v0.3.0.121:
             v0.2.6.93:
     ue-basiccomponents:
         name: "UE Basic Components"
         installtype: "zip"
         versions:
+            v1.2.1.317:
             v1.1.3.278:
+    ue-basicpipes:
+        name: "Basic Pipes"
+        installtype: "zip"
+        versions:
+            v2.2.1:
     ue-electricexpansion:
         name: "UE Electric Expansion"
         installtype: "zip"
         versions:
+            v1.0.3:
+            v1.0.2:
             v0.4.0:
     ue-icbm:
         name: "UE ICBM"
         installtype: "zip"
         versions:
+            v1.0.0.115:
             v0.6.3.70:
     ue-mekanism:
         name: "UE Mekanism"
         installtype: "zip"
         versions:
+            v5.0.1:
             v5.0.0.pre6.b3:
             v5.0.0.pre6.b2:
             v5.0.0.pre5.b2:
@@ -1071,6 +1085,7 @@ mods:
         name: "UE Mekanism Generators"
         installtype: "zip"
         versions:
+            v5.0.1:
             v5.0.0.pre6.b3:
             v5.0.0.pre6.b2:
             v5.0.0.pre5.b2:
@@ -1078,6 +1093,7 @@ mods:
         name: "UE Mekanism Tools"
         installtype: "zip"
         versions:
+            v5.0.1:
             v5.0.0.pre6.b3:
             v5.0.0.pre6.b2:
             v5.0.0.pre5.b2:
@@ -1085,6 +1101,7 @@ mods:
         name: "UE MFFS"
         installtype: "zip"
         versions:
+            v2.2.8.2.13:
             v2.2.8.1.7:
     voxelpacket:
         name: "VoxelPacket"
@@ -1230,6 +1247,7 @@ mods:
         name: "Voltz Configs"
         installtype: "zip"
         versions:
+            v1.0.0:
             v0.0.1:
     z-tekkit-configs:
         name: "Tekkit Configs"
