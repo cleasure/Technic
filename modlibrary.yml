@@ -1064,6 +1064,7 @@ mods:
         name: "UE Electric Expansion"
         installtype: "zip"
         versions:
+            v1.0.4:
             v1.0.3:
             v1.0.2:
             v0.4.0:
@@ -1247,6 +1248,7 @@ mods:
         name: "Voltz Configs"
         installtype: "zip"
         versions:
+            v1.0.1:
             v1.0.0:
             v0.0.1:
     z-tekkit-configs:
