@@ -16,6 +16,7 @@ builds:
         mods:
             basemods: voltz-v1.0.0
             codechickencore: v0.7.0.1
+            inventorytweaks: v1.46
             mystcraft: v0.9.5.00
             nei: v1.4.4.0
             rc: v6.12.1.0
