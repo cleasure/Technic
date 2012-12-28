@@ -33,7 +33,7 @@ builds:
             ue-mekanismtools: v5.0.2
             ue-mffs: v2.2.8.2.13
             ue-powertools: v1.1.3.5
-            z-voltz-configs: v1.0.1
+            z-voltz-configs: v1.0.2
     1.0.1:
         minecraft: 1.4.6
         mods:
