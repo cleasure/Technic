@@ -1059,6 +1059,7 @@ mods:
         name: "UE Atomic Science"
         installtype: "zip"
         versions:
+            v0.3.0.122:
             v0.3.0.121:
             v0.2.6.93:
     ue-basiccomponents:
