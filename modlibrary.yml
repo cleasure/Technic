@@ -421,11 +421,6 @@ mods:
             v1.2.6.4:
             v1.2.6.3:
             v1.3.0.3:
-    hawksmachinery:
-        name: "Hawks Machinery"
-        installtype: "zip"
-        versions:
-            v1.0.0PRE4:
     ic2:
         name: "Industrial Craft 2"
         description: "This is it. IC2, the future of IC. While playing it, you will feel right at home again, rediscovering most of the stuff known from IC. However, once you get your machines running, you will quickly notice how smooth and well-designed everything works now. Wiring is easier, batterys aren't as twosided (on/off) anymore, new cables, rubber stuff, new machines, EVERYTHING was added. Create obstacle courses of Metal Poles and Rubber-Sheets, explore the Nether with an Electrical Jetpack or blow up whole landscapes at once by using the Dynamite-O-Mote. Or discover the much more complex mechanisms of Nuclear Engineering, blow up your hut or burn your hands. Or grab the rusty ol Composite Vest, and start hunting Creepers with the new, allmighty NanoSaber."
@@ -811,11 +806,6 @@ mods:
             v1.3.4:
             v1.3.1_01:
             v1.3.0p2:
-    powertools:
-        name: "Power Tools"
-        installtype: "zip"
-        versions:
-            v1.1.3.5:
     rc:
         name: "Railcraft"
         description: "Have you ever wished minecarts and rails had received a bit more attention during development? Well that ends now! Gone are all those broken bits and in their place are a ton of new tools to build your massive rail system. If you ever cared about rails, you wont ever look back!"
@@ -1081,6 +1071,11 @@ mods:
             v1.0.3:
             v1.0.2:
             v0.4.0:
+    ue-hawksmachinery:
+        name: "Hawks Machinery"
+        installtype: "zip"
+        versions:
+            v1.0.0PRE4:
     ue-icbm:
         name: "UE ICBM"
         installtype: "zip"
@@ -1120,6 +1115,11 @@ mods:
         versions:
             v2.2.8.2.13:
             v2.2.8.1.7:
+    ue-powertools:
+        name: "Power Tools"
+        installtype: "zip"
+        versions:
+            v1.1.3.5:
     voxelpacket:
         name: "VoxelPacket"
         installtype: "zip"
