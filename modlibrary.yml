@@ -421,6 +421,11 @@ mods:
             v1.2.6.4:
             v1.2.6.3:
             v1.3.0.3:
+    hawksmachinery:
+        name: "Hawks Machinery"
+        installtype: "zip"
+        versions:
+            v1.0.0PRE4:
     ic2:
         name: "Industrial Craft 2"
         description: "This is it. IC2, the future of IC. While playing it, you will feel right at home again, rediscovering most of the stuff known from IC. However, once you get your machines running, you will quickly notice how smooth and well-designed everything works now. Wiring is easier, batterys aren't as twosided (on/off) anymore, new cables, rubber stuff, new machines, EVERYTHING was added. Create obstacle courses of Metal Poles and Rubber-Sheets, explore the Nether with an Electrical Jetpack or blow up whole landscapes at once by using the Dynamite-O-Mote. Or discover the much more complex mechanisms of Nuclear Engineering, blow up your hut or burn your hands. Or grab the rusty ol Composite Vest, and start hunting Creepers with the new, allmighty NanoSaber."
