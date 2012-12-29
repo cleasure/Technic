@@ -1088,6 +1088,7 @@ mods:
         name: "UE Mekanism"
         installtype: "zip"
         versions:
+            v5.0.2_r2:
             v5.0.2:
             v5.0.1:
             v5.0.0.pre6.b3:
@@ -1097,6 +1098,7 @@ mods:
         name: "UE Mekanism Generators"
         installtype: "zip"
         versions:
+            v5.0.2_r2:
             v5.0.2:
             v5.0.1:
             v5.0.0.pre6.b3:
@@ -1106,6 +1108,7 @@ mods:
         name: "UE Mekanism Tools"
         installtype: "zip"
         versions:
+            v5.0.2_r2:
             v5.0.2:
             v5.0.1:
             v5.0.0.pre6.b3:
