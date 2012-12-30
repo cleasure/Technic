@@ -1041,6 +1041,7 @@ mods:
         name: "UE Assembly Line"
         installtype: "zip"
         versions:
+            v0.2.1.40:
             v0.2.0.38:
             v0.1.9.35:
             v0.1.8.30:
