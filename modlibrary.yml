@@ -1075,6 +1075,7 @@ mods:
         description: "This is the main API interface for Universal Electricity and provides many of the basic building blocks other mods in the pack use."
         author: "Calclavia"
         link: "http://www.universalelectricity.com/"
+        wiki: "http://wiki.universalelectricity.com/wiki/Basic_Components"
         installtype: "zip"
         versions:
             v1.2.1.317:
