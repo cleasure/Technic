@@ -94,6 +94,9 @@ mods:
             v1.2.5:
     balkonsweaponmod:
         name: "Balkons Weapon Mod"
+        author: "BalkondeurAlpha"
+        description: "Throw a spear in a zombie's head! Cut a skeleton in half with your brand new halberd! Shoot some slimes in pieces with an old musket! And more!"
+        link: "http://www.minecraftforum.net/topic/211517-146forge-balkons-weaponmod-v110/"
         installtype: "zip"
         versions:
             v1.10-1.4.6:
@@ -123,6 +126,7 @@ mods:
             v0.91:
     buildcraft:
         name: "BuildCraft"
+        author: "SpaceToad/Krapht/SirSengir"
         description: "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!"
         installtype: "zip"
         modtype: "content"
@@ -208,12 +212,16 @@ mods:
             v2.3.0:
     ccsensors:
         name: "ccSensors"
+        author: "yoskaz01"
+        description: "ccSensors collects information from machines and blocks from around the minecraft world. Those readings can be viewed on the sensor terminal or (and even better) be used in Computercraft lua programs for anything..."
+        link: "http://www.computercraft.info/forums2/index.php?/topic/126-mc-125-cc-133-ccsensors-smpssp/"
         installtype: "zip"
         versions:
             v017pr2:
             v017pr1:
     chargingbench:
         name: "IC2 Charging Bench"
+        author: "Drashian"
         description: "A bench with multiple charging slots so you can charge all of your items at once.  Apply redstone power to the bench to reverse the way it functions."
         installtype: "zip"
         modtype: "content"
@@ -256,10 +264,11 @@ mods:
             v0.5.0:
     computercraft:
         name: "ComputerCraft"
+        author: "dan200"
         description: "Add's Lua based computers to the game"
         installtype: "zip"
         modtype: "content"
-        link: "http://www.minecraftforum.net/topic/892282-11-computercraft-121/"
+        link: "http://www.computercraft.info/"
         versions:
             v1.47:
             v1.46:
@@ -319,6 +328,9 @@ mods:
             v1.4:
     dimanchor:
         name: "Dimensional Anchors"
+        author: "immibis"
+        description: "This is a block that loads chunks. There is a limit on the number of chunks each non-op player can load in SMP, and each chunk loader can load an adjustable area."
+        link: "http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5204-core-5203-da-5204/"
         installtype: "zip"
         versions:
             v52.0.6:
@@ -341,7 +353,10 @@ mods:
             v6.22:
     ee2:
         name: "Equivalent Exchange 2"
-        description: ""
+        author: "Pahimar"
+        description: "The Equivalent Exchange mod is based around alchemy. It adds a number of extremely powerful end-game items that require large quantities of diamond to make, and large quantities of glowstone to power. It also grants the ability to easily condense materials into more valuable forms, up to diamonds and even beyond. Most of its recipes are based around the Philosopher's Stone, which you will need in order to access much of the new content."
+        link: "http://www.minecraftforum.net/topic/1106178-125-equivalent-exchange-2-v1467/"
+        wiki: "http://equivalentexchange.wikispaces.com/"
         installtype: "zip"
         modtype: "content"
         versions:
@@ -374,7 +389,8 @@ mods:
             v1.9:
     enderchest:
         name: "EnderChest"
-        description: ""
+        author: "Ecu/chicken_bones"
+        description: "EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).  Currently there are two types of storage, EnderChest and EnderPouch."
         installtype: "zip"
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/909223-100181-chickenbones-mods/"
@@ -385,6 +401,9 @@ mods:
             v1.0:
     enderstorage:
         name: "EnderStorage"
+        author: "Ecu/chicken_bones"
+        description: "EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions).  Currently there are two types of storage, EnderChest and EnderPouch."
+        link: "http://www.minecraftforum.net/topic/1160665-closed-quiddity-modding/"
         installtype: "zip"
         versions:
             v1.3.1.1:
@@ -435,10 +454,11 @@ mods:
             v1.3.0.3:
     ic2:
         name: "Industrial Craft 2"
+        author: "Alblaka & IC2 Team"
         description: "This is it. IC2, the future of IC. While playing it, you will feel right at home again, rediscovering most of the stuff known from IC. However, once you get your machines running, you will quickly notice how smooth and well-designed everything works now. Wiring is easier, batterys aren't as twosided (on/off) anymore, new cables, rubber stuff, new machines, EVERYTHING was added. Create obstacle courses of Metal Poles and Rubber-Sheets, explore the Nether with an Electrical Jetpack or blow up whole landscapes at once by using the Dynamite-O-Mote. Or discover the much more complex mechanisms of Nuclear Engineering, blow up your hut or burn your hands. Or grab the rusty ol Composite Vest, and start hunting Creepers with the new, allmighty NanoSaber."
         installtype: "zip"
         modtype: "content"
-        link: "http://forum.industrial-craft.net/index.php?page=Board&boardID=58"
+        link: "http://www.industrial-craft.net/"
         versions:
             v1.112.170:
             v1.110.137:
