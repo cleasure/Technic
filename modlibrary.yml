@@ -1085,7 +1085,7 @@ mods:
             1.3.2_1:
             1.3.2:
     ue-assemblyline:
-        name: "UE Assembly Line"
+        name: "Assembly Line"
         author: "Calclavia"
         description: "With all these machines in all these different mods, there needs to be a way to automate them into factories! The Assembly Line mod introduces you to conveyor belts, various item manipulation blocks and brings your machines together. While pipes are easier to build with for item transportation, who in the world would stuff their valuables inside a tiny little pipes? If you like building realistic styled factories, designing complex contraptions with various machines, then the Assembly Line mod is for you!"
         link: "http://universalelectricity.com/?m=Assembly%20Line"
@@ -1098,7 +1098,7 @@ mods:
             v0.1.8.30:
             v0.1.3.13:
     ue-atomicscience:
-        name: "UE Atomic Science"
+        name: "Atomic Science"
         author: "Calclavia"
         description: "Electricity generation is always a heavy burden. That's why we are here to bring in high tech nuclear power to solve all your electricity deficiency problems. With our fission reactors, fusion reactors, antimatter generators and thorium power, you won't be short of electricity ever again! Note that this mod is still in alpha stage so documentation on items are not done properly."
         link: "http://universalelectricity.com/?m=Atomic%20Science"
@@ -1110,7 +1110,7 @@ mods:
             v0.3.0.121:
             v0.2.6.93:
     ue-basiccomponents:
-        name: "UE Basic Components"
+        name: "Basic Components"
         author: "Calclavia"
         description: "This is the main API interface for Universal Electricity and provides many of the basic building blocks other mods in the pack use."
         link: "http://www.universalelectricity.com/"
@@ -1120,14 +1120,14 @@ mods:
             v1.2.1.317:
             v1.1.3.278:
     ue-basicpipes:
-        name: "UE Basic Pipes"
+        name: "Basic Pipes"
         author: "darkguardsman"
         description: "Basic pipes to use with Universal Electricity"
         installtype: "zip"
         versions:
             v2.2.1:
     ue-electricexpansion:
-        name: "UE Electric Expansion"
+        name: "Electric Expansion"
         author: "Mattredsox and Alex_Hawks"
         description: "Electric Expansion is a Universal Electricity mod that focuses mainly on energy storage and transfer as well as adding more cables for better energy transfer. This mod will make Universal Electricity more complex and realistic. We try to make all aspects as realistic as possible, whether that means the items and block names or the processes and materials for each aspect of Electric Expansion."
         link: "http://universalelectricity.com/?m=Electric%20Expansion"
@@ -1145,7 +1145,7 @@ mods:
         versions:
             v1.0.0PRE4:
     ue-icbm:
-        name: "UE ICBM"
+        name: "ICBM"
         author: "Calclavia"
         description: "ICBM is a Minecraft Mod that introduces intercontinental ballistic missiles to Minecraft. But the fun doesn't end there! This mod also features many different explosives, missiles and machines classified in three different tiers. If strategic warfare, carefully coordinated airstrikes, messing with matter and general destruction are up your alley, then this mod is for you!"
         link: "http://universalelectricity.com/?m=ICBM"
@@ -1156,7 +1156,7 @@ mods:
             v1.0.0.115:
             v0.6.3.70:
     ue-mekanism:
-        name: "UE Mekanism"
+        name: "Mekanism"
         author: "Aidancbrady"
         description: "Mekanism brings 5 new sets of tools and armor, a new types of tools and weapons, more explosives, magic items, weather and time control, powerful machines, a new kind of bow and arrow, lightning rods, and a few other features into Minecraft.  Even better, it's open source."
         link: "http://universalelectricity.com/?m=Mekanism"
@@ -1170,7 +1170,7 @@ mods:
             v5.0.0.pre6.b2:
             v5.0.0.pre5.b2:
     ue-mekanismgenerators:
-        name: "UE Mekanism Generators"
+        name: "Mekanism Generators"
         author: "Aidancbrady"
         description: "Component of Mekanism"
         installtype: "zip"
@@ -1182,7 +1182,7 @@ mods:
             v5.0.0.pre6.b2:
             v5.0.0.pre5.b2:
     ue-mekanismtools:
-        name: "UE Mekanism Tools"
+        name: "Mekanism Tools"
         author: "Aidancbrady"
         description: "Component of Mekanism"
         installtype: "zip"
@@ -1194,7 +1194,7 @@ mods:
             v5.0.0.pre6.b2:
             v5.0.0.pre5.b2:
     ue-mffs:
-        name: "UE MFFS"
+        name: "MFFS"
         author: "ThunderDark"
         description: "Create and manipulate force fields to your will!"
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1292"
@@ -1203,7 +1203,7 @@ mods:
             v2.2.8.2.13:
             v2.2.8.1.7:
     ue-powertools:
-        name: "UE Power Tools"
+        name: "Power Tools"
         installtype: "zip"
         versions:
             v1.1.4.6:
