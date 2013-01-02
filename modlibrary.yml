@@ -93,6 +93,7 @@ mods:
             v1.2.3:
             v1.2.5:
     balkonsweaponmod:
+        name: "Balkons Weapon Mod"
         installtype: "zip"
         versions:
             v1.10-1.4.6:
@@ -153,6 +154,7 @@ mods:
                 dependencies:
                     baseforge: 1.2.3
     buildcraft-additionalpipes:
+        name: "Buildcraft Additional Pipes"
         installtype: "zip"
         versions:
             v2.1.3.u38:
