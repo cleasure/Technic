@@ -1072,6 +1072,9 @@ mods:
             v0.2.6.93:
     ue-basiccomponents:
         name: "UE Basic Components"
+        description: "This is the main API interface for Universal Electricity and provides many of the basic building blocks other mods in the pack use."
+        author: "Calclavia"
+        link: "http://www.universalelectricity.com/"
         installtype: "zip"
         versions:
             v1.2.1.317:
