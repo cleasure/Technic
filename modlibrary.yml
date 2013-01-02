@@ -485,10 +485,11 @@ mods:
                     baseforge: 1.3.2
     ic2-advancedmachines:
         name: "IC2 Advanced Machines"
-        description: ""
+        author: "AtomicStryker"
+        description: "Adds several new blocks to IC2 to make your systems more effecient."
         installtype: "zip"
         modtype: "content"
-        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1174"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907"
         versions:
             v4.7:
             v4.6:
@@ -519,7 +520,9 @@ mods:
             v50.2.1:
     ic2-compactsolars:
         name: "IC2 Compact Solars"
-        description: ""
+        author: "cpw"
+        description: "Combines large amounts of solar panels into single blocks turning your solar arrays into effecient small scale power houses."
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=4827"
         installtype: "zip"
         versions:
             v3.2.0.21:
@@ -531,6 +534,9 @@ mods:
             v1.2:
     ic2-nuclearcontrol:
         name: "IC2 Nuuclear Control"
+        author: "Shedar"
+        description: "Nuclear Control addon allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system."
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915"
         installtype: "zip"
         versions:
             v1.4.5:
@@ -553,6 +559,9 @@ mods:
             v1.2:
     immibiscore:
         name: "Immibis Core"
+        author: "immibis"
+        description: "Core mod required for immibis mods"
+        link: "http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5208-core-5220-da-5207-infinitubes-021/"
         installtype: "zip"
         versions:
             v52.1.0:
@@ -667,6 +676,9 @@ mods:
             v1.2.5:
     mffs:
         name: "Modular Force Field System"
+        author: "Immibis"
+        description: "Create and manipulate force fields to your will!"
+        link: "http://forum.industrial-craft.net/index.php?page=Thread&postID=65261"
         installtype: "zip"
         versions:
             v7:
