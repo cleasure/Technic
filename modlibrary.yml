@@ -1181,7 +1181,7 @@ mods:
             v2.2.8.2.13:
             v2.2.8.1.7:
     ue-powertools:
-        name: "Power Tools"
+        name: "UE Power Tools"
         installtype: "zip"
         versions:
             v1.1.4.6:
