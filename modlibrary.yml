@@ -533,7 +533,7 @@ mods:
             v2.2.0.5:
             v1.2:
     ic2-nuclearcontrol:
-        name: "IC2 Nuuclear Control"
+        name: "IC2 Nuclear Control"
         author: "Shedar"
         description: "Nuclear Control addon allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system."
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915"
@@ -605,6 +605,9 @@ mods:
             v1.37c:
     ironchests:
         name: "Iron Chests"
+        author: "cpw"
+        description: "IronChests adds several new chests to the game. One for each type of metal. You can even upgrade them!"
+        link: "http://www.minecraftforum.net/topic/981855-"
         installtype: "zip"
         versions:
             v4.5.1.199:
@@ -630,7 +633,9 @@ mods:
             0.8.5_for_1.2.3:
     matmos:
         name: "MAtmos"
-        description: ""
+        author: "Hurricaaane"
+        description: "MAtmos is a sound atmosphere generator. When you play on any server or in singleplayer, it looks at your surroundings and generates natural noises as a soundscape, such as birds in the forest or rumbling near a lava lake or wind gusts on a hilltop, which fills out the perpetual silence of Minecraft."
+        link: "http://www.minecraftforum.net/topic/379925-"
         installtype: "zip"
         modtype: "audio"
         versions:
@@ -819,10 +824,11 @@ mods:
             v2.1.6:
     netherores:
         name: "Nether Ores"
+        author: "TehKrush"
         description: "This is a fairly basic mod. It makes the eight 'ores' - coal, diamond, gold, iron, lapis, redstone, sopper and tin - spawn in the nether so that you have a reason to go there."
         installtype: "zip"
         modtype: "content"
-        link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/#no"
+        link: "http://www.minecraftforum.net/topic/554413-"
         versions:
             v1.4.6:
             v1.4.2:
@@ -853,7 +859,9 @@ mods:
             v1.1:
     powerconverters:
         name: "Power Converters"
-        description: ""
+        author: "AtomicStryker"
+        description: "Easy power conversion between Buildcraft and IC2!"
+        link: "http://atomicstryker.net/maintainedmods.html"
         installtype: "zip"
         modtype: "content"
         versions:
@@ -907,6 +915,7 @@ mods:
                     buildcraft: 2.2.7
     redpower:
         name: "RedPower"
+        author: "Eloraam"
         description: "Redpower by Eloraam is a mod for minecraft which introduces redstone-like wires, cables, integrated circuits, lights, and more."
         installtype: "zip"
         modtype: "content"
@@ -1057,6 +1066,9 @@ mods:
             v1.2.3.b:
     tubestuff:
         name: "Tube Stuff"
+        author: "immibis"
+        description: "This is a small mod that adds two new blocks that I thought were missing, related to BuildCraft and RedPower. It's called TubeStuff because I don't have a better name - feel free to suggest one. The buffer could also use a less generic name."
+        link: "http://www.minecraftforum.net/topic/1001131-"
         installtype: "zip"
         versions:
             v52.0.7:
@@ -1291,6 +1303,9 @@ mods:
             v1.0:
     wrcbe:
         name: "Wireless Redstone Chicken Bones Edition"
+        author: "chicken_bones"
+        description: "In its simplest this is a mod that allows you to transmit your redstone state wirelessly. Even if you dont use redstone this mod could still be for you. Found an awesome landscape you'd like to mark, a cool cave to explore, or keep losing your way from base to base? Ever wished that compass pointed somewhere else or there was a way to mark things on a map. Well now there is. With the wireless addons component of this mod you can use wireless signals for navigation."
+        link: "http://www.minecraftforum.net/topic/909223-"
         installtype: "zip"
         versions:
             v1.3.2.4:
