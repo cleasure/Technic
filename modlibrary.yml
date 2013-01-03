@@ -692,11 +692,13 @@ mods:
             v3:
     mfr:
         name: "MineFactory Reloaded"
+        author: "Powercrystals"
         description: "A way to automatically farm plants and animals, as well some new rail tracks! With this mod you can set up a completely automated farm for any of these things that requires no real work aside from collecting the harvests and reloading the planter, without incredibly complex and unwieldy water/piston solutions. And you can milk cows to death or otherwise run livestock farms if you need those resources. Oh and it has conveyor belts too."
         installtype: "zip"
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
         versions:
+            v2.0.0:
             v2.0.0rc5:
             v1.4.1_01:
                 dependencies:
