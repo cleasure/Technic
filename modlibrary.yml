@@ -176,6 +176,7 @@ mods:
         versions:
             v0.1.1:
     buildcraft-logisticspipes:
+        name: "Buildcraft Logistic Pipes"
         installtype: "zip"
         versions:
             v0.6.9.51:
