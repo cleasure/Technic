@@ -1,6 +1,6 @@
 launcher: 
 current: 
-recommended: 0.5.0
+recommended: 0.5.1
 latest: 0.5.1
 lib-1: &lib-1
     commons-io: 2.1
