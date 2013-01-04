@@ -13,6 +13,7 @@ lib-1: &lib-1
 builds:
     7.5.2:
         minecraft: 1.4.6
+        forge: 489
         mods:
             basemods: technic-v7.5.2
             balkonsweaponmod: v1.10-1.4.6
@@ -557,6 +558,7 @@ builds:
             z-technic-configs: v7.2.7
     7.2.6:
         minecraft: 1.2.5
+        forge: 164
         mods:
             basemods: technic-v7.2.6
             balkonsweaponmod: v8.6
