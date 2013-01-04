@@ -852,7 +852,10 @@ mods:
         versions:
             pr1:
     omnitools:
-        name: "CoFH OmniWrench"
+        name: "CoFH OmniTools"
+        author: "KingLemmingCoFH"
+        description: "This is an implementation of something that I know a lot of people have wanted, a wrench that works on many different mods: BuildCraft (and Forestry, RailCraft, Thermal Expansion), IndustrialCraft, and all Universal Electricity mods as well."
+        link: "http://www.minecraftforum.net/topic/1378315-"
         installtype: "zip"
         versions:
             v2.2.5:
