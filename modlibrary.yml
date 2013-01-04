@@ -700,6 +700,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
         versions:
+            v2.0.1:
             v2.0.0:
             v2.0.0rc5:
             v1.4.1_01:
