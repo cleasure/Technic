@@ -1033,6 +1033,10 @@ mods:
             v1.2.1:
     thermalexpansion:
         name: "Thermal Expansion"
+        author: "KingLemmingCoFH"
+        description: "Thermal Expansion, at its core, is a 'tech' mod - it's a mod of what ifs. For example, what if you could turn water into ice or snow with a machine? Or how about a machine that could combine lava and water however you choose? What if there were a wool that didn't burn? Or, what if you could set up advanced yet extremely compact production chains that didn't require redstone engines or complex pipe routing? If any of that interests you, then you may want to check this out."
+        link: "http://www.minecraftforum.net/topic/1297506-"
+        wiki: "http://thermalexpansion.wikispaces.com/"
         installtype: "zip"
         versions:
             v2.1.6:
