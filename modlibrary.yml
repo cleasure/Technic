@@ -58,6 +58,7 @@ mods:
             tekkit-v3.0.0-smooth:
             tekkit-v3.0.0:
             tekkit-v2.0:
+            tekkitlite-v0.5.1:
             tekkitlite-v0.5.0:
             voltz-v1.0.0:
             voltz-v0.0.1:
@@ -1431,6 +1432,7 @@ mods:
         name: "Tekkit Lite Configs"
         installtype: "zip"
         versions:
+            v0.5.1:
             v0.5.0:
     z-voxelmodpack-configs:
         name: "VoxelModPack Configs"
