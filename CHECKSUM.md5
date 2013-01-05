@@ -6,8 +6,6 @@ C7A795F9B8AA774C12B329D51B6307FC|Libraries\lwjgl\natives\lwjgl.dll
 13E15D61AB3D6B0C7EC602749A3BAC14|Libraries\lwjgl\natives\lwjgl64.dll
 258C3AD28EFBDA28363729AB6C9CA727|Libraries\lwjgl\natives\OpenAL32.dll
 29610CFE77635B636A191746B51B71A3|Libraries\lwjgl\natives\OpenAL64.dll
-6CC93DEFE51801F616C5CBB4D685BC51|mods\ue-assemblyline\mods\AssemblyLine_v0.1.8.30.jar
-CF16874DC3BE2A0661F17235D4A02658|Patches\Minecraft\Create Patch\minecraft_1.4.5-1.4.2.patch
 F5153110229FBBDA8BEE81EAF20045C7|forums_small.png
 FC658483012963BF32A57F8B8F9B402C|hackslashmine\modpack.yml
 6AC510B04AF406F19C3AD8EA40C16090|hackslashmine\resources\favicon.png
@@ -831,7 +829,7 @@ A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 1585944BC11E8F7334EEAFF037322E93|servers\tekkit\Tekkit_Server_3.1.2.zip
 39632DE8451685FE49214A140BF804E2|servers\tekkit\Tekkit_Server_3.1.3.zip
 2D41AF028228FA2507D30D38723E5567|servers\tekkitlite\Tekkit_Lite_Server_0.5.0.zip
-FB0181DB7E7571A79E793253EE3D65E8|servers\tekkitlite\Tekkit_Lite_Server_0.5.1.zip
+F04FF3F00809C58673D757E7AB613E66|servers\tekkitlite\Tekkit_Lite_Server_0.5.1.zip
 8ADA3E9B046C64FA2753C3DCAE078573|servers\voltz\Voltz_Server_v1.0.1.zip
 A843275AF222D56B6B7F7E0E6715D54B|servers\voltz\Voltz_Server_v1.0.2.zip
 EEB1ADCCFA8B2DCBAF8602AA0C0DE99D|servers\voltz\Voltz_Server_v1.0.3.zip
@@ -843,7 +841,7 @@ AB01849A4C1C550804E718C2341C0BCC|spotlight\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|spotlight\resources\icon.ico
 1DB1857730E6E58158ED42DBD5273C0A|spotlight\resources\icon.png
 39DB7043BA0C9C6E225B5FE20B27EEA7|spotlight\resources\logo.png
-C93111142ED92CB757067D3BDA99C26F|technic-launcher.jar
+AE300CA1392BFD5F41C2B486B6B7F1F1|technic-launcher.jar
 8CF2E98E185FA2405B0FE64E0E12F0AB|technicssp\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|technicssp\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|technicssp\resources\icon.icns
