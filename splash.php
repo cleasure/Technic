@@ -2,7 +2,7 @@
 
 header('Content-Type: image/png');
 
-$img = "launcher/splash/1.png";
+$img = getcwd()."launcher/splash/1.png";
 
 $im = @imagecreatefrompng($img);
 
@@ -12,7 +12,7 @@ if(!$im)
         $bgc = imagecolorallocate($im, 255, 255, 255);
         $tc  = imagecolorallocate($im, 0, 0, 0);
         imagefilledrectangle($im, 0, 0, 150, 30, $bgc);
-        imagestring($im, 1, 5, 5, 'Error loading ' . $imgname, $tc);
+        imagestring($im, 1, 5, 5, 'Error loading ' . $img, $tc);
     }
 
 
