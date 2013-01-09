@@ -60,6 +60,7 @@ mods:
             tekkit-v2.0:
             tekkitlite-v0.5.1:
             tekkitlite-v0.5.0:
+            voltz-v1.0.7:
             voltz-v1.0.6:
             voltz-v1.0.0:
             voltz-v0.0.1:
@@ -1177,6 +1178,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Electric_Expansion"
         installtype: "zip"
         versions:
+            v1.2.6:
             v1.2.5:
             v1.0.6:
             v1.0.4:

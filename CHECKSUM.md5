@@ -61,13 +61,13 @@ F0491373C064CDCAFFAB1F79361F9BF1|Libraries\lwjgl\lwjgl_util.jar
 AEE7D6EB28BE4B13A207CB6DC565A7DB|Libraries\snakeyaml\snakeyaml-1.9.jar
 AE6D695605990BD2544B358F17B11C28|Libraries\trove4j\trove4j-3.0.1.jar
 3080201D7E20A69E33EBD059FCC89FAA|libraries.yml
-69F473C87795D0F1307C3C106B434A49|minecraft.yml
+BA5561302BD02C1B9C2F6372BBAB6AE9|minecraft.yml
 834CD8D53F73F86169BD6A83EF5565B9|mirrors.yml
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.1\gui\gui.png
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.2.5\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.2.5\gui\gui.png
-A0BB6202E1974959E2008C1ADE0788FA|modlibrary.yml
+BA65BE9C156D5E6092D4E58586AAF078|modlibrary.yml
 E655BD6BCD7EAAB89B92D2C7C0AAEF4A|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 EF236C5E65D3E67278333808C2FDD089|mods\adventureitems\adventureitems-v1.2.3.zip
@@ -146,6 +146,7 @@ A0CA97DB36B1EB079D91CED8D645E26A|mods\basemods\basemods-vanilla-v1.2.3.zip
 4F9A9EEB39EBE77D430B06FA0BE7A164|mods\basemods\basemods-voltz-v0.0.1.zip
 F9248AC90C7055BE1600EC7D3A972336|mods\basemods\basemods-voltz-v1.0.0.zip
 87AE82D91909C401394C6596FDCB9E3C|mods\basemods\basemods-voltz-v1.0.6.zip
+DD0E8E36F3F554A5E8770DD8387A3446|mods\basemods\basemods-voltz-v1.0.7.zip
 E4F13DC7EEAB8D032EF19D113AB6224D|mods\basemods\basemods-voxelmodpack-v8.1.0.zip
 15985A170961F95203C3B661343BAE4C|mods\basemods\basemods-voxelmodpack-v8.2.0.zip
 120FD7587FDF980B30FBDE08398AB9C9|mods\basemods\basemods-voxelmodpack-v8.3.0.zip
@@ -662,6 +663,7 @@ F4F2739209EAFF4E77894A8DF3EF86EC|mods\ue-basiccomponents\ue-basiccomponents-v1.1
 FD3A7BCB7B9EDC16E4F1595783A3F7AA|mods\ue-electricexpansion\ue-electricexpansion-v1.0.4.zip
 F24142F4C820F047883D1831790D61F0|mods\ue-electricexpansion\ue-electricexpansion-v1.0.6.zip
 EEEDED4BBA965CA96610248AA829B8B1|mods\ue-electricexpansion\ue-electricexpansion-v1.2.5.zip
+9412309C5C32734D15341579F6F1E60B|mods\ue-electricexpansion\ue-electricexpansion-v1.2.6.zip
 CC12A87CFAAB0A41CEDD537AC1C10EBE|mods\ue-hawksmachinery\ue-hawksmachinery-v1.0.0PRE4.zip
 7133AA63D699D6BA0201AFE673E70B28|mods\ue-icbm\ue-icbm-v0.6.3.70.zip
 4446A400C6AEA1094EE90F45E903AF46|mods\ue-icbm\ue-icbm-v1.0.0.115.zip
@@ -842,6 +844,9 @@ CF16874DC3BE2A0661F17235D4A02658|Patches\Minecraft\minecraft_1.4.5-1.4.2.patch
 36A316728D4121570649DDA473570EDF|Patches\Minecraft\minecraft_1.4.6-1.2.3.patch
 ED6DD28FDEEE116BF746ADD8E8252628|Patches\Minecraft\minecraft_1.4.6-1.2.5.patch
 E26AB80E55CD1C35692A42A1EBD9BE75|Patches\Minecraft\minecraft_1.4.6-1.4.5.patch
+8C0BA904D3BACC500E0EFE8A2E8207A2|Patches\Minecraft\minecraft_1.4.7-1.2.3.patch
+6FE867CDDEB354F78AE81FA49332AB3D|Patches\Minecraft\minecraft_1.4.7-1.2.5.patch
+28B4FA734721D1963EA2A06BCB94B71A|Patches\Minecraft\minecraft_1.4.7-1.4.6.patch
 4D2B9BDF8DBAFFFDD6CAB70859098A18|Patches\Minecraft\minecraft_b1.7.2-1.0.0.patch
 EC8EEF44F9DD76DF15563243EBBC8B6E|Patches\Minecraft\minecraft_b1.7.2-b1.7.3.patch
 4D9FE18BEB5364963017985FE5B1B88F|Patches\Minecraft\minecraft_b1.7.2-b1.8.1.patch
@@ -864,7 +869,7 @@ A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 1585944BC11E8F7334EEAFF037322E93|servers\tekkit\Tekkit_Server_3.1.2.zip
 39632DE8451685FE49214A140BF804E2|servers\tekkit\Tekkit_Server_3.1.3.zip
 2D41AF028228FA2507D30D38723E5567|servers\tekkitlite\Tekkit_Lite_Server_0.5.0.zip
-F04FF3F00809C58673D757E7AB613E66|servers\tekkitlite\Tekkit_Lite_Server_0.5.1.zip
+971798367BD69DAD6552E25036426FFF|servers\tekkitlite\Tekkit_Lite_Server_0.5.1.zip
 8ADA3E9B046C64FA2753C3DCAE078573|servers\voltz\Voltz_Server_v1.0.1.zip
 A843275AF222D56B6B7F7E0E6715D54B|servers\voltz\Voltz_Server_v1.0.2.zip
 EEB1ADCCFA8B2DCBAF8602AA0C0DE99D|servers\voltz\Voltz_Server_v1.0.3.zip
@@ -903,7 +908,7 @@ AB01849A4C1C550804E718C2341C0BCC|vanilla\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|vanilla\resources\icon.ico
 1DB1857730E6E58158ED42DBD5273C0A|vanilla\resources\icon.png
 2030AA9A0EA63A0E38F1C565C1F5C18F|vanilla\resources\logo.png
-ACDF479D5C1D7B68DFDF2BD69EF57F7B|voltz\modpack.yml
+BB85359B055C91FD33C92D1B2F4C456E|voltz\modpack.yml
 BA410EF19136187F6B8FEB72FBC686E6|voltz\resources\favicon.png
 6144F8D0005C5FEA39FAD36EF6A857AA|voltz\resources\icon.icns
 0CE6CDAB7E357CAFE10D6C4CD4C578E0|voltz\resources\icon.ico
