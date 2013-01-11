@@ -67,7 +67,7 @@ A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.1\gui\gui.png
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.2.5\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.2.5\gui\gui.png
-403D8F46B5907A1561FCAB3BE5940BFC|modlibrary.yml
+2737D45373718A5E881A25EE28D13792|modlibrary.yml
 E655BD6BCD7EAAB89B92D2C7C0AAEF4A|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 EF236C5E65D3E67278333808C2FDD089|mods\adventureitems\adventureitems-v1.2.3.zip
@@ -800,6 +800,7 @@ AAF7F7239C1BFB16D0FC499F79BF71EE|mods\z-tekkit-keybinds\z-tekkit-keybinds-v3.1.2
 AAF7F7239C1BFB16D0FC499F79BF71EE|mods\z-tekkit-keybinds\z-tekkit-keybinds-v3.1.3.zip
 FCF15455DA1313AABB7C4E42C290F871|mods\z-tekkitlite-configs\z-tekkitlite-configs-v0.5.0.zip
 11FEF3F569B09B52DE4B2CC193B634A3|mods\z-tekkitlite-configs\z-tekkitlite-configs-v0.5.1.zip
+E7666AE9CEF3AB487DF383133A76E887|mods\z-tekkitlite-configs\z-tekkitlite-configs-v0.5.2.zip
 F52527AB64FC7949CAEC8E12A1305A70|mods\z-voltz-configs\z-voltz-configs-v0.0.1.zip
 FB5A7C63DCE7F9F9FCAC99540800310C|mods\z-voltz-configs\z-voltz-configs-v1.0.0.zip
 AAA63A2F98D470E98CF38A9FF9E4C560|mods\z-voltz-configs\z-voltz-configs-v1.0.1.zip
@@ -910,7 +911,7 @@ AB01849A4C1C550804E718C2341C0BCC|tekkit\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|tekkit\resources\icon.ico
 1DB1857730E6E58158ED42DBD5273C0A|tekkit\resources\icon.png
 980887BBFA9FBFBF697C567C0A368937|tekkit\resources\logo.png
-AD93451ED6C4F0FE59A69CBFFC63E4E0|tekkitlite\modpack.yml
+7CA091D8A2DB8B8FEA34850B3DCF26A3|tekkitlite\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|tekkitlite\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|tekkitlite\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|tekkitlite\resources\icon.ico
