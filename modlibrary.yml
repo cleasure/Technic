@@ -1243,6 +1243,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Mekanism"
         installtype: "zip"
         versions:
+            v5.0.10:
             v5.0.8:
             v5.0.2_r2:
             v5.0.2:
@@ -1256,6 +1257,7 @@ mods:
         description: "Component of Mekanism"
         installtype: "zip"
         versions:
+            v5.0.10:
             v5.0.8:
             v5.0.2_r2:
             v5.0.2:
@@ -1269,6 +1271,7 @@ mods:
         description: "Component of Mekanism"
         installtype: "zip"
         versions:
+            v5.0.10:
             v5.0.8:
             v5.0.2_r2:
             v5.0.2:
