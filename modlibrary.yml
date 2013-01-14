@@ -1153,6 +1153,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Assembly_Line"
         installtype: "zip"
         versions:
+            v0.2.3.57:
             v0.2.2.44:
             v0.2.1.40:
             v0.2.0.38:
