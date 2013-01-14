@@ -1182,6 +1182,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Basic_Components"
         installtype: "zip"
         versions:
+            v1.2.3.331:
             v1.2.2.327:
             v1.2.1.317:
             v1.1.3.278:
