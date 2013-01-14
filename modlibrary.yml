@@ -1286,6 +1286,7 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1292"
         installtype: "zip"
         versions:
+            v2.2.8.3.5:
             v2.2.8.2.16:
             v2.2.8.2.13:
             v2.2.8.1.7:
