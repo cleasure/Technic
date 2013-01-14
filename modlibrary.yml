@@ -1193,6 +1193,14 @@ mods:
         installtype: "zip"
         versions:
             v2.2.1:
+    ue-blastcraft:
+        name: "BlastCraft"
+        author: "cammygames"
+        description: "Blastcraft will blow your mind (no pun intended)! Blastcraft is a mod designed specifcaly to protect players from various types of explosions and those pesky creepers. Having a hard time building defenses against griefing players, ICBM attacks and from creepers? Well this mod is for you!"
+        link: "http://universalelectricity.com/?m=blastcraft"
+        installtype: "zip"
+        versions:
+            v0.6.1.17:
     ue-electricexpansion:
         name: "Electric Expansion"
         author: "Mattredsox and Alex_Hawks"
