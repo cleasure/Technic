@@ -1,7 +1,7 @@
 launcher: 
 current: 
 recommended: 1.0.8
-latest: 1.0.8
+latest: 1.0.9
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,6 +11,28 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    1.0.9:
+        minecraft: 1.4.7
+        forge: 497
+        mods:
+            basemods: voltz-v1.0.9
+            codechickencore: v0.7.0.1
+            inventorytweaks: v1.46
+            nei: v1.4.4.0
+            rc: v6.14.0.0
+            reisminimap: v3.2_06
+            ue-assemblyline: v0.2.3.57
+            ue-atomicscience: v0.3.3.130
+            ue-basiccomponents: v1.2.3.331
+            ue-blastcraft: v0.6.1.23
+            ue-electricexpansion: v1.3.2
+            ue-icbm: v1.0.2.126
+            ue-mekanism: v5.0.11
+            ue-mekanismgenerators: v5.0.11
+            ue-mekanismtools: v5.0.11
+            ue-mffs: v2.2.8.3.5
+            ue-mps: v0.0.31
+            z-voltz-configs: v1.0.8
     1.0.8:
         minecraft: 1.4.7
         forge: 497
