@@ -259,6 +259,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/"
         installtype: "zip"
         versions:
+            v0.7.1.0:
             v0.7.0.2:
             v0.7.0.1:
             v0.7.0.0:
@@ -345,6 +346,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5204-core-5203-da-5204/"
         installtype: "zip"
         versions:
+            v52.1.6:
             v52.1.1:
             v52.0.6:
             v51.0.4:
@@ -538,6 +540,7 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=4827"
         installtype: "zip"
         versions:
+            v3.2.3.23:
             v3.2.0.21:
             v3.1.2.18:
             v3.1.2.17:
@@ -577,6 +580,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5208-core-5220-da-5207-infinitubes-021/"
         installtype: "zip"
         versions:
+            v52.2.4:
             v52.2.1:
             v52.1.0:
             v51.0.5:
@@ -603,6 +607,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/323444-inventory-tweaks-141b-mar-27/"
         optional: true
         versions:
+            v1.50:
             v1.49:
             v1.46:
             v1.45:
@@ -625,6 +630,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/981855-"
         installtype: "zip"
         versions:
+            v4.5.4.217:
             v4.5.2.213:
             v4.5.1.199:
             v4.4.0.186:
@@ -714,6 +720,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
         versions:
+            v2.0.7:
             v2.0.4:
             v2.0.1:
             v2.0.0:
@@ -789,6 +796,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/"
         installtype: "zip"
         versions:
+            v1.4.5.1:
             v1.4.5.0:
             v1.4.4.0:
             v1.4.3.4:
@@ -805,6 +813,7 @@ mods:
         name: "Not Enough Items"
         installtype: "zip"
         versions:
+            v1.0.4.5:
             v1.0.4.1:
             v1.0.3.6:
             v1.0.3.5:
@@ -841,6 +850,7 @@ mods:
         name: "NEI Thermal Expansion Plugin"
         installtype: "zip"
         versions:
+            v2.1.7:
             v2.1.6:
     netherores:
         name: "Nether Ores"
@@ -874,6 +884,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1378315-"
         installtype: "zip"
         versions:
+            v3.0.1:
             v2.2.5:
             v2.2.3:
     pfaeff:
@@ -889,6 +900,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v2.0.0:
             v1.3.4:
             v1.3.1_01:
             v1.3.0p2:
@@ -898,6 +910,7 @@ mods:
         description: "The Core mod for all Powercrystals related mods"
         installtype: "zip"
         versions:
+            v1.0.1:
             v1.0.0:
     rc:
         name: "Railcraft"
@@ -1030,6 +1043,7 @@ mods:
         name: "Steve's Carts"
         installtype: "zip"
         versions:
+            v2.0.0.a47:
             v2.0.0.a42:
             v2.0.0.a41:
             v2.0.0.a40:
@@ -1065,6 +1079,7 @@ mods:
         wiki: "http://thermalexpansion.wikispaces.com/"
         installtype: "zip"
         versions:
+            v2.1.7:
             v2.1.6:
             v2.1.5:
             v2.1.4:
@@ -1110,6 +1125,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1001131-"
         installtype: "zip"
         versions:
+            v52.1.2:
             v52.0.8:
             v52.0.7:
             v51.0.3:
