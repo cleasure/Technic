@@ -107,7 +107,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/211517-146forge-balkons-weaponmod-v110/"
         installtype: "zip"
         versions:
-            v1.10-1.4.6:
+            v1.10_1.4.6:
             v1.10:
             v8.6:
             v8.5:
