@@ -1235,6 +1235,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Electric_Expansion"
         installtype: "zip"
         versions:
+            v1.3.8:
             v1.3.2:
             v1.2.6:
             v1.2.5:
