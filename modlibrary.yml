@@ -1265,6 +1265,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/ICBM"
         installtype: "zip"
         versions:
+            v1.0.3.129:
             v1.0.2.126:
             v1.0.2.125:
             v1.0.1.123:
