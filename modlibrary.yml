@@ -1280,6 +1280,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Mekanism"
         installtype: "zip"
         versions:
+            v5.2.0:
             v5.0.11:
             v5.0.10:
             v5.0.8:
@@ -1295,6 +1296,7 @@ mods:
         description: "Component of Mekanism"
         installtype: "zip"
         versions:
+            v5.2.0:
             v5.0.11:
             v5.0.10:
             v5.0.8:
@@ -1310,6 +1312,7 @@ mods:
         description: "Component of Mekanism"
         installtype: "zip"
         versions:
+            v5.2.0:
             v5.0.11:
             v5.0.10:
             v5.0.8:
@@ -1337,6 +1340,7 @@ mods:
         link: "http://universalelectricity.com/?m=modular_powersuits"
         installtype: "zip"
         versions:
+            v0.1.43:
             v0.0.31:
     ue-powertools:
         name: "Power Tools"
