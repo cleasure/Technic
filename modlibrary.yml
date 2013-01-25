@@ -1244,6 +1244,14 @@ mods:
             v1.0.3:
             v1.0.2:
             v0.4.0:
+    ue-fluidmechanics:
+        name: "Fluid Mechanics"
+        author: "DarkGuardsman"
+        description: "Fluid Mechanics is a mod all about liqiuid and liquid trnasportations. The mod adds various types of pipes as well as tank storage and pumps. Fluid Mechanics hopes to bring a diverse way for you to transport all types of liquid as well as to store them. It is recommend to get a mod like Steam Power, RailCraft, Atomic Science, or other mods as a complementry to this mod."
+        link: "http://universalelectricity.com/?m=fluid_mechanics"
+        installtype: "zip"
+        versions:
+            v0.2.6.14:
     ue-hawksmachinery:
         name: "Hawks Machinery"
         installtype: "zip"
