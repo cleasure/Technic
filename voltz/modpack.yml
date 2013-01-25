@@ -11,6 +11,29 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    1.0.10:
+        minecraft: 1.4.7
+        forge: 497
+        mods:
+            basemods: voltz-v1.0.10
+            codechickencore: v0.7.1.0
+            inventorytweaks: v1.46
+            nei: v1.4.5.1
+            rc: v6.14.0.0
+            reisminimap: v3.2_06
+            ue-assemblyline: v0.2.4.61
+            ue-atomicscience: v0.3.4.134
+            ue-basiccomponents: v1.2.4.335
+            ue-blastcraft: v0.6.1.25
+            ue-electricexpansion: v1.3.8
+            ue-fluidmechanics: v0.2.6.14
+            ue-icbm: v1.0.3.129
+            ue-mekanism: v5.2.0
+            ue-mekanismgenerators: v5.2.0
+            ue-mekanismtools: v5.2.0
+            ue-mffs: v2.2.8.3.5
+            ue-mps: v0.1.43
+            z-voltz-configs: v1.0.10
     1.0.9:
         minecraft: 1.4.7
         forge: 497
