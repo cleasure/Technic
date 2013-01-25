@@ -1223,6 +1223,7 @@ mods:
         link: "http://universalelectricity.com/?m=blastcraft"
         installtype: "zip"
         versions:
+            v0.6.1.25:
             v0.6.1.23:
             v0.6.1.19:
             v0.6.1.17:
