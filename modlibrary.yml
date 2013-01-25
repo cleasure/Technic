@@ -1173,6 +1173,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Assembly_Line"
         installtype: "zip"
         versions:
+            v0.2.4.61:
             v0.2.3.57:
             v0.2.2.44:
             v0.2.1.40:
@@ -1188,6 +1189,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Main_Page"
         installtype: "zip"
         versions:
+            v0.3.4.134:
             v0.3.3.130:
             v0.3.2.127:
             v0.3.1.123:
@@ -1202,6 +1204,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Basic_Components"
         installtype: "zip"
         versions:
+            v1.2.4.335:
             v1.2.3.331:
             v1.2.2.327:
             v1.2.1.317:
