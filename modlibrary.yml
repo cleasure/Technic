@@ -1180,6 +1180,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Assembly_Line"
         installtype: "zip"
         versions:
+            v0.2.4.62:
             v0.2.4.61:
             v0.2.3.57:
             v0.2.2.44:
@@ -1242,6 +1243,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Electric_Expansion"
         installtype: "zip"
         versions:
+            v1.3.9:
             v1.3.8:
             v1.3.2:
             v1.2.6:
@@ -1336,6 +1338,7 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=1292"
         installtype: "zip"
         versions:
+            v2.2.8.3.6:
             v2.2.8.3.5:
             v2.2.8.2.16:
             v2.2.8.2.13:
@@ -1507,6 +1510,7 @@ mods:
         name: "Voltz Configs"
         installtype: "zip"
         versions:
+            v1.0.11:
             v1.0.10:
             v1.0.8:
             v1.0.4:
