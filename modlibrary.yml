@@ -58,6 +58,7 @@ mods:
             tekkit-v3.0.0-smooth:
             tekkit-v3.0.0:
             tekkit-v2.0:
+            tekkitlite-v0.5.4:
             tekkitlite-v0.5.3:
             tekkitlite-v0.5.2:
             tekkitlite-v0.5.1:
@@ -477,6 +478,7 @@ mods:
         modtype: "content"
         link: "http://www.industrial-craft.net/"
         versions:
+            v1.112.199:
             v1.112.170:
             v1.110.137:
             v1.109.113:
@@ -557,6 +559,7 @@ mods:
         link: "http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915"
         installtype: "zip"
         versions:
+            v1.4.6:
             v1.4.5:
             v1.4.4b:
             v1.4.3:
@@ -722,6 +725,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
         versions:
+            v2.0.8:
             v2.0.7:
             v2.0.4:
             v2.0.1:
@@ -862,6 +866,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-"
         versions:
+            v2.0.3:
             v2.0.2:
             v1.4.6:
             v1.4.2:
@@ -1045,6 +1050,7 @@ mods:
         name: "Steve's Carts"
         installtype: "zip"
         versions:
+            v2.0.0.a48:
             v2.0.0.a47:
             v2.0.0.a42:
             v2.0.0.a41:
@@ -1341,6 +1347,7 @@ mods:
         link: "http://universalelectricity.com/?m=modular_powersuits"
         installtype: "zip"
         versions:
+            v0.2.0.23:
             v0.1.43:
             v0.0.31:
     ue-powertools:

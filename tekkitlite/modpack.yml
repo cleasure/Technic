@@ -1,7 +1,7 @@
 launcher: 
 current: 
 recommended: 0.5.2
-latest: 0.5.3
+latest: 0.5.4
 lib-1: &lib-1
     commons-io: 2.1
     commons-lang3: 3.1
@@ -11,6 +11,52 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    0.5.4:
+        minecraft: 1.4.7
+        forge: 509
+        mods:
+            basemods: tekkitlite-v0.5.4
+            balkonsweaponmod: v1.10_1.4.6
+            buildcraft: v3.4.0
+            buildcraft-additionalpipes: v2.1.3.u40
+            buildcraft-logisticspipes: v0.7.0.75
+            codechickencore: v0.7.1.0
+            computercraft: v1.481
+            dimanchor: v52.1.6
+            ee3: vpre1f
+            enderstorage: v1.3.1.1
+            factorization: v0.7.10
+            ic2-advancedmachines: v4.7
+            ic2-advancedpowermanagement: v1.1.55
+            ic2-advancedrepulsionsystems: v52.0.4
+            ic2-compactsolars: v3.2.3.23
+            ic2-nuclearcontrol: v1.4.6
+            ic2-transformers: v1.7b
+            ic2: v1.112.199
+            immibiscore: v52.2.4
+            inventorytweaks: v1.50
+            ironchests: v4.5.4.217
+            mfr: v2.0.8
+            mystcraft: v0.9.5.00
+            nei: v1.4.5.1
+            nei-plugins: v1.0.4.5
+            nei-redpower: v1.4.3
+            nei-thermalexpansion: v2.1.7
+            netherores: v2.0.3
+            omnitools: v3.0.1
+            powerconverters: v2.0.0
+            powercrystalscore: v1.0.1
+            redpower: v2.0.6
+            reisminimap: v3.2_06
+            stevescarts: v2.0.0.a48
+            thermalexpansion: v2.1.7
+            treecapitator: v1.4.6.r03
+            tubestuff: v52.1.2
+            ue-mps: v0.2.0.23
+            wrcbe: v1.3.2.4
+            wrcbe-addons: v1.3.2.4
+            wrcbe-redpower: v1.3.2.4
+            z-tekkitlite-configs: v0.5.3
     0.5.3:
         minecraft: 1.4.7
         forge: 499
