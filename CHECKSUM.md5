@@ -71,7 +71,7 @@ A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.1\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.1\gui\gui.png
 A6903CFC0B61C251F136C87E95D6D50B|modfixes\GuiAPI\1.2.5\font\default.png
 52713017DBBE0A5B22FB2064130F6500|modfixes\GuiAPI\1.2.5\gui\gui.png
-399AFE4734F917343FD9D18803B9579F|modlibrary.yml
+1A23BC064DA11D2A37E8C896AE50F641|modlibrary.yml
 E655BD6BCD7EAAB89B92D2C7C0AAEF4A|modpacks.yml
 C9E0AE7100AF5FFD25E672FD1DBCB8A0|mods\adventureitems\adventureitems-v1.1.zip
 EF236C5E65D3E67278333808C2FDD089|mods\adventureitems\adventureitems-v1.2.3.zip
@@ -198,6 +198,7 @@ F8D3F43F823F9B61A85DDE9EAC8D443B|mods\buildcraft\buildcraft-v3.1.8.zip
 A72048036FB6AABF3EA177471A1697F3|mods\buildcraft\buildcraft-v3.2.2.zip
 5CCD139F11806E0A563C953D1DD130BC|mods\buildcraft\buildcraft-v3.3.0.zip
 B7C8CE13396BEC3BD4BD0C4894F7A32B|mods\buildcraft\buildcraft-v3.4.0.zip
+7D54830AFD9CA3D340B4F51424AF96BB|mods\buildcraft\buildcraft-v3.4.2.zip
 60CFFA10C45A3C8E743818A6195E320A|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v2.1.3.u28.b2.zip
 716166953A7D5C107CCD7191C75645BD|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v2.1.3.u35.zip
 046938369B9B433A032CBEFC1D99D2AA|mods\buildcraft-additionalpipes\buildcraft-additionalpipes-v2.1.3.u36.zip
@@ -657,6 +658,7 @@ C48E9194A915A78F8948A1A968D2234D|mods\thermalexpansion\thermalexpansion-v2.1.4.z
 476165BC50030445E507A5A2F96D4994|mods\thermalexpansion\thermalexpansion-v2.1.5.zip
 F40806B544C6B40F4EEDCC9B0993BA30|mods\thermalexpansion\thermalexpansion-v2.1.6.zip
 7A369252644F464C64C8A87DAD2F1D4F|mods\thermalexpansion\thermalexpansion-v2.1.7.zip
+54F58C09342349997F652F6061CB7A86|mods\thermalexpansion\thermalexpansion-v2.2.0.zip
 EF5DF8BBAE85E6084E23CB9527FA646F|mods\tok\tok-v1.3.0.2.zip
 DD7A9BA0B782D145909E099DB54C7EB3|mods\tok\tok-v1.3.0.3.zip
 C91E193FF1F48BD199DAFE19397084E8|mods\tomes\tomes-ssp-1.2.5.zip
@@ -770,6 +772,7 @@ BAE1CAD259151DB0652E981BDFED436B|mods\ue-mffs\ue-mffs-v2.2.8.3.6.zip
 BE83D219043BBDB76D912D76EEA1D585|mods\ue-mps\ue-mps-v0.0.31.zip
 6542F50520223B5D862EA34EF7BEBA14|mods\ue-mps\ue-mps-v0.1.43.zip
 7D57F1EE57585BBEB43CDFC28C6F6083|mods\ue-mps\ue-mps-v0.2.0.23.zip
+142AF5AF746E1398BE7064F48171B9AB|mods\ue-mps\ue-mps-v0.2.0.29.zip
 387A5DF7DB6B582A5BF784D79B743BDA|mods\ue-powertools\ue-powertools-v1.1.3.5.zip
 7598B4384F16F0CD72C41DDDBB63ECC4|mods\ue-powertools\ue-powertools-v1.1.4.6.zip
 96AF909CC2A884D24CFD8F0A7DD26087|mods\voxelflight\voxelflight-1.4.2_mc1.3.2.zip
@@ -957,6 +960,7 @@ A7AFCDE942717B2474A9A441AEDC8701|Patches\Minecraft\minecraft_b1.8.1-b1.8.patch
 0963B7E32907EAA2F44BEDF943B61CB4|servers\tekkitlite\Tekkit_Lite_Server_0.5.2.zip
 3493A1C18BD92D9BC9649C9478DE5869|servers\tekkitlite\Tekkit_Lite_Server_0.5.3.zip
 0E93B28D36F839130BDD66C1023CFA54|servers\tekkitlite\Tekkit_Lite_Server_0.5.4.zip
+7C40E56ECA9493B408E46E4F526071F1|servers\tekkitlite\Tekkit_Lite_Server_0.5.5.zip
 8ADA3E9B046C64FA2753C3DCAE078573|servers\voltz\Voltz_Server_v1.0.1.zip
 38AEFA1CB438B82312705C8B8F6242E8|servers\voltz\Voltz_Server_v1.0.10.zip
 EDA10DDDB242A854B9E2DE4D34EA29B3|servers\voltz\Voltz_Server_v1.0.11.zip
@@ -990,7 +994,7 @@ AB01849A4C1C550804E718C2341C0BCC|tekkit\resources\icon.icns
 1DB1857730E6E58158ED42DBD5273C0A|tekkit\resources\icon.png
 980887BBFA9FBFBF697C567C0A368937|tekkit\resources\logo.png
 4F5F969E01E1FBD4F99756A3EB3AE7F7|tekkit\resources\logo_180.png
-7D9B08AB8C44B4FFC0136E9BFC38308C|tekkitlite\modpack.yml
+8464964B8A73C8029766B0B84AB0BDC5|tekkitlite\modpack.yml
 1FA7A59E85AD2D9332F6336019B23507|tekkitlite\resources\favicon.png
 AB01849A4C1C550804E718C2341C0BCC|tekkitlite\resources\icon.icns
 6B5021D8EFB22DEEFD50EA94EE144ED0|tekkitlite\resources\icon.ico

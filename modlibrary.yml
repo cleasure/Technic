@@ -142,6 +142,7 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.4.2:
             v3.4.0:
             v3.3.0:
             v3.2.2:
@@ -1087,6 +1088,7 @@ mods:
         wiki: "http://thermalexpansion.wikispaces.com/"
         installtype: "zip"
         versions:
+            v2.2.0:
             v2.1.7:
             v2.1.6:
             v2.1.5:
@@ -1350,6 +1352,7 @@ mods:
         link: "http://universalelectricity.com/?m=modular_powersuits"
         installtype: "zip"
         versions:
+            v0.2.0.29:
             v0.2.0.23:
             v0.1.43:
             v0.0.31:
