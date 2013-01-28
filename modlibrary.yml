@@ -861,11 +861,11 @@ mods:
             v2.1.6:
     netherores:
         name: "Nether Ores"
-        author: "TehKrush"
+        author: "Powercrystals"
         description: "This is a fairly basic mod. It makes the eight 'ores' - coal, diamond, gold, iron, lapis, redstone, sopper and tin - spawn in the nether so that you have a reason to go there."
         installtype: "zip"
         modtype: "content"
-        link: "http://www.minecraftforum.net/topic/554413-"
+        link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
             v2.0.3:
             v2.0.2:
@@ -902,9 +902,9 @@ mods:
             v1.1:
     powerconverters:
         name: "Power Converters"
-        author: "AtomicStryker"
+        author: "Powercrystals"
         description: "Easy power conversion between Buildcraft and IC2!"
-        link: "http://atomicstryker.net/maintainedmods.html"
+        link: "http://www.minecraftforum.net/topic/1629898-"
         installtype: "zip"
         modtype: "content"
         versions:
@@ -916,6 +916,7 @@ mods:
         name: "Powercrystals Core"
         author: "Powercrystals"
         description: "The Core mod for all Powercrystals related mods"
+        link: "http://www.minecraftforum.net/topic/1629898-"
         installtype: "zip"
         versions:
             v1.0.1:
