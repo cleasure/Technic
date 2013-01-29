@@ -58,6 +58,7 @@ mods:
             tekkit-v3.0.0-smooth:
             tekkit-v3.0.0:
             tekkit-v2.0:
+            tekkitlite-v0.5.6:
             tekkitlite-v0.5.4:
             tekkitlite-v0.5.3:
             tekkitlite-v0.5.2:
@@ -343,6 +344,14 @@ mods:
             v1.4.3:
             v1.4.1:
             v1.4:
+    customport:
+        name: "Custom LAN Ports"
+        author: "CptHunter"
+        description: "This mod allows for you to enter a custom port, IP, and MOTD! I did not stop there. I saw the opportunity to add more features, and I did. Now you can edit almost everything you could edit on a normal, vanilla, server! I also added some basic options to get your LAN feeling a bit more like a real server. It's like starting a server, but with your own Single Player worlds, and with your own Single Player mods."
+        link: "http://www.minecraftforum.net/topic/1572017-"
+        installtype: "zip"
+        versions:
+            v2.0:
     dimanchor:
         name: "Dimensional Anchors"
         author: "immibis"
@@ -479,6 +488,7 @@ mods:
         modtype: "content"
         link: "http://www.industrial-craft.net/"
         versions:
+            v1.115.208:
             v1.112.199:
             v1.112.170:
             v1.110.137:
@@ -867,6 +877,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
+            v2.0.4:
             v2.0.3:
             v2.0.2:
             v1.4.6:
@@ -908,6 +919,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v2.1.1:
             v2.0.0:
             v1.3.4:
             v1.3.1_01:
@@ -1353,6 +1365,7 @@ mods:
         link: "http://universalelectricity.com/?m=modular_powersuits"
         installtype: "zip"
         versions:
+            v0.2.0.42:
             v0.2.0.29:
             v0.2.0.23:
             v0.1.43:
@@ -1552,6 +1565,7 @@ mods:
         name: "Tekkit Lite Configs"
         installtype: "zip"
         versions:
+            v0.5.6:
             v0.5.3:
             v0.5.2:
             v0.5.1:
