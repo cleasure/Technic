@@ -64,6 +64,7 @@ mods:
             tekkitlite-v0.5.2:
             tekkitlite-v0.5.1:
             tekkitlite-v0.5.0:
+            voltz-v1.0.13:
             voltz-v1.0.12:
             voltz-v1.0.10:
             voltz-v1.0.9:
@@ -944,6 +945,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/701990-100-railcraft-221-forge-smp/"
         wiki: "http://railcraft.wikispaces.com/"
         versions:
+            v6.15.3.0:
             v6.15.0.0:
             v6.14.0.0:
             v6.13.1.0:
@@ -1198,6 +1200,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Assembly_Line"
         installtype: "zip"
         versions:
+            v0.2.5.75:
             v0.2.4.68:
             v0.2.4.62:
             v0.2.4.61:
@@ -1216,6 +1219,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Main_Page"
         installtype: "zip"
         versions:
+            v0.3.7.148:
             v0.3.5.137:
             v0.3.4.134:
             v0.3.3.130:
@@ -1232,6 +1236,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Basic_Components"
         installtype: "zip"
         versions:
+            v1.2.5.337:
             v1.2.4.335:
             v1.2.3.331:
             v1.2.2.327:
@@ -1251,6 +1256,7 @@ mods:
         link: "http://universalelectricity.com/?m=blastcraft"
         installtype: "zip"
         versions:
+            v0.6.1.29:
             v0.6.1.25:
             v0.6.1.23:
             v0.6.1.19:
@@ -1263,6 +1269,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Electric_Expansion"
         installtype: "zip"
         versions:
+            v1.4.2:
             v1.3.9:
             v1.3.8:
             v1.3.2:
@@ -1280,6 +1287,7 @@ mods:
         link: "http://universalelectricity.com/?m=fluid_mechanics"
         installtype: "zip"
         versions:
+            v0.2.7.16:
             v0.2.6.14:
     ue-hawksmachinery:
         name: "Hawks Machinery"
@@ -1294,6 +1302,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/ICBM"
         installtype: "zip"
         versions:
+            v1.0.4.140:
             v1.0.4.135:
             v1.0.3.129:
             v1.0.2.126:
@@ -1310,6 +1319,7 @@ mods:
         wiki: "http://wiki.universalelectricity.com/wiki/Mekanism"
         installtype: "zip"
         versions:
+            v5.2.3b2:
             v5.2.1:
             v5.2.0:
             v5.0.11:
@@ -1327,6 +1337,7 @@ mods:
         description: "Component of Mekanism"
         installtype: "zip"
         versions:
+            v5.2.3b2:
             v5.2.1:
             v5.2.0:
             v5.0.11:
@@ -1344,6 +1355,7 @@ mods:
         description: "Component of Mekanism"
         installtype: "zip"
         versions:
+            v5.2.3b2:
             v5.2.1:
             v5.2.0:
             v5.0.11:
@@ -1374,6 +1386,7 @@ mods:
         link: "http://machinemuse.net/index.php"
         installtype: "zip"
         versions:
+            v0.2.1.108:
             v0.2.0.42:
             v0.2.0.29:
             v0.2.0.23:
@@ -1536,6 +1549,7 @@ mods:
         name: "Voltz Configs"
         installtype: "zip"
         versions:
+            v1.0.13:
             v1.0.11:
             v1.0.10:
             v1.0.8:
