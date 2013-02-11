@@ -58,6 +58,7 @@ mods:
             tekkit-v3.0.0-smooth:
             tekkit-v3.0.0:
             tekkit-v2.0:
+            tekkitlite-v0.5.7:
             tekkitlite-v0.5.6:
             tekkitlite-v0.5.4:
             tekkitlite-v0.5.3:
@@ -176,6 +177,7 @@ mods:
         name: "Buildcraft Additional Pipes"
         installtype: "zip"
         versions:
+            v2.1.3.u42:
             v2.1.3.u40:
             v2.1.3.u38:
             v2.1.3.u36:
@@ -195,6 +197,7 @@ mods:
         name: "Buildcraft Logistic Pipes"
         installtype: "zip"
         versions:
+            v0.7.0.84:
             v0.7.0.81:
             v0.7.0.75:
             v0.6.9.51:
@@ -282,6 +285,15 @@ mods:
             v0.4.2:
             v0.4.4:
             v0.5.0:
+    cofhcore:
+        name: "CoFH Core"
+        author: "KingLemmingCoFH"
+        description: "Thermal Expansion, at its core, is a 'tech' mod - it's a mod of what ifs. For example, what if you could turn water into ice or snow with a machine? Or how about a machine that could combine lava and water however you choose? What if there were a wool that didn't burn? Or, what if you could set up advanced yet extremely compact production chains that didn't require redstone engines or complex pipe routing? If any of that interests you, then you may want to check this out."
+        link: "http://www.minecraftforum.net/topic/1297506-"
+        wiki: "http://thermalexpansion.wikispaces.com/"
+        installtype: "zip"
+        versions:
+            v1.4.7.0:
     computercraft:
         name: "ComputerCraft"
         author: "dan200"
@@ -362,6 +374,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5204-core-5203-da-5204/"
         installtype: "zip"
         versions:
+            v52.1.7:
             v52.1.6:
             v52.1.1:
             v52.0.6:
@@ -491,6 +504,7 @@ mods:
         modtype: "content"
         link: "http://www.industrial-craft.net/"
         versions:
+            v1.115.218:
             v1.115.208:
             v1.112.199:
             v1.112.170:
@@ -546,6 +560,7 @@ mods:
         description: ""
         installtype: "zip"
         versions:
+            v52.0.5:
             v52.0.4:
             v51.0.3:
             v51.0.1:
@@ -599,6 +614,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5208-core-5220-da-5207-infinitubes-021/"
         installtype: "zip"
         versions:
+            v52.4.0:
             v52.2.4:
             v52.2.1:
             v52.1.0:
@@ -648,7 +664,8 @@ mods:
         description: "IronChests adds several new chests to the game. One for each type of metal. You can even upgrade them!"
         link: "http://www.minecraftforum.net/topic/981855-"
         installtype: "zip"
-        versions:
+        versions:   
+            v5.0.1.246:
             v4.5.4.217:
             v4.5.2.213:
             v4.5.1.199:
@@ -906,9 +923,18 @@ mods:
         link: "http://www.minecraftforum.net/topic/1378315-"
         installtype: "zip"
         versions:
+            v3.0.2:
             v3.0.1:
             v2.2.5:
             v2.2.3:
+    openccsensors:
+        name: "OpenCCSensors"
+        author: "Cloudy and Mikee"
+        description: "OpenCCSensors is an open source add-on mod for ComputerCraft which gives your computers the ability to retrieve information about the area around them."
+        link: "http://www.computercraft.info/forums2/index.php?/topic/5996-"
+        installtype: "zip"
+        versions:
+            0.1.4:
     pfaeff:
         name: "Pfaeff's Mods"
         installtype: "zip"
@@ -1106,6 +1132,7 @@ mods:
         wiki: "http://thermalexpansion.wikispaces.com/"
         installtype: "zip"
         versions:
+            v2.2.1.0:
             v2.2.0:
             v2.1.7:
             v2.1.6:
@@ -1153,6 +1180,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1001131-"
         installtype: "zip"
         versions:
+            v52.2.0:
             v52.1.2:
             v52.0.8:
             v52.0.7:
@@ -1588,6 +1616,7 @@ mods:
         name: "Tekkit Lite Configs"
         installtype: "zip"
         versions:
+            v0.5.7:
             v0.5.6:
             v0.5.3:
             v0.5.2:
