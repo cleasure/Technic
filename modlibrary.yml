@@ -304,6 +304,7 @@ mods:
         modtype: "content"
         link: "http://www.computercraft.info/"
         versions:
+            v1.5:
             v1.481:
             v1.47:
             v1.46:
