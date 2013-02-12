@@ -758,6 +758,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
         versions:
+            v2.1.2:
             v2.0.8:
             v2.0.7:
             v2.0.4:
@@ -950,6 +951,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v2.2.0:
             v2.1.1:
             v2.0.0:
             v1.3.4:
@@ -1166,6 +1168,7 @@ mods:
         name: "Treecapitator"
         installtype: "zip"
         versions:
+            v1.4.6:r06:
             v1.4.6.r03:
             v1.4.6.r01:
             v1.4.5.r03:
