@@ -147,6 +147,7 @@ mods:
         modtype: "content"
         link: "http://www.mod-buildcraft.com/"
         versions:
+            v3.4.3:
             v3.4.2:
             v3.4.0:
             v3.3.0:
