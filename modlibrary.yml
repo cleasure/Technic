@@ -937,7 +937,7 @@ mods:
         link: "http://www.computercraft.info/forums2/index.php?/topic/5996-"
         installtype: "zip"
         versions:
-            0.1.4:
+            v0.1.4:
     pfaeff:
         name: "Pfaeff's Mods"
         installtype: "zip"
