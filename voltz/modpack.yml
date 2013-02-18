@@ -1,7 +1,7 @@
 launcher: 
 current: 
 recommended: 1.0.11
-latest: 1.0.13
+latest: 1.1.0
 url: http://www.technicpack.net/voltz
 lib-1: &lib-1
     commons-io: 2.1
@@ -12,6 +12,29 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    1.0.13:
+        minecraft: 1.4.7
+        forge: 524
+        mods:
+            basemods: voltz-v1.1.0
+            codechickencore: v0.7.1.0
+            inventorytweaks: v1.50
+            nei: v1.4.5.1
+            rc: v6.15.3.0
+            reisminimap: v3.2_06
+            ue-assemblyline: v0.2.7.82
+            ue-atomicscience: v0.3.8.154
+            ue-basiccomponents: v1.2.6.339
+            ue-blastcraft: v0.6.1.30
+            ue-electricexpansion: v1.4.6
+            ue-fluidmechanics: v0.2.7.18
+            ue-icbm: v1.0.5.166
+            ue-mekanism: v5.3.1
+            ue-mekanismgenerators: v5.3.1
+            ue-mekanismtools: v5.3.1
+            ue-mffs: v2.2.8.3.6
+            ue-mps: v0.2.2.139
+            z-voltz-configs: v1.1.0
     1.0.13:
         minecraft: 1.4.7
         forge: 524
