@@ -61,7 +61,7 @@ builds:
             wrcbe: v1.3.2.4
             wrcbe-addons: v1.3.2.4
             wrcbe-redpower: v1.3.2.4
-            z-tekkitlite-configs: v0.5.8
+            z-tekkitlite-configs: v0.6.0
     0.5.8.1:
         minecraft: 1.4.7
         forge: 524
