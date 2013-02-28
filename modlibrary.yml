@@ -59,6 +59,7 @@ mods:
             tekkit-v3.0.0-smooth:
             tekkit-v3.0.0:
             tekkit-v2.0:
+            tekkitlite-v0.6.0:
             tekkitlite-v0.5.9:
             tekkitlite-v0.5.8:
             tekkitlite-v0.5.7:
@@ -142,6 +143,13 @@ mods:
             v0.921:
             v0.92:
             v0.91:
+    bspkrscore:
+        name: "bspkrs Core"
+        author: "bspkrs"
+        description: "The core dependency mod for all bspkrs mods"
+        installtype: "zip"
+        versions:
+            v1.01:
     buildcraft:
         name: "BuildCraft"
         author: "SpaceToad/Krapht/SirSengir"
@@ -202,6 +210,7 @@ mods:
         name: "Buildcraft Logistic Pipes"
         installtype: "zip"
         versions:
+            v0.7.0.90:
             v0.7.0.89:
             v0.7.0.84:
             v0.7.0.81:
@@ -267,6 +276,7 @@ mods:
         name: "ChickenChunks"
         installtype: "zip"
         versions:
+            v1.3.1.0:
             v1.2.1.1:
             v1.2.1.0:
     codechickencore:
@@ -276,6 +286,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/"
         installtype: "zip"
         versions:
+            v0.7.3:
             v0.7.1.0:
             v0.7.0.2:
             v0.7.0.1:
@@ -389,6 +400,14 @@ mods:
             v51.0.4:
             v51.0.2:
             v3.2:
+    dimensionaldoors:
+        name: "Dimensional Doors"
+        author: "StevenRS11"
+        description: "This mod adds doors to Minecraft that open up to individual pocket Dimensions. In addition to these doors, it also adds several other features that help the player manipulate reality, forming rifts, linking dimensions, and even sending him to places they really should have never been."
+        link: "http://www.minecraftforum.net/topic/1650007-"
+        installtype: "zip"
+        versions:
+            v1.2.1.12:
     doorfix:
         name: "Door Fix"
         installtype: "zip"
@@ -458,6 +477,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1160665-closed-quiddity-modding/"
         installtype: "zip"
         versions:
+            v1.4.1.2:
             v1.3.1.1:
             v1.3.1.0:
             v1.3.0.4:
@@ -474,6 +494,14 @@ mods:
         versions:
             v0.7.10:
             v0.7.7:
+    flatbedrock:
+        name: "Flat Bedrock"
+        author: "Power Crystals"
+        description: "Changes the bedrock layer to be flat"
+        link: "http://www.minecraftforum.net/topic/1629898-"
+        installtype: "zip"
+        versions:
+            v1.0.3:
     floatingruins:
         name: "Floating Ruins"
         installtype: "zip"
@@ -512,6 +540,7 @@ mods:
         modtype: "content"
         link: "http://www.industrial-craft.net/"
         versions:
+            v1.115.229:
             v1.115.220:
             v1.115.218:
             v1.115.208:
@@ -569,6 +598,7 @@ mods:
         description: ""
         installtype: "zip"
         versions:
+            v52.0.6:
             v52.0.5:
             v52.0.4:
             v51.0.3:
@@ -623,6 +653,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5208-core-5220-da-5207-infinitubes-021/"
         installtype: "zip"
         versions:
+            v52.4.5:
             v52.4.4:
             v52.4.0:
             v52.2.4:
@@ -638,6 +669,14 @@ mods:
             v49.0.7:
             v49.0.4:
             v48.2.1:
+    immibismicroblocks:
+        name: "Immibis Microblocks"
+        author: "immibis"
+        description: "Core mod required for immibis mods"
+        link: "http://www.minecraftforum.net/topic/1001131-146-immibiss-mods-smp-tubestuff-5208-core-5220-da-5207-infinitubes-021/"
+        installtype: "zip"
+        versions:
+            v52.1.1:
     ingameinfo:
         name: "In Game Info"
         installtype: "zip"
@@ -675,6 +714,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/981855-"
         installtype: "zip"
         versions:
+            v5.1.0.260:
             v5.1.0.249:
             v5.0.1.246:
             v4.5.4.217:
@@ -767,6 +807,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/"
         versions:
+            v2.2.0.120:
             v2.1.3:
             v2.1.2:
             v2.0.8:
@@ -847,6 +888,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/909223-145146-smp-chickenbones-mods/"
         installtype: "zip"
         versions:
+            v1.4.7.0:
             v1.4.5.1:
             v1.4.5.0:
             v1.4.4.0:
@@ -890,6 +932,7 @@ mods:
         name: "NEI RedPower Plugin"
         installtype: "zip"
         versions:
+            v1.4.3.1:
             v1.4.3:
             v1.2.2.3:
     nei-thaumcraft:
@@ -911,6 +954,7 @@ mods:
         modtype: "content"
         link: "http://www.minecraftforum.net/topic/1629898-"
         versions:
+            v2.0.6.29:
             v2.0.5:
             v2.0.4:
             v2.0.3:
@@ -938,6 +982,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1378315-"
         installtype: "zip"
         versions:
+            v3.0.4:
             v3.0.2:
             v3.0.1:
             v2.2.5:
@@ -963,6 +1008,7 @@ mods:
         installtype: "zip"
         modtype: "content"
         versions:
+            v2.2.2.26:
             v2.2.1:
             v2.2.0:
             v2.1.1:
@@ -977,6 +1023,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1629898-"
         installtype: "zip"
         versions:
+            v1.0.3.33:
             v1.0.2:
             v1.0.1:
             v1.0.0:
@@ -1113,6 +1160,7 @@ mods:
         name: "Steve's Carts"
         installtype: "zip"
         versions:
+            v2.0.0.a60:
             v2.0.0.a58:
             v2.0.0.a48:
             v2.0.0.a47:
@@ -1183,6 +1231,7 @@ mods:
         name: "Treecapitator"
         installtype: "zip"
         versions:
+            v1.4.6.r07:
             v1.4.6.r06:
             v1.4.6.r03:
             v1.4.6.r01:
@@ -1200,6 +1249,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/1001131-"
         installtype: "zip"
         versions:
+            v52.3.2:
             v52.3.0:
             v52.2.0:
             v52.1.2:
@@ -1445,6 +1495,7 @@ mods:
         link: "http://machinemuse.net/index.php"
         installtype: "zip"
         versions:
+            v0.3.0.178:
             v0.2.2.144:
             v0.2.2.139:
             v0.2.1.118:
@@ -1536,6 +1587,7 @@ mods:
         link: "http://www.minecraftforum.net/topic/909223-"
         installtype: "zip"
         versions:
+            v1.3.2.8:
             v1.3.2.4:
             v1.3.2:
             v1.3.1.1:
@@ -1547,6 +1599,7 @@ mods:
         name: "WRCBE Addons"
         installtype: "zip"
         versions:
+            v1.3.2.8:
             v1.3.2.4:
             v1.3.2:
             v1.3.1.2:
@@ -1554,6 +1607,7 @@ mods:
         name: "WRCBE RedPower Addon"
         installtype: "zip"
         versions:
+            v1.3.2.8:
             v1.3.2.4:
             v1.3.2:
     xpbook:
@@ -1650,6 +1704,7 @@ mods:
         name: "Tekkit Lite Configs"
         installtype: "zip"
         versions:
+            v0.6.0:
             v0.5.8:
             v0.5.7:
             v0.5.6:
