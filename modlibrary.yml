@@ -310,6 +310,7 @@ mods:
         wiki: "http://thermalexpansion.wikispaces.com/"
         installtype: "zip"
         versions:
+            v1.4.7.3:
             v1.4.7.0:
     computercraft:
         name: "ComputerCraft"
