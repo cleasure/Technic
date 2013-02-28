@@ -1,7 +1,7 @@
 launcher: 
 current: 
 recommended: 0.5.7
-latest: 0.5.9
+latest: 0.6.0
 url: http://www.technicpack.net/tekkit-lite
 lib-1: &lib-1
     commons-io: 2.1
@@ -12,6 +12,59 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    0.6.0:
+        minecraft: 1.4.7
+        forge: 534
+        mods:
+            basemods: tekkitlite-v0.6.0
+            balkonsweaponmod: v1.10_1.4.6
+            bspkrscore: v1.01
+            buildcraft: v3.4.3
+            buildcraft-additionalpipes: v2.1.3.u42
+            buildcraft-logisticspipes: v0.7.0.90
+            chickenchunks: v1.3.1.0
+            cofhcore: v1.4.7.3
+            codechickencore: v0.7.3
+            computercraft: v1.5
+            customport: v2.0
+            dimanchor: v52.1.9
+            dimensionaldoors: v1.2.1.12
+            ee3: vpre1f
+            enderstorage: v1.4.1.2
+            factorization: v0.7.10
+            flatbedrock: v1.0.3
+            ic2-advancedmachines: v4.7
+            ic2-advancedpowermanagement: v1.1.55
+            ic2-advancedrepulsionsystems: v52.0.6
+            ic2-compactsolars: v3.2.3.23
+            ic2-nuclearcontrol: v1.4.6
+            ic2-transformers: v1.7b
+            ic2: v1.115.229
+            immibiscore: v52.4.5
+            inventorytweaks: v1.50
+            ironchests: v5.1.0.260
+            mfr: v2.2.0.120
+            mystcraft: v0.10.0.00
+            nei: v1.4.7.0
+            nei-plugins: v1.0.4.5
+            nei-redpower: v1.4.3.1
+            netherores: v2.0.6.29
+            omnitools: v3.0.4
+            openccsensors: v0.1.4
+            powerconverters: v2.2.2.26
+            powercrystalscore: v1.0.3.33
+            redpower: v2.0.6
+            reisminimap: v3.2_06
+            stevescarts: v2.0.0.a60
+            thermalexpansion: v2.2.1.0
+            treecapitator: v1.4.6.r07
+            tubestuff: v52.3.2
+            ue-mffs: v2.2.8.3.6
+            ue-mps: v0.3.0.178
+            wrcbe: v1.3.2.8
+            wrcbe-addons: v1.3.2.8
+            wrcbe-redpower: v1.3.2.8
+            z-tekkitlite-configs: v0.6.0
     0.5.9:
         minecraft: 1.4.7
         forge: 527
