@@ -6,6 +6,7 @@ mods:
         modtype: "content"
         link: ""
         versions:
+            hackslashmine-v0.6.4.2:
             hackslashmine-v0.6.4.1:
             hackslashmine-v0.6.4:
             hackslashmine-v0.6.0:
