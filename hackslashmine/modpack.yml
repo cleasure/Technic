@@ -1,7 +1,7 @@
 launcher: 
 current: 
-recommended: '0.6.4.4'
-latest: '0.6.4.4'
+recommended: '0.6.4.5'
+latest: '0.6.4.5'
 url: http://www.technicpack.net/hackslashmine
 lib-1: &lib-1
     commons-io: 2.1
@@ -12,6 +12,10 @@ lib-1: &lib-1
     snakeyaml: 1.9
     trove4j: 3.0.1
 builds:
+    '0.6.4.5':
+        minecraft: 1.2.3
+        mods:
+            basemods: hackslashmine-v0.6.4.5
     '0.6.4.4':
         minecraft: 1.2.3
         mods:
