@@ -6,6 +6,7 @@
   "minecraftArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
   "libraries": [
     {
+      "url": "http://mirror.technicpack.net/Technic/lib/",
       "name": "net.technicpack:legacywrapper:1.0-SNAPSHOT"
     },
     {
