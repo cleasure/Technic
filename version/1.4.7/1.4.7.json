@@ -8,7 +8,7 @@
   "libraries": [
     {
       "url": "http://mirror.technicpack.net/Technic/lib/",
-      "name": "net.technicpack:legacywrapper:1.0-SNAPSHOT"
+      "name": "net.technicpack:legacywrapper:1.1"
     },
     {
       "name": "net.sf.jopt-simple:jopt-simple:4.5"
